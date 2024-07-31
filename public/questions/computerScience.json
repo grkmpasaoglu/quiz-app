@@ -1,0 +1,1115 @@
+[
+    {
+        "question": "Hangi veri yapısı, son giren ilk çıkar prensibine göre çalışır?",
+        "answers": [
+            {
+                "text": "Yığın (Stack)",
+                "isCorrect": true
+            },
+            {
+                "text": "Kuyruk (Queue)",
+                "isCorrect": false
+            },
+            {
+                "text": "Bağlı Liste (Linked List)",
+                "isCorrect": false
+            },
+            {
+                "text": "Dizi (Array)",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi algoritma, her iki ucu da sırayla kontrol ederek sıralama yapar?",
+        "answers": [
+            {
+                "text": "Bubble Sort",
+                "isCorrect": true
+            },
+            {
+                "text": "Quick Sort",
+                "isCorrect": false
+            },
+            {
+                "text": "Merge Sort",
+                "isCorrect": false
+            },
+            {
+                "text": "Heap Sort",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi programlama dili, nesne yönelimli programlamayı destekler?",
+        "answers": [
+            {
+                "text": "Java",
+                "isCorrect": true
+            },
+            {
+                "text": "C",
+                "isCorrect": false
+            },
+            {
+                "text": "Fortran",
+                "isCorrect": false
+            },
+            {
+                "text": "Pascal",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi algoritma, en kısa yol hesaplaması yapmak için kullanılır?",
+        "answers": [
+            {
+                "text": "Dijkstra Algoritması",
+                "isCorrect": true
+            },
+            {
+                "text": "Bellman-Ford Algoritması",
+                "isCorrect": false
+            },
+            {
+                "text": "A* Algoritması",
+                "isCorrect": false
+            },
+            {
+                "text": "Floyd-Warshall Algoritması",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi veri yapısı, verilerin sıralı olarak tutulmasını sağlar ve ikili arama yapar?",
+        "answers": [
+            {
+                "text": "İkili Arama Ağacı (Binary Search Tree)",
+                "isCorrect": true
+            },
+            {
+                "text": "Küme (Set)",
+                "isCorrect": false
+            },
+            {
+                "text": "Hash Tablosu (Hash Table)",
+                "isCorrect": false
+            },
+            {
+                "text": "Dizi (Array)",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi ağ protokolü, web sayfalarının aktarımını sağlar?",
+        "answers": [
+            {
+                "text": "HTTP",
+                "isCorrect": true
+            },
+            {
+                "text": "FTP",
+                "isCorrect": false
+            },
+            {
+                "text": "SMTP",
+                "isCorrect": false
+            },
+            {
+                "text": "Telnet",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi veri tabanı yönetim sistemi ilişkisel veritabanı yönetimi sunar?",
+        "answers": [
+            {
+                "text": "MySQL",
+                "isCorrect": true
+            },
+            {
+                "text": "MongoDB",
+                "isCorrect": false
+            },
+            {
+                "text": "Redis",
+                "isCorrect": false
+            },
+            {
+                "text": "Cassandra",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi algoritma, verilerin sıralamasını en iyi şekilde sağlar ve çok büyük veri setlerinde etkilidir?",
+        "answers": [
+            {
+                "text": "Merge Sort",
+                "isCorrect": true
+            },
+            {
+                "text": "Bubble Sort",
+                "isCorrect": false
+            },
+            {
+                "text": "Insertion Sort",
+                "isCorrect": false
+            },
+            {
+                "text": "Selection Sort",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi programlama dili, web geliştirmede yaygın olarak kullanılır ve istemci tarafında çalışır?",
+        "answers": [
+            {
+                "text": "JavaScript",
+                "isCorrect": true
+            },
+            {
+                "text": "C++",
+                "isCorrect": false
+            },
+            {
+                "text": "Java",
+                "isCorrect": false
+            },
+            {
+                "text": "Ruby",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi algoritma, büyük veri kümelerinde elemanları sıralamak için en uygun zaman karmaşıklığına sahiptir?",
+        "answers": [
+            {
+                "text": "Quick Sort",
+                "isCorrect": true
+            },
+            {
+                "text": "Heap Sort",
+                "isCorrect": false
+            },
+            {
+                "text": "Merge Sort",
+                "isCorrect": false
+            },
+            {
+                "text": "Bubble Sort",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi veri yapısı, son giren ilk çıkar prensibine göre çalışır ve yığın yapısı olarak bilinir?",
+        "answers": [
+            {
+                "text": "Stack",
+                "isCorrect": true
+            },
+            {
+                "text": "Queue",
+                "isCorrect": false
+            },
+            {
+                "text": "Array",
+                "isCorrect": false
+            },
+            {
+                "text": "Linked List",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi veritabanı yönetim sistemi NoSQL veritabanı yönetimi sağlar?",
+        "answers": [
+            {
+                "text": "MongoDB",
+                "isCorrect": true
+            },
+            {
+                "text": "PostgreSQL",
+                "isCorrect": false
+            },
+            {
+                "text": "Oracle",
+                "isCorrect": false
+            },
+            {
+                "text": "MySQL",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi algoritma, dinamik programlama tekniği kullanarak problem çözer?",
+        "answers": [
+            {
+                "text": "Fibonacci Dizisi",
+                "isCorrect": true
+            },
+            {
+                "text": "Bubble Sort",
+                "isCorrect": false
+            },
+            {
+                "text": "Quick Sort",
+                "isCorrect": false
+            },
+            {
+                "text": "Merge Sort",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi programlama dili, web sunucularında yaygın olarak kullanılır ve sunucu tarafı kodlamasında etkilidir?",
+        "answers": [
+            {
+                "text": "PHP",
+                "isCorrect": true
+            },
+            {
+                "text": "HTML",
+                "isCorrect": false
+            },
+            {
+                "text": "CSS",
+                "isCorrect": false
+            },
+            {
+                "text": "JavaScript",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi programlama dili, mobil uygulama geliştirmede yaygın olarak kullanılır?",
+        "answers": [
+            {
+                "text": "Swift",
+                "isCorrect": true
+            },
+            {
+                "text": "Python",
+                "isCorrect": false
+            },
+            {
+                "text": "C#",
+                "isCorrect": false
+            },
+            {
+                "text": "Java",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi algoritma, graf üzerindeki en kısa yolu bulmak için kullanılır?",
+        "answers": [
+            {
+                "text": "Dijkstra Algoritması",
+                "isCorrect": true
+            },
+            {
+                "text": "Prim Algoritması",
+                "isCorrect": false
+            },
+            {
+                "text": "Kruskal Algoritması",
+                "isCorrect": false
+            },
+            {
+                "text": "Bellman-Ford Algoritması",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi veri yapısı, elemanları sıralı bir şekilde depolar ve ikili arama için kullanılır?",
+        "answers": [
+            {
+                "text": "İkili Arama Ağacı",
+                "isCorrect": true
+            },
+            {
+                "text": "Yığın",
+                "isCorrect": false
+            },
+            {
+                "text": "Kuyruk",
+                "isCorrect": false
+            },
+            {
+                "text": "Dizi",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi algoritma, verileri hızlı bir şekilde sıralamak için kullanılır ve genellikle bir böl ve fethet stratejisi uygular?",
+        "answers": [
+            {
+                "text": "Quick Sort",
+                "isCorrect": true
+            },
+            {
+                "text": "Merge Sort",
+                "isCorrect": false
+            },
+            {
+                "text": "Bubble Sort",
+                "isCorrect": false
+            },
+            {
+                "text": "Insertion Sort",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi veri yapısı, verileri FIFO (First In First Out) prensibine göre düzenler?",
+        "answers": [
+            {
+                "text": "Kuyruk (Queue)",
+                "isCorrect": true
+            },
+            {
+                "text": "Yığın (Stack)",
+                "isCorrect": false
+            },
+            {
+                "text": "Bağlı Liste (Linked List)",
+                "isCorrect": false
+            },
+            {
+                "text": "Dizi (Array)",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi programlama dili, bilimsel hesaplamalar ve veri analizi için yaygın olarak kullanılır?",
+        "answers": [
+            {
+                "text": "Python",
+                "isCorrect": true
+            },
+            {
+                "text": "Java",
+                "isCorrect": false
+            },
+            {
+                "text": "C++",
+                "isCorrect": false
+            },
+            {
+                "text": "C#",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi algoritma, büyük veri kümelerinde en iyi performansı sağlamak için tasarlanmıştır ve böl ve fethet stratejisini kullanır?",
+        "answers": [
+            {
+                "text": "Merge Sort",
+                "isCorrect": true
+            },
+            {
+                "text": "Quick Sort",
+                "isCorrect": false
+            },
+            {
+                "text": "Bubble Sort",
+                "isCorrect": false
+            },
+            {
+                "text": "Selection Sort",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi veri yapısı, düğümler arasında hızlı erişim sağlar ve dinamik olarak boyutlandırılabilir?",
+        "answers": [
+            {
+                "text": "Bağlı Liste (Linked List)",
+                "isCorrect": true
+            },
+            {
+                "text": "Dizi (Array)",
+                "isCorrect": false
+            },
+            {
+                "text": "Yığın (Stack)",
+                "isCorrect": false
+            },
+            {
+                "text": "Kuyruk (Queue)",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi programlama dili, hem istemci tarafında hem de sunucu tarafında çalışabilir?",
+        "answers": [
+            {
+                "text": "JavaScript",
+                "isCorrect": true
+            },
+            {
+                "text": "C++",
+                "isCorrect": false
+            },
+            {
+                "text": "Java",
+                "isCorrect": false
+            },
+            {
+                "text": "Ruby",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi veri tabanı yönetim sistemi, verileri tablo şeklinde organize eder ve SQL kullanır?",
+        "answers": [
+            {
+                "text": "MySQL",
+                "isCorrect": true
+            },
+            {
+                "text": "MongoDB",
+                "isCorrect": false
+            },
+            {
+                "text": "Redis",
+                "isCorrect": false
+            },
+            {
+                "text": "Cassandra",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi algoritma, sıralama işlemini minimum sayıda karşılaştırma yaparak gerçekleştirir?",
+        "answers": [
+            {
+                "text": "Heap Sort",
+                "isCorrect": true
+            },
+            {
+                "text": "Bubble Sort",
+                "isCorrect": false
+            },
+            {
+                "text": "Insertion Sort",
+                "isCorrect": false
+            },
+            {
+                "text": "Selection Sort",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi programlama dili, çoklu iş parçacığı (multithreading) ve paralel işlemeyi destekler?",
+        "answers": [
+            {
+                "text": "Java",
+                "isCorrect": true
+            },
+            {
+                "text": "Python",
+                "isCorrect": false
+            },
+            {
+                "text": "JavaScript",
+                "isCorrect": false
+            },
+            {
+                "text": "PHP",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi algoritma, kök düğümden başlayarak ağacın her düğümünü seviyelerine göre tarar?",
+        "answers": [
+            {
+                "text": "Breadth-First Search (BFS)",
+                "isCorrect": true
+            },
+            {
+                "text": "Depth-First Search (DFS)",
+                "isCorrect": false
+            },
+            {
+                "text": "Dijkstra Algoritması",
+                "isCorrect": false
+            },
+            {
+                "text": "Kruskal Algoritması",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi veri yapısı, verileri sıralı bir şekilde saklar ve arama işlemlerini hızlandırır?",
+        "answers": [
+            {
+                "text": "Küme (Set)",
+                "isCorrect": true
+            },
+            {
+                "text": "Yığın (Stack)",
+                "isCorrect": false
+            },
+            {
+                "text": "Kuyruk (Queue)",
+                "isCorrect": false
+            },
+            {
+                "text": "Bağlı Liste (Linked List)",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi veri yapısı, dinamik olarak boyutlandırılabilir ve hızlı ekleme/çıkarma işlemleri sağlar?",
+        "answers": [
+            {
+                "text": "Bağlı Liste (Linked List)",
+                "isCorrect": true
+            },
+            {
+                "text": "Dizi (Array)",
+                "isCorrect": false
+            },
+            {
+                "text": "Yığın (Stack)",
+                "isCorrect": false
+            },
+            {
+                "text": "Kuyruk (Queue)",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi algoritma, iki ayrılmış diziyi sıralar ve birleştirir?",
+        "answers": [
+            {
+                "text": "Merge Sort",
+                "isCorrect": true
+            },
+            {
+                "text": "Quick Sort",
+                "isCorrect": false
+            },
+            {
+                "text": "Heap Sort",
+                "isCorrect": false
+            },
+            {
+                "text": "Bubble Sort",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi veri yapısı, verileri belirli bir anahtar altında saklar ve hızlı erişim sağlar?",
+        "answers": [
+            {
+                "text": "Hash Tablosu (Hash Table)",
+                "isCorrect": true
+            },
+            {
+                "text": "Küme (Set)",
+                "isCorrect": false
+            },
+            {
+                "text": "Dizi (Array)",
+                "isCorrect": false
+            },
+            {
+                "text": "Bağlı Liste (Linked List)",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi programlama dili, hem nesne yönelimli hem de işlevsel programlamayı destekler?",
+        "answers": [
+            {
+                "text": "Scala",
+                "isCorrect": true
+            },
+            {
+                "text": "C++",
+                "isCorrect": false
+            },
+            {
+                "text": "Java",
+                "isCorrect": false
+            },
+            {
+                "text": "Python",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi algoritma, dinamik programlama tekniği kullanarak en kısa yolu bulur?",
+        "answers": [
+            {
+                "text": "Bellman-Ford Algoritması",
+                "isCorrect": true
+            },
+            {
+                "text": "Dijkstra Algoritması",
+                "isCorrect": false
+            },
+            {
+                "text": "Floyd-Warshall Algoritması",
+                "isCorrect": false
+            },
+            {
+                "text": "A* Algoritması",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi algoritma, kök düğümden başlayarak ağacın her düğümünü tarar ve derinlemesine araştırma yapar?",
+        "answers": [
+            {
+                "text": "Depth-First Search (DFS)",
+                "isCorrect": true
+            },
+            {
+                "text": "Breadth-First Search (BFS)",
+                "isCorrect": false
+            },
+            {
+                "text": "Dijkstra Algoritması",
+                "isCorrect": false
+            },
+            {
+                "text": "Kruskal Algoritması",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi programlama dili, hem sistem hem de uygulama yazılımı geliştirmede kullanılır?",
+        "answers": [
+            {
+                "text": "C",
+                "isCorrect": true
+            },
+            {
+                "text": "Python",
+                "isCorrect": false
+            },
+            {
+                "text": "Java",
+                "isCorrect": false
+            },
+            {
+                "text": "Ruby",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi algoritma, en küçük birinci düğümden en büyük ikinci düğüme doğru ilerler?",
+        "answers": [
+            {
+                "text": "Selection Sort",
+                "isCorrect": true
+            },
+            {
+                "text": "Bubble Sort",
+                "isCorrect": false
+            },
+            {
+                "text": "Insertion Sort",
+                "isCorrect": false
+            },
+            {
+                "text": "Quick Sort",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi algoritma, her iki ucundan başlayarak sıralama yapar ve en iyi performansı sağlar?",
+        "answers": [
+            {
+                "text": "Merge Sort",
+                "isCorrect": true
+            },
+            {
+                "text": "Bubble Sort",
+                "isCorrect": false
+            },
+            {
+                "text": "Selection Sort",
+                "isCorrect": false
+            },
+            {
+                "text": "Insertion Sort",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi veri yapısı, FIFO prensibine göre çalışır ve elemanları sırayla ekler ve çıkarır?",
+        "answers": [
+            {
+                "text": "Kuyruk (Queue)",
+                "isCorrect": true
+            },
+            {
+                "text": "Yığın (Stack)",
+                "isCorrect": false
+            },
+            {
+                "text": "Dizi (Array)",
+                "isCorrect": false
+            },
+            {
+                "text": "Bağlı Liste (Linked List)",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi programlama dili, veri bilimi ve makine öğrenmesi için yaygın olarak kullanılır?",
+        "answers": [
+            {
+                "text": "Python",
+                "isCorrect": true
+            },
+            {
+                "text": "Java",
+                "isCorrect": false
+            },
+            {
+                "text": "C++",
+                "isCorrect": false
+            },
+            {
+                "text": "JavaScript",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi veri tabanı yönetim sistemi, büyük veri setleri için yüksek performanslı sorgular sağlar?",
+        "answers": [
+            {
+                "text": "PostgreSQL",
+                "isCorrect": true
+            },
+            {
+                "text": "MongoDB",
+                "isCorrect": false
+            },
+            {
+                "text": "SQLite",
+                "isCorrect": false
+            },
+            {
+                "text": "Redis",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi algoritma, en kısa yol hesaplamasında ağırlıksız graf kullanır?",
+        "answers": [
+            {
+                "text": "Breadth-First Search (BFS)",
+                "isCorrect": true
+            },
+            {
+                "text": "Dijkstra Algoritması",
+                "isCorrect": false
+            },
+            {
+                "text": "Bellman-Ford Algoritması",
+                "isCorrect": false
+            },
+            {
+                "text": "Floyd-Warshall Algoritması",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi veri yapısı, anahtar-değer çiftleri şeklinde veri saklar ve hızlı erişim sağlar?",
+        "answers": [
+            {
+                "text": "Hash Tablosu",
+                "isCorrect": true
+            },
+            {
+                "text": "Dizi",
+                "isCorrect": false
+            },
+            {
+                "text": "Kuyruk",
+                "isCorrect": false
+            },
+            {
+                "text": "Bağlı Liste",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi algoritma, sıralama işlemi sırasında verileri sürekli olarak karşılaştırır ve değiştirir?",
+        "answers": [
+            {
+                "text": "Bubble Sort",
+                "isCorrect": true
+            },
+            {
+                "text": "Selection Sort",
+                "isCorrect": false
+            },
+            {
+                "text": "Insertion Sort",
+                "isCorrect": false
+            },
+            {
+                "text": "Quick Sort",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi algoritma, verilerin sıralama işlemini bir dizi küçük parçaya ayırarak yapar?",
+        "answers": [
+            {
+                "text": "Merge Sort",
+                "isCorrect": true
+            },
+            {
+                "text": "Quick Sort",
+                "isCorrect": false
+            },
+            {
+                "text": "Bubble Sort",
+                "isCorrect": false
+            },
+            {
+                "text": "Heap Sort",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi programlama dili, uygulama geliştirme ve oyun programlama için kullanılır?",
+        "answers": [
+            {
+                "text": "C#",
+                "isCorrect": true
+            },
+            {
+                "text": "JavaScript",
+                "isCorrect": false
+            },
+            {
+                "text": "Python",
+                "isCorrect": false
+            },
+            {
+                "text": "Ruby",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi veri yapısı, sıralı ve dinamik olarak boyutlandırılabilir veri saklama sağlar?",
+        "answers": [
+            {
+                "text": "Bağlı Liste (Linked List)",
+                "isCorrect": true
+            },
+            {
+                "text": "Dizi (Array)",
+                "isCorrect": false
+            },
+            {
+                "text": "Yığın (Stack)",
+                "isCorrect": false
+            },
+            {
+                "text": "Kuyruk (Queue)",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi algoritma, verileri sıralarken en küçük elemanı bulur ve yer değiştirir?",
+        "answers": [
+            {
+                "text": "Selection Sort",
+                "isCorrect": true
+            },
+            {
+                "text": "Bubble Sort",
+                "isCorrect": false
+            },
+            {
+                "text": "Insertion Sort",
+                "isCorrect": false
+            },
+            {
+                "text": "Quick Sort",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi programlama dili, veritabanı yönetim sistemleri ve büyük veri uygulamaları için yaygın olarak kullanılır?",
+        "answers": [
+            {
+                "text": "SQL",
+                "isCorrect": true
+            },
+            {
+                "text": "Python",
+                "isCorrect": false
+            },
+            {
+                "text": "Java",
+                "isCorrect": false
+            },
+            {
+                "text": "C++",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi veri yapısı, FIFO prensibine göre çalışır ve bir dizi elemanı yönetir?",
+        "answers": [
+            {
+                "text": "Kuyruk (Queue)",
+                "isCorrect": true
+            },
+            {
+                "text": "Yığın (Stack)",
+                "isCorrect": false
+            },
+            {
+                "text": "Dizi (Array)",
+                "isCorrect": false
+            },
+            {
+                "text": "Bağlı Liste (Linked List)",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi algoritma, verileri sıralarken her iki ucu da kontrol eder ve karşılaştırma yapar?",
+        "answers": [
+            {
+                "text": "Bubble Sort",
+                "isCorrect": true
+            },
+            {
+                "text": "Quick Sort",
+                "isCorrect": false
+            },
+            {
+                "text": "Merge Sort",
+                "isCorrect": false
+            },
+            {
+                "text": "Heap Sort",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi algoritma, sıralama işlemi sırasında verileri küçük parçalara ayırır ve her parçayı sıralar?",
+        "answers": [
+            {
+                "text": "Merge Sort",
+                "isCorrect": true
+            },
+            {
+                "text": "Quick Sort",
+                "isCorrect": false
+            },
+            {
+                "text": "Bubble Sort",
+                "isCorrect": false
+            },
+            {
+                "text": "Insertion Sort",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi veri yapısı, anahtar-değer çiftlerini hızlı bir şekilde depolar ve erişir?",
+        "answers": [
+            {
+                "text": "Hash Tablosu (Hash Table)",
+                "isCorrect": true
+            },
+            {
+                "text": "Küme (Set)",
+                "isCorrect": false
+            },
+            {
+                "text": "Dizi (Array)",
+                "isCorrect": false
+            },
+            {
+                "text": "Bağlı Liste (Linked List)",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi algoritma, sıralama sırasında verileri tek tek kontrol eder ve karşılaştırır?",
+        "answers": [
+            {
+                "text": "Insertion Sort",
+                "isCorrect": true
+            },
+            {
+                "text": "Bubble Sort",
+                "isCorrect": false
+            },
+            {
+                "text": "Selection Sort",
+                "isCorrect": false
+            },
+            {
+                "text": "Quick Sort",
+                "isCorrect": false
+            }
+        ]
+    }
+]

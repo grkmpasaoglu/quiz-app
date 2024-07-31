@@ -1,0 +1,674 @@
+[
+    {
+        "question": "Hangi grup, 'Bohemian Rhapsody' şarkısı ile ünlüdür?",
+        "answers": [
+            {
+                "text": "Queen",
+                "isCorrect": true
+            },
+            {
+                "text": "The Beatles",
+                "isCorrect": false
+            },
+            {
+                "text": "Led Zeppelin",
+                "isCorrect": false
+            },
+            {
+                "text": "Pink Floyd",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi şarkıcı, 'Rolling in the Deep' adlı hit şarkısının sahibidir?",
+        "answers": [
+            {
+                "text": "Adele",
+                "isCorrect": true
+            },
+            {
+                "text": "Rihanna",
+                "isCorrect": false
+            },
+            {
+                "text": "Beyoncé",
+                "isCorrect": false
+            },
+            {
+                "text": "Lady Gaga",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi müzikal tür, genellikle gitarlardan oluşur ve rock müziğin bir alt türüdür?",
+        "answers": [
+            {
+                "text": "Heavy Metal",
+                "isCorrect": true
+            },
+            {
+                "text": "Jazz",
+                "isCorrect": false
+            },
+            {
+                "text": "Blues",
+                "isCorrect": false
+            },
+            {
+                "text": "Country",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi ünlü şarkıcı, 'Like a Prayer' şarkısının yorumcusudur?",
+        "answers": [
+            {
+                "text": "Madonna",
+                "isCorrect": true
+            },
+            {
+                "text": "Whitney Houston",
+                "isCorrect": false
+            },
+            {
+                "text": "Cyndi Lauper",
+                "isCorrect": false
+            },
+            {
+                "text": "Janet Jackson",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi grup, 'Smells Like Teen Spirit' şarkısıyla grunge müziğin öncüsü olarak bilinir?",
+        "answers": [
+            {
+                "text": "Nirvana",
+                "isCorrect": true
+            },
+            {
+                "text": "Soundgarden",
+                "isCorrect": false
+            },
+            {
+                "text": "Pearl Jam",
+                "isCorrect": false
+            },
+            {
+                "text": "Alice in Chains",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi ünlü sanatçı, 'Purple Rain' albümünü çıkarmıştır?",
+        "answers": [
+            {
+                "text": "Prince",
+                "isCorrect": true
+            },
+            {
+                "text": "David Bowie",
+                "isCorrect": false
+            },
+            {
+                "text": "Elton John",
+                "isCorrect": false
+            },
+            {
+                "text": "George Michael",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi sanatçı, 'Bad Guy' adlı şarkısıyla büyük bir çıkış yapmıştır?",
+        "answers": [
+            {
+                "text": "Billie Eilish",
+                "isCorrect": true
+            },
+            {
+                "text": "Ariana Grande",
+                "isCorrect": false
+            },
+            {
+                "text": "Taylor Swift",
+                "isCorrect": false
+            },
+            {
+                "text": "Dua Lipa",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi müzik aleti, genellikle orkestrada temel ritmi sağlamak için kullanılır?",
+        "answers": [
+            {
+                "text": "Davul",
+                "isCorrect": true
+            },
+            {
+                "text": "Keman",
+                "isCorrect": false
+            },
+            {
+                "text": "Piyano",
+                "isCorrect": false
+            },
+            {
+                "text": "Flüt",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi ünlü şarkıcı, 'The Way You Make Me Feel' şarkısının sahibidir?",
+        "answers": [
+            {
+                "text": "Michael Jackson",
+                "isCorrect": true
+            },
+            {
+                "text": "Stevie Wonder",
+                "isCorrect": false
+            },
+            {
+                "text": "James Brown",
+                "isCorrect": false
+            },
+            {
+                "text": "Elvis Presley",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi Türk sanatçı, 'Senden Daha Güzel' albümünde yer alan şarkılarla tanınır?",
+        "answers": [
+            {
+                "text": "Duman",
+                "isCorrect": true
+            },
+            {
+                "text": "Manga",
+                "isCorrect": false
+            },
+            {
+                "text": "Mor ve Ötesi",
+                "isCorrect": false
+            },
+            {
+                "text": "Athena",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi ünlü müzisyen, 'Imagine' adlı şarkıyı seslendirmiştir?",
+        "answers": [
+            {
+                "text": "John Lennon",
+                "isCorrect": true
+            },
+            {
+                "text": "Paul McCartney",
+                "isCorrect": false
+            },
+            {
+                "text": "George Harrison",
+                "isCorrect": false
+            },
+            {
+                "text": "Ringo Starr",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi ünlü grup, 'Hotel California' adlı şarkısının yazarıdır?",
+        "answers": [
+            {
+                "text": "Eagles",
+                "isCorrect": true
+            },
+            {
+                "text": "Fleetwood Mac",
+                "isCorrect": false
+            },
+            {
+                "text": "The Rolling Stones",
+                "isCorrect": false
+            },
+            {
+                "text": "The Who",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi şarkıcı, 'Shape of You' adlı hit şarkısını seslendirmiştir?",
+        "answers": [
+            {
+                "text": "Ed Sheeran",
+                "isCorrect": true
+            },
+            {
+                "text": "Sam Smith",
+                "isCorrect": false
+            },
+            {
+                "text": "Justin Bieber",
+                "isCorrect": false
+            },
+            {
+                "text": "Bruno Mars",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi müzik türü, 1970'lerin başında funk, soul ve rock unsurlarından oluşmuştur?",
+        "answers": [
+            {
+                "text": "Disco",
+                "isCorrect": true
+            },
+            {
+                "text": "Jazz",
+                "isCorrect": false
+            },
+            {
+                "text": "Blues",
+                "isCorrect": false
+            },
+            {
+                "text": "Country",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi sanatçı, 'Uptown Funk' adlı şarkısıyla büyük başarı yakalamıştır?",
+        "answers": [
+            {
+                "text": "Bruno Mars",
+                "isCorrect": true
+            },
+            {
+                "text": "Ariana Grande",
+                "isCorrect": false
+            },
+            {
+                "text": "Katy Perry",
+                "isCorrect": false
+            },
+            {
+                "text": "Rihanna",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi grup, 'Sweet Child O' Mine' adlı şarkıyı seslendirmiştir?",
+        "answers": [
+            {
+                "text": "Guns N' Roses",
+                "isCorrect": true
+            },
+            {
+                "text": "Aerosmith",
+                "isCorrect": false
+            },
+            {
+                "text": "Bon Jovi",
+                "isCorrect": false
+            },
+            {
+                "text": "Def Leppard",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi sanatçı, 'Black or White' adlı şarkısının seslendiren sanatçıdır?",
+        "answers": [
+            {
+                "text": "Michael Jackson",
+                "isCorrect": true
+            },
+            {
+                "text": "Prince",
+                "isCorrect": false
+            },
+            {
+                "text": "George Michael",
+                "isCorrect": false
+            },
+            {
+                "text": "Elton John",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi grup, 'Losing My Religion' adlı şarkısıyla bilinir?",
+        "answers": [
+            {
+                "text": "R.E.M.",
+                "isCorrect": true
+            },
+            {
+                "text": "Radiohead",
+                "isCorrect": false
+            },
+            {
+                "text": "Pearl Jam",
+                "isCorrect": false
+            },
+            {
+                "text": "Nirvana",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi sanatçı, 'Can't Stop the Feeling!' adlı şarkısıyla tanınır?",
+        "answers": [
+            {
+                "text": "Justin Timberlake",
+                "isCorrect": true
+            },
+            {
+                "text": "Pharrell Williams",
+                "isCorrect": false
+            },
+            {
+                "text": "Chris Brown",
+                "isCorrect": false
+            },
+            {
+                "text": "Usher",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi ünlü şarkıcı, 'Like a Virgin' adlı şarkısının yorumcusudur?",
+        "answers": [
+            {
+                "text": "Madonna",
+                "isCorrect": true
+            },
+            {
+                "text": "Cher",
+                "isCorrect": false
+            },
+            {
+                "text": "Cyndi Lauper",
+                "isCorrect": false
+            },
+            {
+                "text": "Tina Turner",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi grup, 'Under Pressure' adlı şarkısını David Bowie ile birlikte seslendirmiştir?",
+        "answers": [
+            {
+                "text": "Queen",
+                "isCorrect": true
+            },
+            {
+                "text": "The Rolling Stones",
+                "isCorrect": false
+            },
+            {
+                "text": "Led Zeppelin",
+                "isCorrect": false
+            },
+            {
+                "text": "Pink Floyd",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi ünlü sanatçı, 'Smells Like Teen Spirit' adlı şarkıyı seslendirmiştir?",
+        "answers": [
+            {
+                "text": "Nirvana",
+                "isCorrect": true
+            },
+            {
+                "text": "Pearl Jam",
+                "isCorrect": false
+            },
+            {
+                "text": "Soundgarden",
+                "isCorrect": false
+            },
+            {
+                "text": "Alice in Chains",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi sanatçı, 2020 Grammy Ödülleri'nde Yılın Albümü ödülünü kazanmıştır?",
+        "answers": [
+            {
+                "text": "Billie Eilish",
+                "isCorrect": true
+            },
+            {
+                "text": "Ariana Grande",
+                "isCorrect": false
+            },
+            {
+                "text": "Taylor Swift",
+                "isCorrect": false
+            },
+            {
+                "text": "Lizzo",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi şarkı, 2016 MTV Video Müzik Ödülleri'nde Yılın Videosu ödülünü kazanmıştır?",
+        "answers": [
+            {
+                "text": "Beyoncé - Formation",
+                "isCorrect": true
+            },
+            {
+                "text": "Justin Bieber - Sorry",
+                "isCorrect": false
+            },
+            {
+                "text": "Adele - Hello",
+                "isCorrect": false
+            },
+            {
+                "text": "Rihanna - Work",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi sanatçı, 2019 Grammy Ödülleri'nde En İyi Yeni Sanatçı ödülünü kazanmıştır?",
+        "answers": [
+            {
+                "text": "Billie Eilish",
+                "isCorrect": true
+            },
+            {
+                "text": "Lil Nas X",
+                "isCorrect": false
+            },
+            {
+                "text": "Lizzo",
+                "isCorrect": false
+            },
+            {
+                "text": "Rosalía",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi sanatçı, 2021 Grammy Ödülleri'nde Yılın Şarkısı ödülünü kazanmıştır?",
+        "answers": [
+            {
+                "text": "H.E.R.",
+                "isCorrect": true
+            },
+            {
+                "text": "Dua Lipa",
+                "isCorrect": false
+            },
+            {
+                "text": "Taylor Swift",
+                "isCorrect": false
+            },
+            {
+                "text": "Billie Eilish",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi grup, 2021 MTV Video Müzik Ödülleri'nde En İyi K-pop Videosu ödülünü kazanmıştır?",
+        "answers": [
+            {
+                "text": "BTS",
+                "isCorrect": true
+            },
+            {
+                "text": "Blackpink",
+                "isCorrect": false
+            },
+            {
+                "text": "EXO",
+                "isCorrect": false
+            },
+            {
+                "text": "NCT",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi sanatçı, 2018 Grammy Ödülleri'nde En İyi Erkek Pop Vokal Performansı ödülünü kazanmıştır?",
+        "answers": [
+            {
+                "text": "Ed Sheeran",
+                "isCorrect": true
+            },
+            {
+                "text": "Bruno Mars",
+                "isCorrect": false
+            },
+            {
+                "text": "Sam Smith",
+                "isCorrect": false
+            },
+            {
+                "text": "Justin Timberlake",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi şarkı, 2017 Grammy Ödülleri'nde Yılın Şarkısı ödülünü kazanmıştır?",
+        "answers": [
+            {
+                "text": "Ed Sheeran - Thinking Out Loud",
+                "isCorrect": true
+            },
+            {
+                "text": "Adele - Hello",
+                "isCorrect": false
+            },
+            {
+                "text": "Justin Bieber - Love Yourself",
+                "isCorrect": false
+            },
+            {
+                "text": "Beyoncé - Formation",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi sanatçı, 2022 Grammy Ödülleri'nde En İyi Albüm ödülünü kazanmıştır?",
+        "answers": [
+            {
+                "text": "Jon Batiste",
+                "isCorrect": true
+            },
+            {
+                "text": "Taylor Swift",
+                "isCorrect": false
+            },
+            {
+                "text": "Olivia Rodrigo",
+                "isCorrect": false
+            },
+            {
+                "text": "Billie Eilish",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi sanatçı, 2020 Billboard Müzik Ödülleri'nde En İyi Erkek Sanatçı ödülünü kazanmıştır?",
+        "answers": [
+            {
+                "text": "Post Malone",
+                "isCorrect": true
+            },
+            {
+                "text": "Drake",
+                "isCorrect": false
+            },
+            {
+                "text": "The Weeknd",
+                "isCorrect": false
+            },
+            {
+                "text": "Ed Sheeran",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi sanatçı, 2015 Grammy Ödülleri'nde En İyi Yeni Sanatçı ödülünü kazanmıştır?",
+        "answers": [
+            {
+                "text": "Sam Smith",
+                "isCorrect": true
+            },
+            {
+                "text": "Iggy Azalea",
+                "isCorrect": false
+            },
+            {
+                "text": "Hozier",
+                "isCorrect": false
+            },
+            {
+                "text": "FKA Twigs",
+                "isCorrect": false
+            }
+        ]
+    }
+]

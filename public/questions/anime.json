@@ -1,0 +1,863 @@
+[
+    {
+        "question": "Hangi stüdyo Cowboy Bebop'u yaptı?",
+        "answers": [
+            {
+                "text": "Sunrise",
+                "isCorrect": true
+            },
+            {
+                "text": "Bones",
+                "isCorrect": false
+            },
+            {
+                "text": "Madhouse",
+                "isCorrect": false
+            },
+            {
+                "text": "Pierriot",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Ash Ketchum'un ikinci Pokémon'u nedir?",
+        "answers": [
+            {
+                "text": "Caterpie",
+                "isCorrect": true
+            },
+            {
+                "text": "Charmander",
+                "isCorrect": false
+            },
+            {
+                "text": "Pikachu",
+                "isCorrect": false
+            },
+            {
+                "text": "Pidgey",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Aşağıdaki mecha türündeki animelerden hangisi 1982 yılında yayımlanmaya başladı?",
+        "answers": [
+            {
+                "text": "The Super Dimension Fortress Macross",
+                "isCorrect": true
+            },
+            {
+                "text": "Mobile Suit Gundam",
+                "isCorrect": false
+            },
+            {
+                "text": "Armored Trooper VOTOMS",
+                "isCorrect": false
+            },
+            {
+                "text": "Neon Genesis Evangelion",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "\"JoJo's Bizarre Adventure: Phantom Blood\" ilk kez hangi yıl yayımlandı?",
+        "answers": [
+            {
+                "text": "1987",
+                "isCorrect": true
+            },
+            {
+                "text": "2013",
+                "isCorrect": false
+            },
+            {
+                "text": "1983",
+                "isCorrect": false
+            },
+            {
+                "text": "1995",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "\"Spirited Away\" filminde ana karakter Chihiro'ya hangi isim verilmiştir?",
+        "answers": [
+            {
+                "text": "Sen (Bin)",
+                "isCorrect": true
+            },
+            {
+                "text": "Hyaku (Yüz)",
+                "isCorrect": false
+            },
+            {
+                "text": "Ichiman (On bin)",
+                "isCorrect": false
+            },
+            {
+                "text": "Juu (On)",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Naruto manga serisinde Tsunade'nin soyadı nedir?",
+        "answers": [
+            {
+                "text": "Senju",
+                "isCorrect": true
+            },
+            {
+                "text": "Haruno",
+                "isCorrect": false
+            },
+            {
+                "text": "Uzumaki",
+                "isCorrect": false
+            },
+            {
+                "text": "Yamanaka",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Dragon Ball Z'de kim ilk olarak Super Saiyan 2 formuna geçti?",
+        "answers": [
+            {
+                "text": "Gohan",
+                "isCorrect": true
+            },
+            {
+                "text": "Goku",
+                "isCorrect": false
+            },
+            {
+                "text": "Vegeta",
+                "isCorrect": false
+            },
+            {
+                "text": "Trunks",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "JoJo's Bizarre Adventure'da hangi isim karakterlerden biri değildir?",
+        "answers": [
+            {
+                "text": "JoJo Kikasu",
+                "isCorrect": true
+            },
+            {
+                "text": "Jean-Pierre Polnareff",
+                "isCorrect": false
+            },
+            {
+                "text": "George Joestar",
+                "isCorrect": false
+            },
+            {
+                "text": "Risotto Nero",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Studio Trigger'ın ilk orijinal uzun form animasyon serisi nedir?",
+        "answers": [
+            {
+                "text": "Kill la Kill",
+                "isCorrect": true
+            },
+            {
+                "text": "Kiznaiver",
+                "isCorrect": false
+            },
+            {
+                "text": "Inferno Cop",
+                "isCorrect": false
+            },
+            {
+                "text": "Gurren Lagann",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Shakugan no Shana'da Shana genellikle hangi isimle anılır?",
+        "answers": [
+            {
+                "text": "Alevli Saçlı Yanıcı Gözlü Avcı",
+                "isCorrect": true
+            },
+            {
+                "text": "Alev Haze",
+                "isCorrect": false
+            },
+            {
+                "text": "Alevli Saçlı Yanıcı Gözlü Haze",
+                "isCorrect": false
+            },
+            {
+                "text": "Shana",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Highschool DxD'de hangi cihaz sonsuz enerjiyi sağlar?",
+        "answers": [
+            {
+                "text": "Coils",
+                "isCorrect": true
+            },
+            {
+                "text": "Wires",
+                "isCorrect": false
+            },
+            {
+                "text": "Collectors",
+                "isCorrect": false
+            },
+            {
+                "text": "Tesla",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "No Game No Life'daki Plum karakterinin ırkı nedir?",
+        "answers": [
+            {
+                "text": "Dhampir",
+                "isCorrect": true
+            },
+            {
+                "text": "Flügel",
+                "isCorrect": false
+            },
+            {
+                "text": "Imanity",
+                "isCorrect": false
+            },
+            {
+                "text": "Seiren",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "My Hero Academia'da hangi karakter yerçekimini manipüle etme yeteneğine sahiptir?",
+        "answers": [
+            {
+                "text": "Uraraka",
+                "isCorrect": true
+            },
+            {
+                "text": "Bakugo",
+                "isCorrect": false
+            },
+            {
+                "text": "Deku",
+                "isCorrect": false
+            },
+            {
+                "text": "Asui",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Bishoujo Senshi Sailor Moon Japonya'da hangi yıl yayımlandı?",
+        "answers": [
+            {
+                "text": "1992",
+                "isCorrect": true
+            },
+            {
+                "text": "1989",
+                "isCorrect": false
+            },
+            {
+                "text": "1990",
+                "isCorrect": false
+            },
+            {
+                "text": "1994",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "JoJo's Bizarre Adventure'da Silver Chariot isimli Stand'a sahip karakter kimdir?",
+        "answers": [
+            {
+                "text": "Jean Pierre Polnareff",
+                "isCorrect": true
+            },
+            {
+                "text": "Noriaki Kakyoin",
+                "isCorrect": false
+            },
+            {
+                "text": "Hol Horse",
+                "isCorrect": false
+            },
+            {
+                "text": "Hermes Costello",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Log Horizon'daki karakterler hangi oyunda mahsur kalmıştır?",
+        "answers": [
+            {
+                "text": "Elder Tale",
+                "isCorrect": true
+            },
+            {
+                "text": "Sword Art Online",
+                "isCorrect": false
+            },
+            {
+                "text": "Tower Unite",
+                "isCorrect": false
+            },
+            {
+                "text": "Yggdrasil",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "One Piece'de kölelik geçmişini aşan ve yozlaşmış hükümete karşı savaşmak için bir orduya ajan olarak katılan kız kimdir?",
+        "answers": [
+            {
+                "text": "Koala",
+                "isCorrect": true
+            },
+            {
+                "text": "Boa Hancock",
+                "isCorrect": false
+            },
+            {
+                "text": "Nico Robin",
+                "isCorrect": false
+            },
+            {
+                "text": "Emporio Ivankov",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "One Piece'de efsanevi hazine, One Piece'in varlığını kim doğrulamıştır?",
+        "answers": [
+            {
+                "text": "Edward \"Whitebeard\" Newgate",
+                "isCorrect": true
+            },
+            {
+                "text": "Eski Denizci Filosu Amirali",
+                "isCorrect": false
+            },
+            {
+                "text": "Sengoku",
+                "isCorrect": false
+            },
+            {
+                "text": "Kizaru",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "In the anime \"Attack on Titan\", who is the main protagonist?",
+        "answers": [
+            {
+                "text": "Eren Yeager",
+                "isCorrect": true
+            },
+            {
+                "text": "Armin Arlert",
+                "isCorrect": false
+            },
+            {
+                "text": "Levi Ackerman",
+                "isCorrect": false
+            },
+            {
+                "text": "Mikasa Ackerman",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Death Note'da Light Yagami'nin gizli adı nedir?",
+        "answers": [
+            {
+                "text": "Kira",
+                "isCorrect": true
+            },
+            {
+                "text": "L",
+                "isCorrect": false
+            },
+            {
+                "text": "Ryuk",
+                "isCorrect": false
+            },
+            {
+                "text": "Near",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Fullmetal Alchemist: Brotherhood'da Edward ve Alphonse Elric'in kaybettikleri neydi?",
+        "answers": [
+            {
+                "text": "Vücutları",
+                "isCorrect": true
+            },
+            {
+                "text": "Zaman",
+                "isCorrect": false
+            },
+            {
+                "text": "Para",
+                "isCorrect": false
+            },
+            {
+                "text": "Hatıralar",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Naruto'da hangi karakter ilk olarak Kurama'nın (Dokuz Kuyruklu) gücüne sahip olur?",
+        "answers": [
+            {
+                "text": "Naruto Uzumaki",
+                "isCorrect": true
+            },
+            {
+                "text": "Sasuke Uchiha",
+                "isCorrect": false
+            },
+            {
+                "text": "Kakashi Hatake",
+                "isCorrect": false
+            },
+            {
+                "text": "Jiraiya",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "My Hero Academia'da Midoriya'nın Quirk'inin adı nedir?",
+        "answers": [
+            {
+                "text": "One For All",
+                "isCorrect": true
+            },
+            {
+                "text": "All For One",
+                "isCorrect": false
+            },
+            {
+                "text": "Explosion",
+                "isCorrect": false
+            },
+            {
+                "text": "Frog",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Attack on Titan'da hangi Titan türü en büyük ve en güçlü olarak kabul edilir?",
+        "answers": [
+            {
+                "text": "Colossal Titan",
+                "isCorrect": true
+            },
+            {
+                "text": "Armored Titan",
+                "isCorrect": false
+            },
+            {
+                "text": "Female Titan",
+                "isCorrect": false
+            },
+            {
+                "text": "Beast Titan",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Sword Art Online'da ana karakter Kirito'nun gerçek adı nedir?",
+        "answers": [
+            {
+                "text": "Kirigaya Kazuto",
+                "isCorrect": true
+            },
+            {
+                "text": "Kazuto Kirigaya",
+                "isCorrect": false
+            },
+            {
+                "text": "Kazuto Yagami",
+                "isCorrect": false
+            },
+            {
+                "text": "Kirito Kirigaya",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Cowboy Bebop'ta Spike Spiegel'ın mesleği nedir?",
+        "answers": [
+            {
+                "text": "Ödül Avcısı",
+                "isCorrect": true
+            },
+            {
+                "text": "Polis",
+                "isCorrect": false
+            },
+            {
+                "text": "Yazılımcı",
+                "isCorrect": false
+            },
+            {
+                "text": "Hırsız",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "One Punch Man'de Saitama'nın süper güçlerinin kaynağı nedir?",
+        "answers": [
+            {
+                "text": "Sıkı Egzersiz Programı",
+                "isCorrect": true
+            },
+            {
+                "text": "Yapay Zeka",
+                "isCorrect": false
+            },
+            {
+                "text": "Uzaylı Teknolojisi",
+                "isCorrect": false
+            },
+            {
+                "text": "Genetik Deney",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Tokyo Ghoul'da Ken Kaneki'nin ilk olarak hangi tür bir ghoul'a dönüştüğü ortaya çıkar?",
+        "answers": [
+            {
+                "text": "Half-Ghoul",
+                "isCorrect": true
+            },
+            {
+                "text": "Full-Ghoul",
+                "isCorrect": false
+            },
+            {
+                "text": "Special Ghoul",
+                "isCorrect": false
+            },
+            {
+                "text": "Quinque",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Steins;Gate'de hangi karakter zaman yolculuğu araştırması yapar?",
+        "answers": [
+            {
+                "text": "Rintarou Okabe",
+                "isCorrect": true
+            },
+            {
+                "text": "Makise Kurisu",
+                "isCorrect": false
+            },
+            {
+                "text": "Mayuri Shiina",
+                "isCorrect": false
+            },
+            {
+                "text": "Itaru Hashida",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Bleach'de Ichigo Kurosaki'nin ilk zanpakutou'nun adı nedir?",
+        "answers": [
+            {
+                "text": "Zangetsu",
+                "isCorrect": true
+            },
+            {
+                "text": "Kurosaki",
+                "isCorrect": false
+            },
+            {
+                "text": "Senbonzakura",
+                "isCorrect": false
+            },
+            {
+                "text": "Sode no Shirayuki",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Dragon Ball'da Goku'nun ilk olarak hangi gezegende doğduğu belirtilir?",
+        "answers": [
+            {
+                "text": "Gezegen Tarble",
+                "isCorrect": true
+            },
+            {
+                "text": "Gezegen Vegeta",
+                "isCorrect": false
+            },
+            {
+                "text": "Gezegen Earth",
+                "isCorrect": false
+            },
+            {
+                "text": "Gezegen Namek",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Neon Genesis Evangelion'da Shinji Ikari'nin pilot olarak görev yaptığı mecha'nın adı nedir?",
+        "answers": [
+            {
+                "text": "Evangelion Unit-01",
+                "isCorrect": true
+            },
+            {
+                "text": "Evangelion Unit-02",
+                "isCorrect": false
+            },
+            {
+                "text": "Evangelion Unit-00",
+                "isCorrect": false
+            },
+            {
+                "text": "Evangelion Unit-03",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Attack on Titan'da Eren Yeager'in babasının adı nedir?",
+        "answers": [
+            {
+                "text": "Grisha Yeager",
+                "isCorrect": true
+            },
+            {
+                "text": "Eren Yeager",
+                "isCorrect": false
+            },
+            {
+                "text": "Zeke Yeager",
+                "isCorrect": false
+            },
+            {
+                "text": "Erwin Smith",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hunter x Hunter'da Gon Freecss'in amcası kimdir?",
+        "answers": [
+            {
+                "text": "Mito",
+                "isCorrect": true
+            },
+            {
+                "text": "Kaito",
+                "isCorrect": false
+            },
+            {
+                "text": "Bisky",
+                "isCorrect": false
+            },
+            {
+                "text": "Netero",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Naruto'da Sakura Haruno'nun ustası kimdir?",
+        "answers": [
+            {
+                "text": "Kakashi Hatake",
+                "isCorrect": true
+            },
+            {
+                "text": "Jiraiya",
+                "isCorrect": false
+            },
+            {
+                "text": "Orochimaru",
+                "isCorrect": false
+            },
+            {
+                "text": "Minato Namikaze",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "My Hero Academia'da All Might'ın gerçek adı nedir?",
+        "answers": [
+            {
+                "text": "Toshinori Yagi",
+                "isCorrect": true
+            },
+            {
+                "text": "Shota Aizawa",
+                "isCorrect": false
+            },
+            {
+                "text": "Hizashi Yamada",
+                "isCorrect": false
+            },
+            {
+                "text": "Ryo Yamada",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "One Piece'de Luffy'nin ilk arkadaşlarından biri olan karnavaldan kaçan korsanın adı nedir?",
+        "answers": [
+            {
+                "text": "Roronoa Zoro",
+                "isCorrect": true
+            },
+            {
+                "text": "Nami",
+                "isCorrect": false
+            },
+            {
+                "text": "Sanji",
+                "isCorrect": false
+            },
+            {
+                "text": "Usopp",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Cowboy Bebop'ta Faye Valentine'ın silahı hangi türdür?",
+        "answers": [
+            {
+                "text": "Tabanca",
+                "isCorrect": true
+            },
+            {
+                "text": "Kılıç",
+                "isCorrect": false
+            },
+            {
+                "text": "Yay",
+                "isCorrect": false
+            },
+            {
+                "text": "Bıçak",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Bleach'te Rukia Kuchiki'nin zanpakutou'nun adı nedir?",
+        "answers": [
+            {
+                "text": "Sode no Shirayuki",
+                "isCorrect": true
+            },
+            {
+                "text": "Zangetsu",
+                "isCorrect": false
+            },
+            {
+                "text": "Senbonzakura",
+                "isCorrect": false
+            },
+            {
+                "text": "Katen Kyokotsu",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Sword Art Online'da Asuna'nın karakter adı nedir?",
+        "answers": [
+            {
+                "text": "Asuna Yuuki",
+                "isCorrect": true
+            },
+            {
+                "text": "Asuka Langley",
+                "isCorrect": false
+            },
+            {
+                "text": "Asami Seto",
+                "isCorrect": false
+            },
+            {
+                "text": "Asuna Kirigaya",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Steins;Gate'de Okabe'nin takma adı nedir?",
+        "answers": [
+            {
+                "text": "Okarin",
+                "isCorrect": true
+            },
+            {
+                "text": "Okabe",
+                "isCorrect": false
+            },
+            {
+                "text": "Rintarou",
+                "isCorrect": false
+            },
+            {
+                "text": "Kurisu",
+                "isCorrect": false
+            }
+        ]
+    }
+]

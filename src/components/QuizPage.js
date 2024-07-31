@@ -3,6 +3,20 @@ import { useParams, useNavigate } from 'react-router-dom';
 import { useUserName } from '../contexts/UserNameContext';
 import { CountdownCircleTimer } from 'react-countdown-circle-timer';
 
+// Helper function to shuffle an array
+const shuffleArray = (array) => {
+  let currentIndex = array.length, randomIndex;
+
+  while (currentIndex !== 0) {
+    randomIndex = Math.floor(Math.random() * currentIndex);
+    currentIndex--;
+
+    [array[currentIndex], array[randomIndex]] = [array[randomIndex], array[currentIndex]];
+  }
+
+  return array;
+};
+
 const QuizPage = () => {
   const { category } = useParams();
   const navigate = useNavigate();
@@ -20,23 +34,47 @@ const QuizPage = () => {
     const fetchQuestions = async () => {
       let fileName = '';
       switch (category) {
+        case 'Spor':
+          fileName = 'sportsQuestions.json';
+          break;
         case 'Matematik':
           fileName = 'mathQuestions.json';
           break;
-          case 'Coğrafya':
-            fileName = 'geographyQuestions.json';
-            break;
+        case 'Coğrafya':
+          fileName = 'geographyQuestions.json';
+          break;
         case 'Tarih':
           fileName = 'historyQuestions.json';
           break;
         case 'Ünlüler':
           fileName = 'famousPeopleQuestions.json';
           break;
-        case 'Spor':
-          fileName = 'sportsQuestions.json';
+        case 'Film':
+          fileName = 'films.json';
           break;
         case 'Canlılar Dünyası':
           fileName = 'natureQuestions.json';
+          break;
+        case 'Çizgi Film':
+          fileName = 'cartoons.json';
+          break;
+        case 'Anime':
+          fileName = 'anime.json';
+          break;
+        case 'Araba':
+          fileName = 'cars.json';
+          break;
+        case 'Bilgisayar Bilimleri':
+          fileName = 'computerScience.json';
+          break;
+        case 'Bilim & Doğa':
+          fileName = 'science.json';
+          break;
+        case 'Video Oyunları':
+          fileName = 'videogames.json';
+          break;
+        case 'Müzik':
+          fileName = 'music.json';
           break;
         default:
           console.error('Unknown category:', category);
@@ -46,7 +84,13 @@ const QuizPage = () => {
       try {
         const response = await fetch(`/questions/${fileName}`);
         const data = await response.json();
-        const shuffledQuestions = data.sort(() => Math.random() - 0.5);
+
+        // Shuffle questions
+        const shuffledQuestions = shuffleArray(data.map(question => ({
+          ...question,
+          answers: shuffleArray(question.answers) // Shuffle answers for each question
+        })));
+
         setQuestions(shuffledQuestions);
       } catch (error) {
         console.error('Error fetching questions:', error);
@@ -121,12 +165,18 @@ const QuizPage = () => {
 
   // Define background image URLs based on the category
   const backgroundImage = {
-    Matematik: 'https://wallpapers.com/images/hd/mathematics-background-7ynkm8qqi5luua66.jpg',
-    Tarih: 'https://wallpapers.com/images/hd/historical-background-1920-x-1080-9hf8vlbmjer13p9b.jpg',
-    Ünlüler: 'https://wallpapers.com/images/featured/red-carpet-background-5ocxo66r4i867a0l.jpg',
+    'Matematik': 'https://wallpapers.com/images/hd/mathematics-background-7ynkm8qqi5luua66.jpg',
+    'Tarih': 'https://wallpapers.com/images/hd/historical-background-1920-x-1080-9hf8vlbmjer13p9b.jpg',
+    'Ünlüler': 'https://wallpapers.com/images/featured/red-carpet-background-5ocxo66r4i867a0l.jpg',
     'Canlılar Dünyası': 'https://s1.1zoom.me/b3352/533/Foxes_Cubs_Grass_Glance_563457_1920x1080.jpg',
-    Spor: 'https://wallpapers.com/images/featured/best-sports-background-9mo6eiyv8hxj5jln.jpg',
-    "Coğrafya":'https://c.wallhere.com/photos/d0/04/globe_country_ball_geography-587550.jpg!d'
+    'Spor': 'https://wallpapers.com/images/featured/best-sports-background-9mo6eiyv8hxj5jln.jpg',
+    "Coğrafya": 'https://c.wallhere.com/photos/d0/04/globe_country_ball_geography-587550.jpg!d',
+    "Çizgi Film": 'https://i.pinimg.com/originals/7a/3c/82/7a3c82144253403e0db0d582f5dca206.jpg',
+    "Anime": 'https://wallpapercave.com/wp/wp9944149.jpg',
+    "Film": 'https://wallpapers.com/images/featured/movie-9pvmdtvz4cb0xl37.jpg',
+    "Video Oyunları": 'https://wallpapercave.com/wp/wp8390395.jpg',
+    "Bilgisayar Bilimleri": 'https://i.pinimg.com/originals/40/ce/e2/40cee2ae407de99af49bea4ff771bcff.jpg',
+    'Araba': 'https://images.pexels.com/photos/18818776/pexels-photo-18818776.jpeg'
   }[category] || 'bg-gray-100'; // Default background if no match
 
   // Gradient overlay style
@@ -158,41 +208,34 @@ const QuizPage = () => {
               <li key={index} className='w-full'>
                 <button
                   onClick={() => handleAnswer(index)}
-                  className={`w-full p-4 border rounded shadow bg-white transition-transform ${feedback
-                    ? feedback.correctIndex === index
-                      ? 'border-green-500 animate-grow-shrink'
-                      : feedback.selectedIndex === index
-                        ? 'border-red-500 animate-shake'
-                        : 'border-gray-200'
-                    : 'border-gray-200'
-                    }`}
+                  className={`w-full p-4 border rounded shadow bg-white transition-transform ${feedback && feedback.selectedIndex === index ? (answer.isCorrect ? 'bg-green-500 text-white' : 'bg-red-500 text-white') : ''}`}
                 >
                   {answer.text}
                 </button>
               </li>
             ))
           ) : (
-            <li>Loading answers...</li>
+            <li className='w-full'>
+              <button
+                onClick={handleSkip}
+                className='w-full p-4 border rounded shadow bg-gray-300 text-gray-700'
+              >
+                Atla
+              </button>
+            </li>
           )}
         </ul>
-        <button
-          onClick={handleSkip}
-          className='mt-4 p-2 bg-yellow-500 text-white rounded w-full'
-        >
-          Soruyu Geç
-        </button>
       </div>
-      <div className='mt-6 text-xl text-white font-semibold'>
+    
+      <div className='absolute bottom-4 text-white'>
         <CountdownCircleTimer
-          key={currentQuestionIndex} // Use currentQuestionIndex as key to reset timer
+          isPlaying={!isGameOver}
           duration={120}
-          size={100}
-          isPlaying={!feedbackTimeout} // Pause when feedback is shown
           colors={['#004777', '#F7B801', '#A30000', '#A30000']}
           colorsTime={[7, 5, 2, 0]}
-          onComplete={() => setIsGameOver(true)} // End game when timer completes
+                onComplete={() => setIsGameOver(true)}
         >
-          {({ remainingTime }) => remainingTime}
+          {({ remainingTime }) => <div className='text-xl font-bold'>{remainingTime}</div>}
         </CountdownCircleTimer>
       </div>
     </div>

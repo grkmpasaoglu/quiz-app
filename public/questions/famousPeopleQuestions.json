@@ -1,0 +1,380 @@
+[
+    {
+        "question": "Hangi ünlü oyuncu, 'Titanic' filmindeki Jack Dawson rolü ile geniş bir tanınma elde etmiştir?",
+        "answers": [
+            {
+                "text": "Leonardo DiCaprio",
+                "isCorrect": true
+            },
+            {
+                "text": "Brad Pitt",
+                "isCorrect": false
+            },
+            {
+                "text": "Tom Cruise",
+                "isCorrect": false
+            },
+            {
+                "text": "Johnny Depp",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi şarkıcı, 2010 yılında 'Bad Romance' şarkısı ile büyük bir başarı yakalamıştır?",
+        "answers": [
+            {
+                "text": "Lady Gaga",
+                "isCorrect": true
+            },
+            {
+                "text": "Beyoncé",
+                "isCorrect": false
+            },
+            {
+                "text": "Rihanna",
+                "isCorrect": false
+            },
+            {
+                "text": "Katy Perry",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi ünlü oyuncu, 'Harry Potter' film serisinde Harry Potter karakterini canlandırmıştır?",
+        "answers": [
+            {
+                "text": "Daniel Radcliffe",
+                "isCorrect": true
+            },
+            {
+                "text": "Rupert Grint",
+                "isCorrect": false
+            },
+            {
+                "text": "Emma Watson",
+                "isCorrect": false
+            },
+            {
+                "text": "Tom Felton",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi ünlü sanatçı, 'Starry Night' isimli ünlü tablonun yaratıcısıdır?",
+        "answers": [
+            {
+                "text": "Vincent van Gogh",
+                "isCorrect": true
+            },
+            {
+                "text": "Pablo Picasso",
+                "isCorrect": false
+            },
+            {
+                "text": "Claude Monet",
+                "isCorrect": false
+            },
+            {
+                "text": "Leonardo da Vinci",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi ünlü şarkıcı, 'Purple Rain' isimli albümü ile tanınır?",
+        "answers": [
+            {
+                "text": "Prince",
+                "isCorrect": true
+            },
+            {
+                "text": "Michael Jackson",
+                "isCorrect": false
+            },
+            {
+                "text": "Elton John",
+                "isCorrect": false
+            },
+            {
+                "text": "David Bowie",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi ünlü oyuncu, 'The Godfather' filminde Michael Corleone karakterini canlandırmıştır?",
+        "answers": [
+            {
+                "text": "Al Pacino",
+                "isCorrect": true
+            },
+            {
+                "text": "Robert De Niro",
+                "isCorrect": false
+            },
+            {
+                "text": "Marlon Brando",
+                "isCorrect": false
+            },
+            {
+                "text": "Jack Nicholson",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi ünlü şarkıcı, 2014 yılında 'Shake It Off' şarkısını çıkarmıştır?",
+        "answers": [
+            {
+                "text": "Taylor Swift",
+                "isCorrect": true
+            },
+            {
+                "text": "Adele",
+                "isCorrect": false
+            },
+            {
+                "text": "Britney Spears",
+                "isCorrect": false
+            },
+            {
+                "text": "Christina Aguilera",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi ünlü oyuncu, 'Forrest Gump' filmindeki Forrest Gump karakterini canlandırmıştır?",
+        "answers": [
+            {
+                "text": "Tom Hanks",
+                "isCorrect": true
+            },
+            {
+                "text": "Harrison Ford",
+                "isCorrect": false
+            },
+            {
+                "text": "Morgan Freeman",
+                "isCorrect": false
+            },
+            {
+                "text": "Denzel Washington",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi ünlü sanatçı, 'Mona Lisa' tablosunun yaratıcısıdır?",
+        "answers": [
+            {
+                "text": "Leonardo da Vinci",
+                "isCorrect": true
+            },
+            {
+                "text": "Michelangelo",
+                "isCorrect": false
+            },
+            {
+                "text": "Raphael",
+                "isCorrect": false
+            },
+            {
+                "text": "Titian",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi ünlü oyuncu, 'Pulp Fiction' filminde Vincent Vega karakterini canlandırmıştır?",
+        "answers": [
+            {
+                "text": "John Travolta",
+                "isCorrect": true
+            },
+            {
+                "text": "Samuel L. Jackson",
+                "isCorrect": false
+            },
+            {
+                "text": "Bruce Willis",
+                "isCorrect": false
+            },
+            {
+                "text": "Uma Thurman",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi ünlü şarkıcı, 'Like a Prayer' isimli şarkıyı seslendirmiştir?",
+        "answers": [
+            {
+                "text": "Madonna",
+                "isCorrect": true
+            },
+            {
+                "text": "Cyndi Lauper",
+                "isCorrect": false
+            },
+            {
+                "text": "Whitney Houston",
+                "isCorrect": false
+            },
+            {
+                "text": "Janet Jackson",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi ünlü aktör, 'The Dark Knight' filminde Joker karakterini canlandırmıştır?",
+        "answers": [
+            {
+                "text": "Heath Ledger",
+                "isCorrect": true
+            },
+            {
+                "text": "Jared Leto",
+                "isCorrect": false
+            },
+            {
+                "text": "Jack Nicholson",
+                "isCorrect": false
+            },
+            {
+                "text": "Christian Bale",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi ünlü şarkıcı, 'Rolling in the Deep' isimli şarkısıyla tanınır?",
+        "answers": [
+            {
+                "text": "Adele",
+                "isCorrect": true
+            },
+            {
+                "text": "Amy Winehouse",
+                "isCorrect": false
+            },
+            {
+                "text": "Sia",
+                "isCorrect": false
+            },
+            {
+                "text": "Shakira",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi ünlü oyuncu, 'The Silence of the Lambs' filminde Hannibal Lecter karakterini canlandırmıştır?",
+        "answers": [
+            {
+                "text": "Anthony Hopkins",
+                "isCorrect": true
+            },
+            {
+                "text": "Jack Nicholson",
+                "isCorrect": false
+            },
+            {
+                "text": "Robert De Niro",
+                "isCorrect": false
+            },
+            {
+                "text": "Marlon Brando",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi ünlü sanatçı, 1970 yılında 'Imagine' isimli ünlü şarkıyı yayınlamıştır?",
+        "answers": [
+            {
+                "text": "John Lennon",
+                "isCorrect": true
+            },
+            {
+                "text": "Paul McCartney",
+                "isCorrect": false
+            },
+            {
+                "text": "George Harrison",
+                "isCorrect": false
+            },
+            {
+                "text": "Ringo Starr",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi ünlü oyuncu, 'Die Hard' filminde John McClane karakterini canlandırmıştır?",
+        "answers": [
+            {
+                "text": "Bruce Willis",
+                "isCorrect": true
+            },
+            {
+                "text": "Arnold Schwarzenegger",
+                "isCorrect": false
+            },
+            {
+                "text": "Sylvester Stallone",
+                "isCorrect": false
+            },
+            {
+                "text": "Mel Gibson",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi ünlü şarkıcı, 'Viva La Vida' isimli şarkıyı seslendirmiştir?",
+        "answers": [
+            {
+                "text": "Coldplay",
+                "isCorrect": true
+            },
+            {
+                "text": "U2",
+                "isCorrect": false
+            },
+            {
+                "text": "Radiohead",
+                "isCorrect": false
+            },
+            {
+                "text": "The Killers",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi ünlü oyuncu, 'The Matrix' filminde Neo karakterini canlandırmıştır?",
+        "answers": [
+            {
+                "text": "Keanu Reeves",
+                "isCorrect": true
+            },
+            {
+                "text": "Laurence Fishburne",
+                "isCorrect": false
+            },
+            {
+                "text": "Hugo Weaving",
+                "isCorrect": false
+            },
+            {
+                "text": "Carrie-Anne Moss",
+                "isCorrect": false
+            }
+        ]
+    }
+]

@@ -1,674 +1,696 @@
 [
     {
-        "question": "Hangi hayvan, dünyanın en hızlı kara hayvanı olarak bilinir?",
+        "question": "Hangi araba markası, 'Ultimate Driving Machine' sloganını kullanmaktadır?",
         "answers": [
             {
-                "text": "Cheetah (Kaplan)",
+                "text": "BMW",
                 "isCorrect": true
             },
             {
-                "text": "Aslan",
+                "text": "Audi",
                 "isCorrect": false
             },
             {
-                "text": "Geyik",
+                "text": "Mercedes-Benz",
                 "isCorrect": false
             },
             {
-                "text": "Zebra",
+                "text": "Lexus",
                 "isCorrect": false
             }
         ]
     },
     {
-        "question": "Hangi canlı, hem denizde hem de karada yaşayabilen bir amfibi olarak bilinir?",
+        "question": "Hangi otomobil üreticisi 'Mustang' modelini üretmektedir?",
         "answers": [
             {
-                "text": "Kurbağa",
+                "text": "Ford",
                 "isCorrect": true
             },
             {
-                "text": "Köpekbalığı",
+                "text": "Chevrolet",
                 "isCorrect": false
             },
             {
-                "text": "Yılan",
+                "text": "Dodge",
                 "isCorrect": false
             },
             {
-                "text": "Penguen",
+                "text": "Toyota",
                 "isCorrect": false
             }
         ]
     },
     {
-        "question": "Hangi kuş, en uzun göç yolunu kat eden türdür?",
+        "question": "Hangi otomobil markası, 'Civic' modelini üretmektedir?",
         "answers": [
             {
-                "text": "Kızılgerdan",
-                "isCorrect": false
-            },
-            {
-                "text": "Sığırkuyruğu",
-                "isCorrect": false
-            },
-            {
-                "text": "Kuşburnu",
-                "isCorrect": false
-            },
-            {
-                "text": "Küçük Kuğu",
-                "isCorrect": true
-            }
-        ]
-    },
-    {
-        "question": "Hangi balık türü, elektrik üretebilme yeteneğine sahiptir?",
-        "answers": [
-            {
-                "text": "Elektrikli Yılanbalığı",
+                "text": "Honda",
                 "isCorrect": true
             },
             {
-                "text": "Köpekbalığı",
+                "text": "Hyundai",
                 "isCorrect": false
             },
             {
-                "text": "Palamut",
+                "text": "Subaru",
                 "isCorrect": false
             },
             {
-                "text": "Somon",
+                "text": "Nissan",
                 "isCorrect": false
             }
         ]
     },
     {
-        "question": "Hangisi, dünyanın en büyük canlısı olarak kabul edilen deniz hayvanıdır?",
+        "question": "Hangi otomobil üreticisi, 'Model S' adlı elektrikli aracı üretmektedir?",
         "answers": [
             {
-                "text": "Mavi Balina",
+                "text": "Tesla",
                 "isCorrect": true
             },
             {
-                "text": "Killer Balina",
+                "text": "NIO",
                 "isCorrect": false
             },
             {
-                "text": "Orca",
+                "text": "Rivian",
                 "isCorrect": false
             },
             {
-                "text": "Köpekbalığı",
+                "text": "Lucid Motors",
                 "isCorrect": false
             }
         ]
     },
     {
-        "question": "Hangi böcek türü, kısmi bir ölümsüzlük özelliğine sahip olarak bilinir ve yaşlanmaya karşı büyük bir direnç gösterir?",
+        "question": "Hangi araba markası, 'A4' modelini üretmektedir?",
         "answers": [
             {
-                "text": "Tardigrad",
+                "text": "Audi",
                 "isCorrect": true
             },
             {
-                "text": "Arı",
+                "text": "BMW",
                 "isCorrect": false
             },
             {
-                "text": "Kelebek",
+                "text": "Mercedes-Benz",
                 "isCorrect": false
             },
             {
-                "text": "Karınca",
+                "text": "Volvo",
                 "isCorrect": false
             }
         ]
     },
     {
-        "question": "Hangi canlı türü, tamamen kör doğar ve görme yeteneği zamanla gelişir?",
+        "question": "Hangi otomobil markası, 'Corvette' modelini üretmektedir?",
         "answers": [
             {
-                "text": "Yarasa",
-                "isCorrect": false
-            },
-            {
-                "text": "Yılan",
-                "isCorrect": false
-            },
-            {
-                "text": "Köpekbalığı",
-                "isCorrect": false
-            },
-            {
-                "text": "Kedi",
-                "isCorrect": true
-            }
-        ]
-    },
-    {
-        "question": "Hangi hayvan, dünyanın en büyük kara memelisi olarak bilinir?",
-        "answers": [
-            {
-                "text": "Afrika Fil",
+                "text": "Chevrolet",
                 "isCorrect": true
             },
             {
-                "text": "Beyaz Ayı",
+                "text": "Ford",
                 "isCorrect": false
             },
             {
-                "text": "Gergedan",
+                "text": "Porsche",
                 "isCorrect": false
             },
             {
-                "text": "Kaplan",
+                "text": "Ferrari",
                 "isCorrect": false
             }
         ]
     },
     {
-        "question": "Hangi canlı, karada yaşayan ilk memeli olarak kabul edilir?",
+        "question": "Hangi otomobil markası, 'Land Cruiser' modelini üretmektedir?",
         "answers": [
             {
-                "text": "Ekinokok",
-                "isCorrect": false
-            },
-            {
-                "text": "Yüzgeçli Memeli",
-                "isCorrect": false
-            },
-            {
-                "text": "Vahşi Köpek",
-                "isCorrect": false
-            },
-            {
-                "text": "Teraçaş",
-                "isCorrect": true
-            }
-        ]
-    },
-    {
-        "question": "Hangi hayvan, memeli olmasına rağmen yumurta ile ürer?",
-        "answers": [
-            {
-                "text": "Yarasa",
-                "isCorrect": false
-            },
-            {
-                "text": "Kanguru",
-                "isCorrect": false
-            },
-            {
-                "text": "Öküz",
-                "isCorrect": false
-            },
-            {
-                "text": "Platon",
-                "isCorrect": true
-            }
-        ]
-    },
-    {
-        "question": "Hangisi, dünyanın en zehirli deniz canlısı olarak kabul edilen türdür?",
-        "answers": [
-            {
-                "text": "Kutu Balığı",
+                "text": "Toyota",
                 "isCorrect": true
             },
             {
-                "text": "Ahtapot",
+                "text": "Nissan",
                 "isCorrect": false
             },
             {
-                "text": "Jellyfish",
+                "text": "Jeep",
                 "isCorrect": false
             },
             {
-                "text": "Deniz Anası",
+                "text": "Mitsubishi",
                 "isCorrect": false
             }
         ]
     },
     {
-        "question": "Hangi hayvan, doğal olarak en uzun yaşam süresine sahip memelidir?",
+        "question": "Hangi araba markası, '911' modelini üretmektedir?",
         "answers": [
             {
-                "text": "Elephant (Fil)",
-                "isCorrect": false
-            },
-            {
-                "text": "Köpekbalığı",
-                "isCorrect": false
-            },
-            {
-                "text": "Tartıbalığı",
-                "isCorrect": false
-            },
-            {
-                "text": "Kıskaçlı Karides",
-                "isCorrect": true
-            }
-        ]
-    },
-    {
-        "question": "Hangi hayvan, hem su altında hem de karada yaşayabilen en büyük amfibidir?",
-        "answers": [
-            {
-                "text": "Aksolotl",
+                "text": "Porsche",
                 "isCorrect": true
             },
             {
-                "text": "Kurbağa",
+                "text": "Ferrari",
                 "isCorrect": false
             },
             {
-                "text": "Sürüngen",
+                "text": "Lamborghini",
                 "isCorrect": false
             },
             {
-                "text": "Köpekbalığı",
+                "text": "Maserati",
                 "isCorrect": false
             }
         ]
     },
     {
-        "question": "Hangi tür kuş, en iyi gece görüşüne sahip olarak bilinir?",
+        "question": "Hangi otomobil markası, 'S-Class' modelini üretmektedir?",
         "answers": [
             {
-                "text": "Baykuş",
+                "text": "Mercedes-Benz",
                 "isCorrect": true
             },
             {
-                "text": "Serçe",
+                "text": "BMW",
                 "isCorrect": false
             },
             {
-                "text": "Kırlangıç",
+                "text": "Audi",
                 "isCorrect": false
             },
             {
-                "text": "Martı",
+                "text": "Jaguar",
                 "isCorrect": false
             }
         ]
     },
     {
-        "question": "Hangi tür balık, vücudunda ışık üretebilme özelliğine sahip olarak bilinir?",
+        "question": "Hangi marka, 'F-150' adlı pick-up modelini üretmektedir?",
         "answers": [
             {
-                "text": "Işık Balığı",
+                "text": "Ford",
                 "isCorrect": true
             },
             {
-                "text": "Köpekbalığı",
+                "text": "Chevrolet",
                 "isCorrect": false
             },
             {
-                "text": "Tuzlu Su Balığı",
+                "text": "Ram",
                 "isCorrect": false
             },
             {
-                "text": "Somon",
+                "text": "Toyota",
                 "isCorrect": false
             }
         ]
     },
     {
-        "question": "Hangi canlı, vücut yapısı nedeniyle ‘kanatlı kertenkele’ olarak da bilinir?",
+        "question": "Hangi otomobil markası, 'Impreza' modelini üretmektedir?",
         "answers": [
             {
-                "text": "Uçan Kertenkele",
+                "text": "Subaru",
                 "isCorrect": true
             },
             {
-                "text": "Yılan",
+                "text": "Honda",
                 "isCorrect": false
             },
             {
-                "text": "Kertenkele",
+                "text": "Mazda",
                 "isCorrect": false
             },
             {
-                "text": "Kurbağa",
+                "text": "Kia",
                 "isCorrect": false
             }
         ]
     },
     {
-        "question": "Hangi memeli türü, en iyi yüzücülerden biri olarak bilinir ve denizde uzun süre kalabilir?",
+        "question": "Hangi otomobil markası, 'Cayenne' modelini üretmektedir?",
         "answers": [
             {
-                "text": "Yunus",
+                "text": "Porsche",
                 "isCorrect": true
             },
             {
-                "text": "Köpekbalığı",
+                "text": "Bentley",
                 "isCorrect": false
             },
             {
-                "text": "Penguen",
+                "text": "Rolls-Royce",
                 "isCorrect": false
             },
             {
-                "text": "Deniz Yıldızı",
+                "text": "Aston Martin",
                 "isCorrect": false
             }
         ]
     },
     {
-        "question": "Hangi tür böcek, 'kral böceği' olarak bilinir ve genellikle ormanlarda yaşar?",
+        "question": "Hangi otomobil markası, 'R8' modelini üretmektedir?",
         "answers": [
             {
-                "text": "Goliath Böceği",
+                "text": "Audi",
                 "isCorrect": true
             },
             {
-                "text": "Kızıl Böcek",
+                "text": "Ferrari",
                 "isCorrect": false
             },
             {
-                "text": "Kara Böcek",
+                "text": "Lamborghini",
                 "isCorrect": false
             },
             {
-                "text": "Ağaç Böceği",
+                "text": "McLaren",
                 "isCorrect": false
             }
         ]
     },
     {
-        "question": "Hangi deniz canlısı, vücudunda kan dolaşımı olmayan ve oksijeni doğrudan suyun içinden alabilen bir yapıya sahiptir?",
+        "question": "Hangi otomobil markası, 'Supra' modelini üretmektedir?",
         "answers": [
             {
-                "text": "Deniz Anası",
+                "text": "Toyota",
                 "isCorrect": true
             },
             {
-                "text": "Deniz Yıldızı",
+                "text": "Nissan",
                 "isCorrect": false
             },
             {
-                "text": "Yengeç",
+                "text": "Honda",
                 "isCorrect": false
             },
             {
-                "text": "Ahtapot",
+                "text": "Mazda",
                 "isCorrect": false
             }
         ]
     },
     {
-        "question": "Hangi tür yılan, zehri sayesinde avını felç edebilme yeteneğine sahiptir?",
+        "question": "Hangi otomobil markası, 'G-Wagon' modelini üretmektedir?",
         "answers": [
             {
-                "text": "Kobra",
+                "text": "Mercedes-Benz",
                 "isCorrect": true
             },
             {
-                "text": "Boa",
+                "text": "BMW",
                 "isCorrect": false
             },
             {
-                "text": "Piton",
+                "text": "Audi",
                 "isCorrect": false
             },
             {
-                "text": "Yerli Yılan",
+                "text": "Land Rover",
                 "isCorrect": false
             }
         ]
     },
     {
-        "question": "Hangi kuş türü, renkli tüyleri ve parlak renkleri ile bilinir ve genellikle tropikal bölgelerde yaşar?",
+        "question": "Hangi otomobil markası, 'Aston Martin DB11' modelini üretmektedir?",
         "answers": [
             {
-                "text": "Papağan",
+                "text": "Aston Martin",
                 "isCorrect": true
             },
             {
-                "text": "Serçe",
+                "text": "Bentley",
                 "isCorrect": false
             },
             {
-                "text": "Kırlangıç",
+                "text": "Rolls-Royce",
                 "isCorrect": false
             },
             {
-                "text": "Martı",
+                "text": "Jaguar",
                 "isCorrect": false
             }
         ]
     },
     {
-        "question": "Hangi hayvan, uzun ve güçlü pençeleri ile bilinir ve genellikle Avustralya'nın ormanlık bölgelerinde yaşar?",
+        "question": "Hangi marka, 'Q7' modelini üretmektedir?",
         "answers": [
             {
-                "text": "Koala",
-                "isCorrect": false
-            },
-            {
-                "text": "Kanguru",
-                "isCorrect": false
-            },
-            {
-                "text": "Wombat",
+                "text": "Audi",
                 "isCorrect": true
             },
             {
-                "text": "Dingo",
+                "text": "BMW",
+                "isCorrect": false
+            },
+            {
+                "text": "Mercedes-Benz",
+                "isCorrect": false
+            },
+            {
+                "text": "Volvo",
                 "isCorrect": false
             }
         ]
     },
     {
-        "question": "Hangi tür memeli, 'uçan köpek' olarak bilinir ve Asya'nın tropikal bölgelerinde yaşar?",
+        "question": "Hangi otomobil markası, 'Tundra' modelini üretmektedir?",
         "answers": [
             {
-                "text": "Yarasa",
+                "text": "Toyota",
                 "isCorrect": true
             },
             {
-                "text": "Sincap",
+                "text": "Ford",
                 "isCorrect": false
             },
             {
-                "text": "Zıp Zıp",
+                "text": "Chevrolet",
                 "isCorrect": false
             },
             {
-                "text": "Köpek",
+                "text": "Ram",
                 "isCorrect": false
             }
         ]
     },
     {
-        "question": "Hangi tür balık, kendi kendine ışık üretme özelliğine sahip olup derin denizlerde yaşar?",
+        "question": "Hangi otomobil markası, 'F-Type' modelini üretmektedir?",
         "answers": [
             {
-                "text": "Işık Balığı",
+                "text": "Jaguar",
                 "isCorrect": true
             },
             {
-                "text": "Denizanası",
+                "text": "Porsche",
                 "isCorrect": false
             },
             {
-                "text": "Yunus",
+                "text": "Ferrari",
                 "isCorrect": false
             },
             {
-                "text": "Köpekbalığı",
+                "text": "Maserati",
                 "isCorrect": false
             }
         ]
     },
     {
-        "question": "Hangi hayvan, doğal olarak kuzey yarımkürede yaşayan ve en büyük kıtanın kara köpekleri olarak bilinir?",
+        "question": "Hangi marka, 'X5' modelini üretmektedir?",
         "answers": [
             {
-                "text": "Kurt",
+                "text": "BMW",
                 "isCorrect": true
             },
             {
-                "text": "Kedi",
+                "text": "Audi",
                 "isCorrect": false
             },
             {
-                "text": "Ayı",
+                "text": "Mercedes-Benz",
                 "isCorrect": false
             },
             {
-                "text": "Sincap",
+                "text": "Land Rover",
                 "isCorrect": false
             }
         ]
     },
     {
-        "question": "Hangi tür memeli, yaşam döngüsünün büyük bir kısmını ağaçlarda geçirir ve genellikle Güney Amerika'da bulunur?",
+        "question": "Hangi otomobil markası, 'Palisade' modelini üretmektedir?",
         "answers": [
             {
-                "text": "Pekari",
-                "isCorrect": false
-            },
-            {
-                "text": "Sloth (Tembel Hayvan)",
+                "text": "Hyundai",
                 "isCorrect": true
             },
             {
-                "text": "Capybara",
+                "text": "Kia",
                 "isCorrect": false
             },
             {
-                "text": "Armadillo",
+                "text": "Honda",
+                "isCorrect": false
+            },
+            {
+                "text": "Toyota",
                 "isCorrect": false
             }
         ]
     },
     {
-        "question": "Hangi tür kuş, sadece 10-15 cm uzunluğunda olup, dünyanın en küçük kuşu olarak bilinir?",
+        "question": "Hangi marka, 'GT-R' modelini üretmektedir?",
         "answers": [
             {
-                "text": "Hummingbird (Sinek Kuşu)",
+                "text": "Nissan",
                 "isCorrect": true
             },
             {
-                "text": "Serçe",
+                "text": "Toyota",
                 "isCorrect": false
             },
             {
-                "text": "Kırlangıç",
+                "text": "Honda",
                 "isCorrect": false
             },
             {
-                "text": "Puhu",
+                "text": "Subaru",
                 "isCorrect": false
             }
         ]
     },
     {
-        "question": "Hangi tür deniz canlısı, vücut yapısında toplam 8 kol bulunur ve genellikle mercan resiflerinde yaşar?",
+        "question": "Hangi otomobil markası, 'Model S' ve 'Model X' elektrikli araçlarını üretmektedir?",
         "answers": [
             {
-                "text": "Ahtapot",
+                "text": "Tesla",
                 "isCorrect": true
             },
             {
-                "text": "Deniz Anası",
+                "text": "Nissan",
                 "isCorrect": false
             },
             {
-                "text": "Deniz Yıldızı",
+                "text": "Chevrolet",
                 "isCorrect": false
             },
             {
-                "text": "Köpekbalığı",
+                "text": "BMW",
                 "isCorrect": false
             }
         ]
     },
     {
-        "question": "Hangi tür böcek, özellikle büyük avcı gözleri ve uzun bacakları ile tanınır?",
+        "question": "Hangi marka, 'Civic' modelini üretmektedir?",
         "answers": [
             {
-                "text": "Kızıl Böcek",
-                "isCorrect": false
-            },
-            {
-                "text": "Böcekler",
-                "isCorrect": false
-            },
-            {
-                "text": "Tarantula",
-                "isCorrect": false
-            },
-            {
-                "text": "Saldırgan Çekirge",
-                "isCorrect": true
-            }
-        ]
-    },
-    {
-        "question": "Hangi canlı, 'dünyanın en hızlı hayvanı' olarak bilinir ve avlanma sırasında hızını önemli ölçüde artırabilir?",
-        "answers": [
-            {
-                "text": "Cheetah (Kaplan)",
+                "text": "Honda",
                 "isCorrect": true
             },
             {
-                "text": "Aslan",
+                "text": "Toyota",
                 "isCorrect": false
             },
             {
-                "text": "Köpekbalığı",
+                "text": "Mazda",
                 "isCorrect": false
             },
             {
-                "text": "Zebra",
+                "text": "Hyundai",
                 "isCorrect": false
             }
         ]
     },
     {
-        "question": "Hangi hayvan, suyun altında solunum yapabilen ve uzun süre balık olarak yaşamaya uygun olan bir yapıya sahiptir?",
+        "question": "Hangi otomobil markası, 'Corvette' modelini üretmektedir?",
         "answers": [
             {
-                "text": "Köpekbalığı",
+                "text": "Chevrolet",
                 "isCorrect": true
             },
             {
-                "text": "Yunus",
+                "text": "Ford",
                 "isCorrect": false
             },
             {
-                "text": "Penguen",
+                "text": "Dodge",
                 "isCorrect": false
             },
             {
-                "text": "Yengeç",
+                "text": "Porsche",
                 "isCorrect": false
             }
         ]
     },
     {
-        "question": "Hangi hayvan türü, derin denizlerde yaşar ve 'deniz ejderhası' olarak bilinir?",
+        "question": "Hangi marka, 'Ranger' modelini üretmektedir?",
         "answers": [
             {
-                "text": "Deniz Ejderhası",
+                "text": "Ford",
                 "isCorrect": true
             },
             {
-                "text": "Yunus",
+                "text": "Chevrolet",
                 "isCorrect": false
             },
             {
-                "text": "Deniz Kestanesi",
+                "text": "Ram",
                 "isCorrect": false
             },
             {
-                "text": "Köpekbalığı",
+                "text": "Toyota",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi otomobil markası, 'S-Class' modelini üretmektedir?",
+        "answers": [
+            {
+                "text": "Mercedes-Benz",
+                "isCorrect": true
+            },
+            {
+                "text": "Audi",
+                "isCorrect": false
+            },
+            {
+                "text": "BMW",
+                "isCorrect": false
+            },
+            {
+                "text": "Lexus",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi otomobil markası, 'Suburban' modelini üretmektedir?",
+        "answers": [
+            {
+                "text": "Chevrolet",
+                "isCorrect": true
+            },
+            {
+                "text": "GMC",
+                "isCorrect": false
+            },
+            {
+                "text": "Ford",
+                "isCorrect": false
+            },
+            {
+                "text": "Ram",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi marka, 'Macan' modelini üretmektedir?",
+        "answers": [
+            {
+                "text": "Porsche",
+                "isCorrect": true
+            },
+            {
+                "text": "Audi",
+                "isCorrect": false
+            },
+            {
+                "text": "BMW",
+                "isCorrect": false
+            },
+            {
+                "text": "Mercedes-Benz",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi otomobil markası, 'Veyron' modelini üretmektedir?",
+        "answers": [
+            {
+                "text": "Bugatti",
+                "isCorrect": true
+            },
+            {
+                "text": "Ferrari",
+                "isCorrect": false
+            },
+            {
+                "text": "Lamborghini",
+                "isCorrect": false
+            },
+            {
+                "text": "Porsche",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi marka, 'GT3 RS' modelini üretmektedir?",
+        "answers": [
+            {
+                "text": "Porsche",
+                "isCorrect": true
+            },
+            {
+                "text": "Ferrari",
+                "isCorrect": false
+            },
+            {
+                "text": "McLaren",
+                "isCorrect": false
+            },
+            {
+                "text": "Aston Martin",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi otomobil markası, 'Juke' modelini üretmektedir?",
+        "answers": [
+            {
+                "text": "Nissan",
+                "isCorrect": true
+            },
+            {
+                "text": "Toyota",
+                "isCorrect": false
+            },
+            {
+                "text": "Honda",
+                "isCorrect": false
+            },
+            {
+                "text": "Mazda",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi marka, 'Camry' modelini üretmektedir?",
+        "answers": [
+            {
+                "text": "Toyota",
+                "isCorrect": true
+            },
+            {
+                "text": "Honda",
+                "isCorrect": false
+            },
+            {
+                "text": "Nissan",
+                "isCorrect": false
+            },
+            {
+                "text": "Ford",
                 "isCorrect": false
             }
         ]
     }
+    
 ]

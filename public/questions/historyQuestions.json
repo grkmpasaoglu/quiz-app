@@ -1,0 +1,947 @@
+[
+    {
+        "question": "Türkiye Cumhuriyeti'nin kurucusu kimdir?",
+        "answers": [
+            {
+                "text": "İsmet İnönü",
+                "isCorrect": false
+            },
+            {
+                "text": "Mustafa Kemal Atatürk",
+                "isCorrect": true
+            },
+            {
+                "text": "Turgut Özal",
+                "isCorrect": false
+            },
+            {
+                "text": "Süleyman Demirel",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "I. Dünya Savaşı hangi yıllar arasında gerçekleşmiştir?",
+        "answers": [
+            {
+                "text": "1915-1917",
+                "isCorrect": false
+            },
+            {
+                "text": "1912-1914",
+                "isCorrect": false
+            },
+            {
+                "text": "1920-1922",
+                "isCorrect": false
+            },
+            {
+                "text": "1914-1918",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "Osmanlı İmparatorluğu'nun ilk başkenti neresidir?",
+        "answers": [
+            {
+                "text": "Edirne",
+                "isCorrect": false
+            },
+            {
+                "text": "İstanbul",
+                "isCorrect": false
+            },
+            {
+                "text": "Ankara",
+                "isCorrect": false
+            },
+            {
+                "text": "Bursa",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "Fransa'nın 1789 yılında başlayan ve monarşiyi sona erdiren devrim hangi isimle anılır?",
+        "answers": [
+            {
+                "text": "Sanayi Devrimi",
+                "isCorrect": false
+            },
+            {
+                "text": "Bahar Devrimi",
+                "isCorrect": false
+            },
+            {
+                "text": "Fransız Devrimi",
+                "isCorrect": true
+            },
+            {
+                "text": "Rönesans",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "MÖ 3000'lerde Mısır'da firavunların hükümet ettiği ve piramitlerin inşa edildiği dönem hangi isimle anılır?",
+        "answers": [
+            {
+                "text": "Gizemli Krallık",
+                "isCorrect": false
+            },
+            {
+                "text": "Yeni Krallık",
+                "isCorrect": false
+            },
+            {
+                "text": "Eski Krallık",
+                "isCorrect": true
+            },
+            {
+                "text": "Orta Krallık",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangisi Roma İmparatorluğu'nun ilk imparatorudur?",
+        "answers": [
+            {
+                "text": "Jül Sezar",
+                "isCorrect": false
+            },
+            {
+                "text": "Trajan",
+                "isCorrect": false
+            },
+            {
+                "text": "Neron",
+                "isCorrect": false
+            },
+            {
+                "text": "Augustus",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "Türk Kurtuluş Savaşı'nın lideri kimdir?",
+        "answers": [
+            {
+                "text": "Fevzi Çakmak",
+                "isCorrect": false
+            },
+            {
+                "text": "Mustafa Kemal Atatürk",
+                "isCorrect": true
+            },
+            {
+                "text": "Kazım Karabekir",
+                "isCorrect": false
+            },
+            {
+                "text": "İsmet İnönü",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Osmanlı İmparatorluğu'nun yıkılmasına neden olan savaş hangisidir?",
+        "answers": [
+            {
+                "text": "Yunan Savaşı",
+                "isCorrect": false
+            },
+            {
+                "text": "Çanakkale Savaşı",
+                "isCorrect": false
+            },
+            {
+                "text": "Kurtuluş Savaşı",
+                "isCorrect": false
+            },
+            {
+                "text": "I. Dünya Savaşı",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "Kurtuluş Savaşı sırasında Türkiye Cumhuriyeti'nin ilk başkenti neresidir?",
+        "answers": [
+            {
+                "text": "İstanbul",
+                "isCorrect": false
+            },
+            {
+                "text": "Bursa",
+                "isCorrect": false
+            },
+            {
+                "text": "Ankara",
+                "isCorrect": true
+            },
+            {
+                "text": "İzmir",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Aşağıdaki savaşlardan hangisi II. Dünya Savaşı sırasında gerçekleşmemiştir?",
+        "answers": [
+            {
+                "text": "Stalingrad Savaşı",
+                "isCorrect": false
+            },
+            {
+                "text": "El-Alamein Savaşı",
+                "isCorrect": false
+            },
+            {
+                "text": "Normandiya Çıkarması",
+                "isCorrect": false
+            },
+            {
+                "text": "Yassıada Yargılamaları",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "Osmanlı İmparatorluğu'nda 17. yüzyılda yapılan ve “Girit Savaşı” olarak bilinen savaş hangi devlete karşı yapılmıştır?",
+        "answers": [
+            {
+                "text": "Avusturya",
+                "isCorrect": false
+            },
+            {
+                "text": "Rusya",
+                "isCorrect": false
+            },
+            {
+                "text": "Venedik",
+                "isCorrect": true
+            },
+            {
+                "text": "Fransa",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi Osmanlı padişahı, “Kanuni Sultan Süleyman” olarak bilinir?",
+        "answers": [
+            {
+                "text": "Sultan Ahmet I",
+                "isCorrect": false
+            },
+            {
+                "text": "II. Mahmud",
+                "isCorrect": false
+            },
+            {
+                "text": "I. Selim",
+                "isCorrect": false
+            },
+            {
+                "text": "Süleyman I",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "Meksika'da 1521'de Aztek İmparatorluğu'nu fetheden İspanyol kaşif kimdir?",
+        "answers": [
+            {
+                "text": "Hernán Cortés",
+                "isCorrect": true
+            },
+            {
+                "text": "Francisco Pizarro",
+                "isCorrect": false
+            },
+            {
+                "text": "Vasco da Gama",
+                "isCorrect": false
+            },
+            {
+                "text": "Ferdinand Magellan",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Aşağıdaki savaşlardan hangisi, 20. yüzyılda iki büyük dünya savaşından biri olarak kabul edilir?",
+        "answers": [
+            {
+                "text": "Kore Savaşı",
+                "isCorrect": false
+            },
+            {
+                "text": "Vietnam Savaşı",
+                "isCorrect": false
+            },
+            {
+                "text": "I. Dünya Savaşı",
+                "isCorrect": true
+            },
+            {
+                "text": "Sıcak Savaş",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "MÖ 4. yüzyılda, Makedonya'da imparatorluk kurarak büyük bir askeri başarı kazanan kişi kimdir?",
+        "answers": [
+            {
+                "text": "İskender",
+                "isCorrect": true
+            },
+            {
+                "text": "Krispos",
+                "isCorrect": false
+            },
+            {
+                "text": "Leonidas",
+                "isCorrect": false
+            },
+            {
+                "text": "Perikles",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangisi, Fransız Devrimi'nin sonuçlarından biri değildir?",
+        "answers": [
+            {
+                "text": "Feodalizmin sona ermesi",
+                "isCorrect": false
+            },
+            {
+                "text": "Sosyal eşitlik",
+                "isCorrect": false
+            },
+            {
+                "text": "Kraliyet Ailesi'nin yeniden iktidara gelmesi",
+                "isCorrect": true
+            },
+            {
+                "text": "Demokratik ilkelerin yayılması",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Amerika Birleşik Devletleri'nde 1861-1865 yılları arasında gerçekleşen iç savaşın adı nedir?",
+        "answers": [
+            {
+                "text": "İç Savaş",
+                "isCorrect": false
+            },
+            {
+                "text": "Bağımsızlık Savaşı",
+                "isCorrect": false
+            },
+            {
+                "text": "Kuzey-Güney Savaşı",
+                "isCorrect": true
+            },
+            {
+                "text": "Sivil Savaş",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Birinci Dünya Savaşı sırasında hangi ülke İtilaf Devletleri'ne dahil olmuştur?",
+        "answers": [
+            {
+                "text": "Almanya",
+                "isCorrect": false
+            },
+            {
+                "text": "Avusturya-Macaristan",
+                "isCorrect": false
+            },
+            {
+                "text": "Osmanlı İmparatorluğu",
+                "isCorrect": false
+            },
+            {
+                "text": "Fransa",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "Hangi padişah, 1453 yılında İstanbul'u fethederek Bizans İmparatorluğu'na son vermiştir?",
+        "answers": [
+            {
+                "text": "II. Murad",
+                "isCorrect": false
+            },
+            {
+                "text": "II. Beyazıt",
+                "isCorrect": false
+            },
+            {
+                "text": "Yavuz Sultan Selim",
+                "isCorrect": false
+            },
+            {
+                "text": "Fatih Sultan Mehmet",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "Aşağıdaki ülkelerden hangisi Birinci Dünya Savaşı'nın galip devletlerinden biri değildir?",
+        "answers": [
+            {
+                "text": "Fransa",
+                "isCorrect": false
+            },
+            {
+                "text": "İngiltere",
+                "isCorrect": false
+            },
+            {
+                "text": "Japonya",
+                "isCorrect": false
+            },
+            {
+                "text": "Almanya",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "Osmanlı İmparatorluğu'nun ilk Osmanlı padişahı kimdir?",
+        "answers": [
+            {
+                "text": "Orhan Gazi",
+                "isCorrect": false
+            },
+            {
+                "text": "I. Murad",
+                "isCorrect": false
+            },
+            {
+                "text": "Osman Gazi",
+                "isCorrect": true
+            },
+            {
+                "text": "II. Bayezid",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangisi, Roma İmparatorluğu'nun bölünmesini ve Batı Roma İmparatorluğu'nun çöküşünü hızlandıran faktörlerden biri değildir?",
+        "answers": [
+            {
+                "text": "Savaşlar",
+                "isCorrect": false
+            },
+            {
+                "text": "İç savaşlar",
+                "isCorrect": false
+            },
+            {
+                "text": "Yabancı işgaller",
+                "isCorrect": false
+            },
+            {
+                "text": "Yüksek teknoloji",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "MÖ 5. yüzyılda Yunan şehir devletlerinin birleşerek Perslere karşı verdiği savaşın adı nedir?",
+        "answers": [
+            {
+                "text": "Peloponez Savaşı",
+                "isCorrect": false
+            },
+            {
+                "text": "Maraton Savaşı",
+                "isCorrect": false
+            },
+            {
+                "text": "Termopil Savaşı",
+                "isCorrect": false
+            },
+            {
+                "text": "Pers Savaşları",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "Hangi olay, 1989'da Berlin Duvarı'nın yıkılmasıyla sona ermiştir?",
+        "answers": [
+            {
+                "text": "Soğuk Savaş",
+                "isCorrect": true
+            },
+            {
+                "text": "Vietnam Savaşı",
+                "isCorrect": false
+            },
+            {
+                "text": "Küba Füze Krizi",
+                "isCorrect": false
+            },
+            {
+                "text": "Kore Savaşı",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "MÖ 3000 civarında Mezopotamya'da yazı sistemini geliştiren medeniyet hangisidir?",
+        "answers": [
+            {
+                "text": "Sümerler",
+                "isCorrect": true
+            },
+            {
+                "text": "Hititler",
+                "isCorrect": false
+            },
+            {
+                "text": "Babililer",
+                "isCorrect": false
+            },
+            {
+                "text": "Asurlar",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi ülke, 1917'de Bolşevik Devrimi ile komünist bir hükümet kurdu?",
+        "answers": [
+            {
+                "text": "Çin",
+                "isCorrect": false
+            },
+            {
+                "text": "Almanya",
+                "isCorrect": false
+            },
+            {
+                "text": "Rusya",
+                "isCorrect": true
+            },
+            {
+                "text": "Fransa",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Tarihteki ilk imparatorluk olarak kabul edilen ve Mezopotamya'da kurulan medeniyet hangisidir?",
+        "answers": [
+            {
+                "text": "Sümerler",
+                "isCorrect": false
+            },
+            {
+                "text": "Akadlar",
+                "isCorrect": true
+            },
+            {
+                "text": "Babililer",
+                "isCorrect": false
+            },
+            {
+                "text": "Asurlar",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Gılgamış Destanı hangi uygarlık tarafından yazılmıştır?",
+        "answers": [
+            {
+                "text": "Mısırlılar",
+                "isCorrect": false
+            },
+            {
+                "text": "Hititler",
+                "isCorrect": false
+            },
+            {
+                "text": "Sümerler",
+                "isCorrect": true
+            },
+            {
+                "text": "Yunanlılar",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangisi, 19. yüzyılda Avusturya-Macaristan İmparatorluğu'nun bir parçasıydı?",
+        "answers": [
+            {
+                "text": "Macaristan",
+                "isCorrect": true
+            },
+            {
+                "text": "Slovakya",
+                "isCorrect": false
+            },
+            {
+                "text": "Polonya",
+                "isCorrect": false
+            },
+            {
+                "text": "Sırbistan",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "İkinci Dünya Savaşı'nda, hangi ülke Mihver Devletleri'nin bir parçası olarak savaşmıştır?",
+        "answers": [
+            {
+                "text": "Polonya",
+                "isCorrect": false
+            },
+            {
+                "text": "Fransa",
+                "isCorrect": false
+            },
+            {
+                "text": "Japonya",
+                "isCorrect": true
+            },
+            {
+                "text": "Yugoslavya",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Osmanlı İmparatorluğu'nun son padişahı kimdir?",
+        "answers": [
+            {
+                "text": "Vahdettin",
+                "isCorrect": true
+            },
+            {
+                "text": "II. Abdülhamid",
+                "isCorrect": false
+            },
+            {
+                "text": "II. Mahmud",
+                "isCorrect": false
+            },
+            {
+                "text": "Mehmed V",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangisi, 1917'de gerçekleşen Ekim Devrimi ile iktidara gelen Rus komünist liderdir?",
+        "answers": [
+            {
+                "text": "Leon Trotsky",
+                "isCorrect": false
+            },
+            {
+                "text": "Vladimir Lenin",
+                "isCorrect": true
+            },
+            {
+                "text": "Joseph Stalin",
+                "isCorrect": false
+            },
+            {
+                "text": "Nikolay Bukharin",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "MÖ 2560 yılında inşa edilen ve dünyanın yedi harikasından biri olarak kabul edilen yapı hangisidir?",
+        "answers": [
+            {
+                "text": "İskenderiye Feneri",
+                "isCorrect": false
+            },
+            {
+                "text": "Giza Piramitleri",
+                "isCorrect": true
+            },
+            {
+                "text": "Babil'in Asma Bahçeleri",
+                "isCorrect": false
+            },
+            {
+                "text": "Zeus Heykeli",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi imparatorluk, 14. yüzyılda Asya'nın büyük bir kısmını fethederek geniş bir toprak edinmiştir?",
+        "answers": [
+            {
+                "text": "Osmanlı İmparatorluğu",
+                "isCorrect": false
+            },
+            {
+                "text": "Moğol İmparatorluğu",
+                "isCorrect": true
+            },
+            {
+                "text": "Roma İmparatorluğu",
+                "isCorrect": false
+            },
+            {
+                "text": "Bizans İmparatorluğu",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangisi, Antik Roma'da halk toplantıları ve devlet işlerinin yürütüldüğü ana meydandır?",
+        "answers": [
+            {
+                "text": "Forum Romanum",
+                "isCorrect": true
+            },
+            {
+                "text": "Colosseum",
+                "isCorrect": false
+            },
+            {
+                "text": "Pantheon",
+                "isCorrect": false
+            },
+            {
+                "text": "Circus Maximus",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangisi, MÖ 431-404 yılları arasında Yunan şehir devletleri arasında gerçekleşen büyük bir savaştır?",
+        "answers": [
+            {
+                "text": "Peloponez Savaşı",
+                "isCorrect": true
+            },
+            {
+                "text": "Maraton Savaşı",
+                "isCorrect": false
+            },
+            {
+                "text": "Termopil Savaşı",
+                "isCorrect": false
+            },
+            {
+                "text": "İskender Savaşları",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi Osmanlı padişahı, 1526'da Mohaç Meydan Muharebesi'ni kazanarak Macaristan'ı fethetmiştir?",
+        "answers": [
+            {
+                "text": "Süleyman I",
+                "isCorrect": true
+            },
+            {
+                "text": "Selim I",
+                "isCorrect": false
+            },
+            {
+                "text": "II. Murad",
+                "isCorrect": false
+            },
+            {
+                "text": "Fatih Sultan Mehmet",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangisi, 1950'lerde Kore Savaşı sırasında Kuzey Kore'yi destekleyen bir ülke değildir?",
+        "answers": [
+            {
+                "text": "Çin",
+                "isCorrect": false
+            },
+            {
+                "text": "Sovyetler Birliği",
+                "isCorrect": false
+            },
+            {
+                "text": "Japonya",
+                "isCorrect": true
+            },
+            {
+                "text": "Vietnam",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi medeniyet, Antik Mısır'da piramitleri inşa etmiştir?",
+        "answers": [
+            {
+                "text": "Keldaniler",
+                "isCorrect": false
+            },
+            {
+                "text": "Hititler",
+                "isCorrect": false
+            },
+            {
+                "text": "Mısırlılar",
+                "isCorrect": true
+            },
+            {
+                "text": "Fenikeliler",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi İslam halifesi, Endülüs Emevi Devleti'nin kurucusudur?",
+        "answers": [
+            {
+                "text": "Abdül-Rahman I",
+                "isCorrect": true
+            },
+            {
+                "text": "Harun Reşid",
+                "isCorrect": false
+            },
+            {
+                "text": "Ebu Bekir",
+                "isCorrect": false
+            },
+            {
+                "text": "Muaviye I",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "I. Dünya Savaşı'ndan sonra, hangi anlaşma Almanya'nın savaştan sorumlu olduğunu kabul eden ve ağır yükümlülükler getiren anlaşmadır?",
+        "answers": [
+            {
+                "text": "Versay Antlaşması",
+                "isCorrect": true
+            },
+            {
+                "text": "Lozan Antlaşması",
+                "isCorrect": false
+            },
+            {
+                "text": "Görlitz Antlaşması",
+                "isCorrect": false
+            },
+            {
+                "text": "Kiev Antlaşması",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi savaş, 1066 yılında İngiltere'de Normanlar ile Anglo-Saksonlar arasında gerçekleşmiştir?",
+        "answers": [
+            {
+                "text": "Hastings Savaşı",
+                "isCorrect": true
+            },
+            {
+                "text": "Trafalgar Savaşı",
+                "isCorrect": false
+            },
+            {
+                "text": "Agincourt Savaşı",
+                "isCorrect": false
+            },
+            {
+                "text": "Waterloo Savaşı",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "MÖ 44 yılında suikaste uğrayan ve Roma Cumhuriyeti'ni sona erdiren kişi kimdir?",
+        "answers": [
+            {
+                "text": "Jül Sezar",
+                "isCorrect": true
+            },
+            {
+                "text": "Augustus",
+                "isCorrect": false
+            },
+            {
+                "text": "Neron",
+                "isCorrect": false
+            },
+            {
+                "text": "Mark Antony",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Birinci Dünya Savaşı'nın sonunda imzalanan, Osmanlı İmparatorluğu'nun topraklarını paylaşan anlaşmanın adı nedir?",
+        "answers": [
+            {
+                "text": "Sevr Antlaşması",
+                "isCorrect": true
+            },
+            {
+                "text": "Gümrü Antlaşması",
+                "isCorrect": false
+            },
+            {
+                "text": "Moskova Antlaşması",
+                "isCorrect": false
+            },
+            {
+                "text": "Lozan Antlaşması",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi ülke, 1492 yılında Kristof Kolomb'un Yeni Dünya'ya ilk keşif gezisini gerçekleştirdiği ülke olarak bilinir?",
+        "answers": [
+            {
+                "text": "İspanya",
+                "isCorrect": true
+            },
+            {
+                "text": "Portekiz",
+                "isCorrect": false
+            },
+            {
+                "text": "Fransa",
+                "isCorrect": false
+            },
+            {
+                "text": "İtalya",
+                "isCorrect": false
+            }
+        ]
+    }
+]

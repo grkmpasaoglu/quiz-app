@@ -1,0 +1,1346 @@
+[
+    {
+        "question": "Hangi elementin kimyasal simgesi 'O'dur?",
+        "answers": [
+            {
+                "text": "Oksijen",
+                "isCorrect": true
+            },
+            {
+                "text": "Osmiyum",
+                "isCorrect": false
+            },
+            {
+                "text": "Oryantum",
+                "isCorrect": false
+            },
+            {
+                "text": "Oganesson",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Dünya'nın yüzeyindeki en büyük okyanus hangisidir?",
+        "answers": [
+            {
+                "text": "Pasifik Okyanusu",
+                "isCorrect": true
+            },
+            {
+                "text": "Atlantik Okyanusu",
+                "isCorrect": false
+            },
+            {
+                "text": "Hint Okyanusu",
+                "isCorrect": false
+            },
+            {
+                "text": "Kuzey Buz Denizi",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi gezegen Güneş Sistemi'ndeki en büyük gezegendir?",
+        "answers": [
+            {
+                "text": "Jüpiter",
+                "isCorrect": true
+            },
+            {
+                "text": "Satürn",
+                "isCorrect": false
+            },
+            {
+                "text": "Uranüs",
+                "isCorrect": false
+            },
+            {
+                "text": "Neptün",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi bilim dalı, canlıların sınıflandırılmasıyla ilgilenir?",
+        "answers": [
+            {
+                "text": "Biyoloji",
+                "isCorrect": true
+            },
+            {
+                "text": "Kimya",
+                "isCorrect": false
+            },
+            {
+                "text": "Fizik",
+                "isCorrect": false
+            },
+            {
+                "text": "Astronomi",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "DNA'nın kısaltması nedir?",
+        "answers": [
+            {
+                "text": "Deoksiribonükleik Asit",
+                "isCorrect": true
+            },
+            {
+                "text": "Ribonükleik Asit",
+                "isCorrect": false
+            },
+            {
+                "text": "Deoksiribonükleik Asit ve Ribonükleik Asit",
+                "isCorrect": false
+            },
+            {
+                "text": "Deoksiribonükleik Asit ve Ribonükleik Asit",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Bir madde, gaz halinden sıvı hale geçerken hangi terim kullanılır?",
+        "answers": [
+            {
+                "text": "Yoğunlaşma",
+                "isCorrect": true
+            },
+            {
+                "text": "Buharlaşma",
+                "isCorrect": false
+            },
+            {
+                "text": "Erime",
+                "isCorrect": false
+            },
+            {
+                "text": "Süblimleşme",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi gezegen Güneş Sistemi'nde 'kırmızı gezegen' olarak bilinir?",
+        "answers": [
+            {
+                "text": "Mars",
+                "isCorrect": true
+            },
+            {
+                "text": "Venüs",
+                "isCorrect": false
+            },
+            {
+                "text": "Merkür",
+                "isCorrect": false
+            },
+            {
+                "text": "Uranüs",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi elementin kimyasal simgesi 'Fe'dir?",
+        "answers": [
+            {
+                "text": "Demir",
+                "isCorrect": true
+            },
+            {
+                "text": "Flüor",
+                "isCorrect": false
+            },
+            {
+                "text": "Fosfor",
+                "isCorrect": false
+            },
+            {
+                "text": "Fiyat",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Işık hızının yaklaşık değeri nedir?",
+        "answers": [
+            {
+                "text": "299,792,458 metre/saniye",
+                "isCorrect": true
+            },
+            {
+                "text": "300,000,000 metre/saniye",
+                "isCorrect": false
+            },
+            {
+                "text": "150,000,000 metre/saniye",
+                "isCorrect": false
+            },
+            {
+                "text": "400,000,000 metre/saniye",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi gezegenin yüzeyinde en yüksek dağ yer almaktadır?",
+        "answers": [
+            {
+                "text": "Mars",
+                "isCorrect": true
+            },
+            {
+                "text": "Venüs",
+                "isCorrect": false
+            },
+            {
+                "text": "Jüpiter",
+                "isCorrect": false
+            },
+            {
+                "text": "Satürn",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Einstein'ın ünlü formülü nedir?",
+        "answers": [
+            {
+                "text": "E = mc²",
+                "isCorrect": true
+            },
+            {
+                "text": "F = ma",
+                "isCorrect": false
+            },
+            {
+                "text": "V = IR",
+                "isCorrect": false
+            },
+            {
+                "text": "P = mv",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi gezegen Güneş Sistemi'ndeki en soğuk gezegendir?",
+        "answers": [
+            {
+                "text": "Neptün",
+                "isCorrect": true
+            },
+            {
+                "text": "Uranüs",
+                "isCorrect": false
+            },
+            {
+                "text": "Satürn",
+                "isCorrect": false
+            },
+            {
+                "text": "Plüton",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi bilim dalı, evrendeki tüm doğal olayları ve süreçleri incelemektedir?",
+        "answers": [
+            {
+                "text": "Fizik",
+                "isCorrect": true
+            },
+            {
+                "text": "Kimya",
+                "isCorrect": false
+            },
+            {
+                "text": "Biyoloji",
+                "isCorrect": false
+            },
+            {
+                "text": "Astronomi",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi gezegenin yüzeyinde yoğun bir atmosfer bulunur?",
+        "answers": [
+            {
+                "text": "Venüs",
+                "isCorrect": true
+            },
+            {
+                "text": "Mars",
+                "isCorrect": false
+            },
+            {
+                "text": "Merkür",
+                "isCorrect": false
+            },
+            {
+                "text": "Jüpiter",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi gezegenin yüzeyinde en yüksek dağ yer almaktadır?",
+        "answers": [
+            {
+                "text": "Mars",
+                "isCorrect": true
+            },
+            {
+                "text": "Venüs",
+                "isCorrect": false
+            },
+            {
+                "text": "Jüpiter",
+                "isCorrect": false
+            },
+            {
+                "text": "Satürn",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Bir yıldızın ışığının bizlere ulaşması ne kadar sürer?",
+        "answers": [
+            {
+                "text": "Işığın bize ulaşması yıldızın ışık yılı uzaklığında",
+                "isCorrect": true
+            },
+            {
+                "text": "Yıldızın kendisinden gelir",
+                "isCorrect": false
+            },
+            {
+                "text": "Küresel Aydınlanma",
+                "isCorrect": false
+            },
+            {
+                "text": "Yakınlık ve Parlaklık",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi element, periyodik tablodaki en hafif elementtir?",
+        "answers": [
+            {
+                "text": "Hidrojen",
+                "isCorrect": true
+            },
+            {
+                "text": "Helyum",
+                "isCorrect": false
+            },
+            {
+                "text": "Lityum",
+                "isCorrect": false
+            },
+            {
+                "text": "Berilyum",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi bilim adamı, 1896'da radyoaktiviteyi keşfetmiştir?",
+        "answers": [
+            {
+                "text": "Marie Curie",
+                "isCorrect": true
+            },
+            {
+                "text": "Albert Einstein",
+                "isCorrect": false
+            },
+            {
+                "text": "Isaac Newton",
+                "isCorrect": false
+            },
+            {
+                "text": "Niels Bohr",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi bilim dalı, beyin ve sinir sistemi üzerindeki çalışmaları inceler?",
+        "answers": [
+            {
+                "text": "Nörobilim",
+                "isCorrect": true
+            },
+            {
+                "text": "Psikoloji",
+                "isCorrect": false
+            },
+            {
+                "text": "Fizyoloji",
+                "isCorrect": false
+            },
+            {
+                "text": "Genetik",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi element, periyodik tablodaki en bol elementtir?",
+        "answers": [
+            {
+                "text": "Azot",
+                "isCorrect": true
+            },
+            {
+                "text": "Oksijen",
+                "isCorrect": false
+            },
+            {
+                "text": "Karbon",
+                "isCorrect": false
+            },
+            {
+                "text": "Kükürt",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi gezegen, Güneş Sistemi'ndeki en büyük gezegen olarak bilinir?",
+        "answers": [
+            {
+                "text": "Jüpiter",
+                "isCorrect": true
+            },
+            {
+                "text": "Satürn",
+                "isCorrect": false
+            },
+            {
+                "text": "Uranüs",
+                "isCorrect": false
+            },
+            {
+                "text": "Neptün",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi gezegenin atmosferinde en fazla metan bulunur?",
+        "answers": [
+            {
+                "text": "Jüpiter",
+                "isCorrect": true
+            },
+            {
+                "text": "Satürn",
+                "isCorrect": false
+            },
+            {
+                "text": "Uranüs",
+                "isCorrect": false
+            },
+            {
+                "text": "Neptün",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi bilim dalı, bitkilerin büyüme ve gelişmesini inceler?",
+        "answers": [
+            {
+                "text": "Botanik",
+                "isCorrect": true
+            },
+            {
+                "text": "Zooloji",
+                "isCorrect": false
+            },
+            {
+                "text": "Ekoloji",
+                "isCorrect": false
+            },
+            {
+                "text": "Mikrobiyoloji",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi gezegenin yüzeyinde en büyük volkan yer almaktadır?",
+        "answers": [
+            {
+                "text": "Mars",
+                "isCorrect": true
+            },
+            {
+                "text": "Venüs",
+                "isCorrect": false
+            },
+            {
+                "text": "Jüpiter",
+                "isCorrect": false
+            },
+            {
+                "text": "Satürn",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi gezegenin atmosferinde en fazla hidrojen bulunur?",
+        "answers": [
+            {
+                "text": "Jüpiter",
+                "isCorrect": true
+            },
+            {
+                "text": "Satürn",
+                "isCorrect": false
+            },
+            {
+                "text": "Uranüs",
+                "isCorrect": false
+            },
+            {
+                "text": "Neptün",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Bir elektronun kütlesi yaklaşık olarak ne kadardır?",
+        "answers": [
+            {
+                "text": "9.11 × 10^-31 kg",
+                "isCorrect": true
+            },
+            {
+                "text": "1.67 × 10^-27 kg",
+                "isCorrect": false
+            },
+            {
+                "text": "1.67 × 10^-24 kg",
+                "isCorrect": false
+            },
+            {
+                "text": "2.18 × 10^-18 kg",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi gezegenin atmosferinde en fazla azot bulunur?",
+        "answers": [
+            {
+                "text": "Venüs",
+                "isCorrect": true
+            },
+            {
+                "text": "Mars",
+                "isCorrect": false
+            },
+            {
+                "text": "Merkür",
+                "isCorrect": false
+            },
+            {
+                "text": "Jüpiter",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi gezegenin atmosferinde en fazla metan bulunur?",
+        "answers": [
+            {
+                "text": "Uranüs",
+                "isCorrect": true
+            },
+            {
+                "text": "Neptün",
+                "isCorrect": false
+            },
+            {
+                "text": "Venüs",
+                "isCorrect": false
+            },
+            {
+                "text": "Satürn",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi gezegen Güneş Sistemi'ndeki en sıcak gezegendir?",
+        "answers": [
+            {
+                "text": "Venüs",
+                "isCorrect": true
+            },
+            {
+                "text": "Merkür",
+                "isCorrect": false
+            },
+            {
+                "text": "Mars",
+                "isCorrect": false
+            },
+            {
+                "text": "Jüpiter",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi gezegenin yüzeyinde en büyük çarpma krateri bulunur?",
+        "answers": [
+            {
+                "text": "Mars",
+                "isCorrect": true
+            },
+            {
+                "text": "Venüs",
+                "isCorrect": false
+            },
+            {
+                "text": "Satürn",
+                "isCorrect": false
+            },
+            {
+                "text": "Jüpiter",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi bilim dalı, yıldızların ve gezegenlerin hareketlerini inceler?",
+        "answers": [
+            {
+                "text": "Astronomi",
+                "isCorrect": true
+            },
+            {
+                "text": "Fizik",
+                "isCorrect": false
+            },
+            {
+                "text": "Kimya",
+                "isCorrect": false
+            },
+            {
+                "text": "Biyoloji",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi gezegenin atmosferi, en büyük miktarda karbon dioksit içerir?",
+        "answers": [
+            {
+                "text": "Venüs",
+                "isCorrect": true
+            },
+            {
+                "text": "Mars",
+                "isCorrect": false
+            },
+            {
+                "text": "Jüpiter",
+                "isCorrect": false
+            },
+            {
+                "text": "Uranüs",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi gezegenin yüzeyinde en büyük volkan bulunur?",
+        "answers": [
+            {
+                "text": "Mars",
+                "isCorrect": true
+            },
+            {
+                "text": "Venüs",
+                "isCorrect": false
+            },
+            {
+                "text": "Jüpiter",
+                "isCorrect": false
+            },
+            {
+                "text": "Satürn",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi gezegenin atmosferinde en fazla oksijen bulunur?",
+        "answers": [
+            {
+                "text": "Venüs",
+                "isCorrect": true
+            },
+            {
+                "text": "Mars",
+                "isCorrect": false
+            },
+            {
+                "text": "Merkür",
+                "isCorrect": false
+            },
+            {
+                "text": "Jüpiter",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi bilim adamı, 16. yüzyılda heliosentrik teoriyi geliştirmiştir?",
+        "answers": [
+            {
+                "text": "Nikolaus Kopernik",
+                "isCorrect": true
+            },
+            {
+                "text": "Galileo Galilei",
+                "isCorrect": false
+            },
+            {
+                "text": "Johannes Kepler",
+                "isCorrect": false
+            },
+            {
+                "text": "Isaac Newton",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Bir maddenin erime noktasının yükselmesi ne anlama gelir?",
+        "answers": [
+            {
+                "text": "Maddenin daha yüksek bir sıcaklıkta erimesi",
+                "isCorrect": true
+            },
+            {
+                "text": "Maddenin düşük sıcaklıkta erimesi",
+                "isCorrect": false
+            },
+            {
+                "text": "Maddenin daha yüksek sıcaklıkta kaynaması",
+                "isCorrect": false
+            },
+            {
+                "text": "Maddenin daha düşük sıcaklıkta kaynaması",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi gezegenin atmosferinde en fazla amonyak bulunur?",
+        "answers": [
+            {
+                "text": "Satürn",
+                "isCorrect": true
+            },
+            {
+                "text": "Uranüs",
+                "isCorrect": false
+            },
+            {
+                "text": "Neptün",
+                "isCorrect": false
+            },
+            {
+                "text": "Venüs",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi gezegenin yüzeyinde en yüksek rüzgar hızları ölçülmüştür?",
+        "answers": [
+            {
+                "text": "Neptün",
+                "isCorrect": true
+            },
+            {
+                "text": "Uranüs",
+                "isCorrect": false
+            },
+            {
+                "text": "Jüpiter",
+                "isCorrect": false
+            },
+            {
+                "text": "Satürn",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi gezegenin yüzeyinde en yüksek sıcaklıklar ölçülmüştür?",
+        "answers": [
+            {
+                "text": "Venüs",
+                "isCorrect": true
+            },
+            {
+                "text": "Merkür",
+                "isCorrect": false
+            },
+            {
+                "text": "Mars",
+                "isCorrect": false
+            },
+            {
+                "text": "Jüpiter",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi gezegenin atmosferinde en fazla hidrojen ve helyum bulunur?",
+        "answers": [
+            {
+                "text": "Jüpiter",
+                "isCorrect": true
+            },
+            {
+                "text": "Satürn",
+                "isCorrect": false
+            },
+            {
+                "text": "Uranüs",
+                "isCorrect": false
+            },
+            {
+                "text": "Neptün",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi gezegenin yüzeyinde en yüksek dağlar ve derin vadiler bulunur?",
+        "answers": [
+            {
+                "text": "Mars",
+                "isCorrect": true
+            },
+            {
+                "text": "Venüs",
+                "isCorrect": false
+            },
+            {
+                "text": "Jüpiter",
+                "isCorrect": false
+            },
+            {
+                "text": "Satürn",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi bilim dalı, atomların ve moleküllerin yapılarını inceler?",
+        "answers": [
+            {
+                "text": "Kimya",
+                "isCorrect": true
+            },
+            {
+                "text": "Fizik",
+                "isCorrect": false
+            },
+            {
+                "text": "Biyoloji",
+                "isCorrect": false
+            },
+            {
+                "text": "Astronomi",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi bilim dalı, insanların davranışlarını ve zihinlerini inceler?",
+        "answers": [
+            {
+                "text": "Psikoloji",
+                "isCorrect": true
+            },
+            {
+                "text": "Sosyoloji",
+                "isCorrect": false
+            },
+            {
+                "text": "Fizyoloji",
+                "isCorrect": false
+            },
+            {
+                "text": "Antropoloji",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi gezegenin atmosferinde en fazla azot bulunur?",
+        "answers": [
+            {
+                "text": "Venüs",
+                "isCorrect": true
+            },
+            {
+                "text": "Mars",
+                "isCorrect": false
+            },
+            {
+                "text": "Merkür",
+                "isCorrect": false
+            },
+            {
+                "text": "Jüpiter",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi gezegenin atmosferinde en fazla helyum bulunur?",
+        "answers": [
+            {
+                "text": "Jüpiter",
+                "isCorrect": true
+            },
+            {
+                "text": "Satürn",
+                "isCorrect": false
+            },
+            {
+                "text": "Uranüs",
+                "isCorrect": false
+            },
+            {
+                "text": "Neptün",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi gezegenin atmosferinde en fazla karbon dioksit bulunur?",
+        "answers": [
+            {
+                "text": "Venüs",
+                "isCorrect": true
+            },
+            {
+                "text": "Mars",
+                "isCorrect": false
+            },
+            {
+                "text": "Jüpiter",
+                "isCorrect": false
+            },
+            {
+                "text": "Uranüs",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi gezegenin atmosferinde en fazla metan bulunur?",
+        "answers": [
+            {
+                "text": "Neptün",
+                "isCorrect": true
+            },
+            {
+                "text": "Uranüs",
+                "isCorrect": false
+            },
+            {
+                "text": "Venüs",
+                "isCorrect": false
+            },
+            {
+                "text": "Satürn",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi gezegenin yüzeyinde en fazla su buzulu bulunur?",
+        "answers": [
+            {
+                "text": "Plüton",
+                "isCorrect": true
+            },
+            {
+                "text": "Neptün",
+                "isCorrect": false
+            },
+            {
+                "text": "Uranüs",
+                "isCorrect": false
+            },
+            {
+                "text": "Satürn",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi gezegenin atmosferinde en fazla karbon dioksit bulunur?",
+        "answers": [
+            {
+                "text": "Venüs",
+                "isCorrect": true
+            },
+            {
+                "text": "Mars",
+                "isCorrect": false
+            },
+            {
+                "text": "Jüpiter",
+                "isCorrect": false
+            },
+            {
+                "text": "Satürn",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi gezegenin atmosferinde en fazla metan bulunur?",
+        "answers": [
+            {
+                "text": "Neptün",
+                "isCorrect": true
+            },
+            {
+                "text": "Uranüs",
+                "isCorrect": false
+            },
+            {
+                "text": "Venüs",
+                "isCorrect": false
+            },
+            {
+                "text": "Satürn",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi gezegenin yüzeyinde en fazla su bulunur?",
+        "answers": [
+            {
+                "text": "Mars",
+                "isCorrect": true
+            },
+            {
+                "text": "Venüs",
+                "isCorrect": false
+            },
+            {
+                "text": "Jüpiter",
+                "isCorrect": false
+            },
+            {
+                "text": "Satürn",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi gezegenin yüzeyinde en yüksek çarpma kraterleri bulunur?",
+        "answers": [
+            {
+                "text": "Mars",
+                "isCorrect": true
+            },
+            {
+                "text": "Venüs",
+                "isCorrect": false
+            },
+            {
+                "text": "Jüpiter",
+                "isCorrect": false
+            },
+            {
+                "text": "Satürn",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi gezegenin atmosferinde en fazla oksijen bulunur?",
+        "answers": [
+            {
+                "text": "Venüs",
+                "isCorrect": true
+            },
+            {
+                "text": "Mars",
+                "isCorrect": false
+            },
+            {
+                "text": "Merkür",
+                "isCorrect": false
+            },
+            {
+                "text": "Jüpiter",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi gezegenin yüzeyinde en fazla volkan bulunur?",
+        "answers": [
+            {
+                "text": "Mars",
+                "isCorrect": true
+            },
+            {
+                "text": "Venüs",
+                "isCorrect": false
+            },
+            {
+                "text": "Jüpiter",
+                "isCorrect": false
+            },
+            {
+                "text": "Satürn",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi bilim dalı, hayvanların davranışlarını inceler?",
+        "answers": [
+            {
+                "text": "Zooloji",
+                "isCorrect": true
+            },
+            {
+                "text": "Botanik",
+                "isCorrect": false
+            },
+            {
+                "text": "Ekoloji",
+                "isCorrect": false
+            },
+            {
+                "text": "Mikrobiyoloji",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi bitki türü, su altında yaşamak üzere evrimleşmiştir?",
+        "answers": [
+            {
+                "text": "Su yosunu",
+                "isCorrect": true
+            },
+            {
+                "text": "Orkide",
+                "isCorrect": false
+            },
+            {
+                "text": "Kaktüs",
+                "isCorrect": false
+            },
+            {
+                "text": "Gül",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi hayvan, gece aktif olup son derece iyi bir gece görüşüne sahiptir?",
+        "answers": [
+            {
+                "text": "Baykuş",
+                "isCorrect": true
+            },
+            {
+                "text": "Köpek",
+                "isCorrect": false
+            },
+            {
+                "text": "Kedi",
+                "isCorrect": false
+            },
+            {
+                "text": "Kuş",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi hayvan türü, kendini avcılardan saklamak için kamuflaj yeteneğine sahiptir?",
+        "answers": [
+            {
+                "text": "Kameleon",
+                "isCorrect": true
+            },
+            {
+                "text": "Yılan",
+                "isCorrect": false
+            },
+            {
+                "text": "Kaplumbağa",
+                "isCorrect": false
+            },
+            {
+                "text": "Kurbağa",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi bitki, çöl koşullarına adapte olmuş ve suyu azami şekilde tutar?",
+        "answers": [
+            {
+                "text": "Kaktüs",
+                "isCorrect": true
+            },
+            {
+                "text": "Gül",
+                "isCorrect": false
+            },
+            {
+                "text": "Orkide",
+                "isCorrect": false
+            },
+            {
+                "text": "Lale",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi hayvan, vücut ısısını düzenlemek için güneşlenir?",
+        "answers": [
+            {
+                "text": "Kaplumbağa",
+                "isCorrect": true
+            },
+            {
+                "text": "Aslan",
+                "isCorrect": false
+            },
+            {
+                "text": "Fil",
+                "isCorrect": false
+            },
+            {
+                "text": "Zürafa",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi hayvan, uzun mesafeleri koşarak avlarını yakalar?",
+        "answers": [
+            {
+                "text": "Ceylan",
+                "isCorrect": true
+            },
+            {
+                "text": "Ayı",
+                "isCorrect": false
+            },
+            {
+                "text": "Kaplan",
+                "isCorrect": false
+            },
+            {
+                "text": "Timsah",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi bitki türü, orman tabanında yaşamak üzere özelleşmiştir?",
+        "answers": [
+            {
+                "text": "Gölge bitkileri",
+                "isCorrect": true
+            },
+            {
+                "text": "Kaktüs",
+                "isCorrect": false
+            },
+            {
+                "text": "Sukulentler",
+                "isCorrect": false
+            },
+            {
+                "text": "Karmaşık bitkiler",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi hayvan türü, çevresindeki değişiklikleri algılamak için ses dalgalarını kullanır?",
+        "answers": [
+            {
+                "text": "Yarasa",
+                "isCorrect": true
+            },
+            {
+                "text": "Kuş",
+                "isCorrect": false
+            },
+            {
+                "text": "Kedi",
+                "isCorrect": false
+            },
+            {
+                "text": "Yılan",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi bitki türü, tatlı su ortamlarında yaşar ve geniş yaprakları ile bilinir?",
+        "answers": [
+            {
+                "text": "Sular bitkisi",
+                "isCorrect": true
+            },
+            {
+                "text": "Su yosunu",
+                "isCorrect": false
+            },
+            {
+                "text": "Kaktüs",
+                "isCorrect": false
+            },
+            {
+                "text": "Orkide",
+                "isCorrect": false
+            }
+        ]
+    }
+]

@@ -1,0 +1,653 @@
+[
+    {
+        "question": "Hangi film, 1994 Academy Ödülleri'nde En İyi Film ödülünü kazanmıştır?",
+        "answers": [
+            {
+                "text": "Forrest Gump",
+                "isCorrect": true
+            },
+            {
+                "text": "Pulp Fiction",
+                "isCorrect": false
+            },
+            {
+                "text": "The Shawshank Redemption",
+                "isCorrect": false
+            },
+            {
+                "text": "The Lion King",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi aktör, 'The Revenant' filmindeki performansıyla 2016 En İyi Aktör Oscar'ını kazanmıştır?",
+        "answers": [
+            {
+                "text": "Leonardo DiCaprio",
+                "isCorrect": true
+            },
+            {
+                "text": "Matthew McConaughey",
+                "isCorrect": false
+            },
+            {
+                "text": "Eddie Redmayne",
+                "isCorrect": false
+            },
+            {
+                "text": "Brad Pitt",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi film, 2017 En İyi Yönetmen Oscar'ını kazanmıştır?",
+        "answers": [
+            {
+                "text": "La La Land",
+                "isCorrect": true
+            },
+            {
+                "text": "Moonlight",
+                "isCorrect": false
+            },
+            {
+                "text": "Arrival",
+                "isCorrect": false
+            },
+            {
+                "text": "Manchester by the Sea",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi film, 2020'de En İyi Uluslararası Film Oscar'ını kazanmıştır?",
+        "answers": [
+            {
+                "text": "Parasite",
+                "isCorrect": true
+            },
+            {
+                "text": "1917",
+                "isCorrect": false
+            },
+            {
+                "text": "Once Upon a Time in Hollywood",
+                "isCorrect": false
+            },
+            {
+                "text": "Jojo Rabbit",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi film, 1999'da En İyi Yönetmen Oscar'ını kazanmıştır?",
+        "answers": [
+            {
+                "text": "American Beauty",
+                "isCorrect": true
+            },
+            {
+                "text": "The Sixth Sense",
+                "isCorrect": false
+            },
+            {
+                "text": "The Matrix",
+                "isCorrect": false
+            },
+            {
+                "text": "Fight Club",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi film, 2018'de En İyi Animasyon Film Oscar'ını kazanmıştır?",
+        "answers": [
+            {
+                "text": "Coco",
+                "isCorrect": true
+            },
+            {
+                "text": "Moana",
+                "isCorrect": false
+            },
+            {
+                "text": "Zootopia",
+                "isCorrect": false
+            },
+            {
+                "text": "Kubo and the Two Strings",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi film, 2019'da En İyi Film Oscar'ını kazanmıştır?",
+        "answers": [
+            {
+                "text": "Green Book",
+                "isCorrect": true
+            },
+            {
+                "text": "A Star is Born",
+                "isCorrect": false
+            },
+            {
+                "text": "Bohemian Rhapsody",
+                "isCorrect": false
+            },
+            {
+                "text": "The Favourite",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi film, 2008'de En İyi Film Oscar'ını kazanmıştır?",
+        "answers": [
+            {
+                "text": "No Country for Old Men",
+                "isCorrect": true
+            },
+            {
+                "text": "There Will Be Blood",
+                "isCorrect": false
+            },
+            {
+                "text": "Juno",
+                "isCorrect": false
+            },
+            {
+                "text": "Atonement",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi aktör, 'The Dark Knight' filmindeki Joker rolüyle tanınır?",
+        "answers": [
+            {
+                "text": "Heath Ledger",
+                "isCorrect": true
+            },
+            {
+                "text": "Jack Nicholson",
+                "isCorrect": false
+            },
+            {
+                "text": "Joaquin Phoenix",
+                "isCorrect": false
+            },
+            {
+                "text": "Tom Hardy",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi film, 2014 En İyi Film Oscar'ını kazanmıştır?",
+        "answers": [
+            {
+                "text": "12 Years a Slave",
+                "isCorrect": true
+            },
+            {
+                "text": "Gravity",
+                "isCorrect": false
+            },
+            {
+                "text": "The Wolf of Wall Street",
+                "isCorrect": false
+            },
+            {
+                "text": "American Hustle",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi film, 2021'de En İyi Yönetmen Oscar'ını kazanmıştır?",
+        "answers": [
+            {
+                "text": "Nomadland",
+                "isCorrect": true
+            },
+            {
+                "text": "Mank",
+                "isCorrect": false
+            },
+            {
+                "text": "The Father",
+                "isCorrect": false
+            },
+            {
+                "text": "Judas and the Black Messiah",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi film, 2012 En İyi Yönetmen Oscar'ını kazanmıştır?",
+        "answers": [
+            {
+                "text": "Michel Hazanavicius - The Artist",
+                "isCorrect": true
+            },
+            {
+                "text": "Martin Scorsese - Hugo",
+                "isCorrect": false
+            },
+            {
+                "text": "Alexander Payne - The Descendants",
+                "isCorrect": false
+            },
+            {
+                "text": "Woody Allen - Midnight in Paris",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi film, 2010 En İyi Animasyon Film Oscar'ını kazanmıştır?",
+        "answers": [
+            {
+                "text": "Toy Story 3",
+                "isCorrect": true
+            },
+            {
+                "text": "How to Train Your Dragon",
+                "isCorrect": false
+            },
+            {
+                "text": "Despicable Me",
+                "isCorrect": false
+            },
+            {
+                "text": "The Illusionist",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi film, 2011 En İyi Film Oscar'ını kazanmıştır?",
+        "answers": [
+            {
+                "text": "The King's Speech",
+                "isCorrect": true
+            },
+            {
+                "text": "The Social Network",
+                "isCorrect": false
+            },
+            {
+                "text": "Inception",
+                "isCorrect": false
+            },
+            {
+                "text": "Black Swan",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi film, 2019 En İyi Uluslararası Film Oscar'ını kazanmıştır?",
+        "answers": [
+            {
+                "text": "Parasite",
+                "isCorrect": true
+            },
+            {
+                "text": "Corpus Christi",
+                "isCorrect": false
+            },
+            {
+                "text": "Honeyland",
+                "isCorrect": false
+            },
+            {
+                "text": "Les Misérables",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi film, 2006 En İyi Film Oscar'ını kazanmıştır?",
+        "answers": [
+            {
+                "text": "The Departed",
+                "isCorrect": true
+            },
+            {
+                "text": "Babel",
+                "isCorrect": false
+            },
+            {
+                "text": "The Queen",
+                "isCorrect": false
+            },
+            {
+                "text": "Little Miss Sunshine",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi film, 2013 En İyi Yönetmen Oscar'ını kazanmıştır?",
+        "answers": [
+            {
+                "text": "Alfonso Cuarón - Gravity",
+                "isCorrect": true
+            },
+            {
+                "text": "Steve McQueen - 12 Years a Slave",
+                "isCorrect": false
+            },
+            {
+                "text": "David O. Russell - Silver Linings Playbook",
+                "isCorrect": false
+            },
+            {
+                "text": "Martin Scorsese - The Wolf of Wall Street",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi film, 2002 En İyi Film Oscar'ını kazanmıştır?",
+        "answers": [
+            {
+                "text": "A Beautiful Mind",
+                "isCorrect": true
+            },
+            {
+                "text": "Gosford Park",
+                "isCorrect": false
+            },
+            {
+                "text": "The Lord of the Rings: The Fellowship of the Ring",
+                "isCorrect": false
+            },
+            {
+                "text": "The Pianist",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi aktör, 'The Silence of the Lambs' filmindeki Hannibal Lecter rolüyle tanınır?",
+        "answers": [
+            {
+                "text": "Anthony Hopkins",
+                "isCorrect": true
+            },
+            {
+                "text": "Jack Nicholson",
+                "isCorrect": false
+            },
+            {
+                "text": "Morgan Freeman",
+                "isCorrect": false
+            },
+            {
+                "text": "Dustin Hoffman",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi film, 2015 En İyi Animasyon Film Oscar'ını kazanmıştır?",
+        "answers": [
+            {
+                "text": "Inside Out",
+                "isCorrect": true
+            },
+            {
+                "text": "Zootopia",
+                "isCorrect": false
+            },
+            {
+                "text": "Kubo and the Two Strings",
+                "isCorrect": false
+            },
+            {
+                "text": "Moana",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi film, 2014 En İyi Yönetmen Oscar'ını kazanmıştır?",
+        "answers": [
+            {
+                "text": "Alfonso Cuarón - Gravity",
+                "isCorrect": true
+            },
+            {
+                "text": "Steve McQueen - 12 Years a Slave",
+                "isCorrect": false
+            },
+            {
+                "text": "David O. Russell - American Hustle",
+                "isCorrect": false
+            },
+            {
+                "text": "Martin Scorsese - The Wolf of Wall Street",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi Türk filmi, 1982'de En İyi Yabancı Film dalında Cannes Film Festivali'nde ödül kazanmıştır?",
+        "answers": [
+            {
+                "text": "Düşman",
+                "isCorrect": false
+            },
+            {
+                "text": "Yol",
+                "isCorrect": true
+            },
+            {
+                "text": "Kış Uykusu",
+                "isCorrect": false
+            },
+            {
+                "text": "Köyden İndim Şehire",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi Türk filmi, 2006 Cannes Film Festivali'nde Altın Palmiye ödülünü kazanmıştır?",
+        "answers": [
+            {
+                "text": "Kış Uykusu",
+                "isCorrect": true
+            },
+            {
+                "text": "Bir Zamanlar Anadolu'da",
+                "isCorrect": false
+            },
+            {
+                "text": "Eyyvah Eyvah",
+                "isCorrect": false
+            },
+            {
+                "text": "Vizontele",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi Türk filminde, Şener Şen ve Kemal Sunal başrol oynar?",
+        "answers": [
+            {
+                "text": "Hababam Sınıfı",
+                "isCorrect": true
+            },
+            {
+                "text": "İstanbul Kanatlarımın Altında",
+                "isCorrect": false
+            },
+            {
+                "text": "Gelinim",
+                "isCorrect": false
+            },
+            {
+                "text": "Ayla",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi Türk filmi, 1990'larda en yüksek gişe hasılatını elde etmiştir?",
+        "answers": [
+            {
+                "text": "Eyyvah Eyvah",
+                "isCorrect": false
+            },
+            {
+                "text": "Vizontele",
+                "isCorrect": true
+            },
+            {
+                "text": "Herkes Mi Aldatır?",
+                "isCorrect": false
+            },
+            {
+                "text": "Kış Uykusu",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi Türk filmi, 1970'lerde En İyi Film dalında Altın Portakal ödülünü kazanmıştır?",
+        "answers": [
+            {
+                "text": "Seyit",
+                "isCorrect": false
+            },
+            {
+                "text": "Yol",
+                "isCorrect": false
+            },
+            {
+                "text": "Sakıncalı Pazar",
+                "isCorrect": false
+            },
+            {
+                "text": "Açık Yeşil",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "Hangi Türk filmi, 2000'lerde En İyi Senaryo dalında Uluslararası İstanbul Film Festivali'nde ödül kazanmıştır?",
+        "answers": [
+            {
+                "text": "Gönül Yarası",
+                "isCorrect": true
+            },
+            {
+                "text": "Kış Uykusu",
+                "isCorrect": false
+            },
+            {
+                "text": "Kapatma",
+                "isCorrect": false
+            },
+            {
+                "text": "Vizontele",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi Türk filmi, 2010'larda En İyi Film dalında Altın Portakal ödülünü kazanmıştır?",
+        "answers": [
+            {
+                "text": "Bir Zamanlar Anadolu'da",
+                "isCorrect": true
+            },
+            {
+                "text": "Kış Uykusu",
+                "isCorrect": false
+            },
+            {
+                "text": "Ayla",
+                "isCorrect": false
+            },
+            {
+                "text": "Vizontele",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi Türk filminde, Kenan İmirzalioğlu başrol oynar?",
+        "answers": [
+            {
+                "text": "Eyyvah Eyvah",
+                "isCorrect": false
+            },
+            {
+                "text": "Kabadayı",
+                "isCorrect": true
+            },
+            {
+                "text": "Gülbeyaz",
+                "isCorrect": false
+            },
+            {
+                "text": "Kış Uykusu",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi Türk filmi, 1980'lerde En İyi Senaryo dalında Altın Portakal ödülünü kazanmıştır?",
+        "answers": [
+            {
+                "text": "Kış Uykusu",
+                "isCorrect": false
+            },
+            {
+                "text": "Sarmasik",
+                "isCorrect": false
+            },
+            {
+                "text": "Yol",
+                "isCorrect": true
+            },
+            {
+                "text": "Vizontele",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi Türk filminde, Cem Yılmaz başrol oynar?",
+        "answers": [
+            {
+                "text": "G.O.R.A.",
+                "isCorrect": true
+            },
+            {
+                "text": "Ayla",
+                "isCorrect": false
+            },
+            {
+                "text": "Kış Uykusu",
+                "isCorrect": false
+            },
+            {
+                "text": "Bir Zamanlar Anadolu'da",
+                "isCorrect": false
+            }
+        ]
+    }
+]

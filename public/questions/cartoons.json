@@ -1,0 +1,1094 @@
+[
+    {
+        "question": "Hangi çizgi film karakteri, 'Mickey Mouse' olarak bilinir?",
+        "answers": [
+            {
+                "text": "Mickey Mouse",
+                "isCorrect": true
+            },
+            {
+                "text": "Donald Duck",
+                "isCorrect": false
+            },
+            {
+                "text": "Goofy",
+                "isCorrect": false
+            },
+            {
+                "text": "Pluto",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi çizgi filmde, bir grup genç insan 'Teen Titans' olarak bilinir?",
+        "answers": [
+            {
+                "text": "Teen Titans",
+                "isCorrect": true
+            },
+            {
+                "text": "Justice League",
+                "isCorrect": false
+            },
+            {
+                "text": "X-Men",
+                "isCorrect": false
+            },
+            {
+                "text": "Avengers",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi çizgi filmde, 'Bugs Bunny' karakteri öne çıkar?",
+        "answers": [
+            {
+                "text": "Looney Tunes",
+                "isCorrect": true
+            },
+            {
+                "text": "Tom and Jerry",
+                "isCorrect": false
+            },
+            {
+                "text": "The Flintstones",
+                "isCorrect": false
+            },
+            {
+                "text": "Scooby-Doo",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi çizgi filmde, 'SpongeBob SquarePants' karakteri deniz altında bir sünger olarak yaşar?",
+        "answers": [
+            {
+                "text": "SpongeBob SquarePants",
+                "isCorrect": true
+            },
+            {
+                "text": "The Simpsons",
+                "isCorrect": false
+            },
+            {
+                "text": "Adventure Time",
+                "isCorrect": false
+            },
+            {
+                "text": "Rugrats",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi çizgi filmde, 'Pikachu' ve arkadaşları maceralar yaşar?",
+        "answers": [
+            {
+                "text": "Pokémon",
+                "isCorrect": true
+            },
+            {
+                "text": "Digimon",
+                "isCorrect": false
+            },
+            {
+                "text": "Yu-Gi-Oh!",
+                "isCorrect": false
+            },
+            {
+                "text": "Naruto",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi çizgi filmde, 'Bart Simpson' karakteri bulunur?",
+        "answers": [
+            {
+                "text": "The Simpsons",
+                "isCorrect": true
+            },
+            {
+                "text": "Family Guy",
+                "isCorrect": false
+            },
+            {
+                "text": "American Dad",
+                "isCorrect": false
+            },
+            {
+                "text": "South Park",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi çizgi film, bir grup genç ninja kaplumbağanın maceralarını anlatır?",
+        "answers": [
+            {
+                "text": "Teenage Mutant Ninja Turtles",
+                "isCorrect": true
+            },
+            {
+                "text": "Power Rangers",
+                "isCorrect": false
+            },
+            {
+                "text": "Transformers",
+                "isCorrect": false
+            },
+            {
+                "text": "G.I. Joe",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi çizgi film, 'Flintstone' ailesinin günlük yaşamını konu alır?",
+        "answers": [
+            {
+                "text": "The Flintstones",
+                "isCorrect": true
+            },
+            {
+                "text": "The Jetsons",
+                "isCorrect": false
+            },
+            {
+                "text": "Tom and Jerry",
+                "isCorrect": false
+            },
+            {
+                "text": "Yogi Bear",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi çizgi filmde, 'Scooby-Doo' ve arkadaşları gizemleri çözer?",
+        "answers": [
+            {
+                "text": "Scooby-Doo",
+                "isCorrect": true
+            },
+            {
+                "text": "Daphne and Velma",
+                "isCorrect": false
+            },
+            {
+                "text": "Blue's Clues",
+                "isCorrect": false
+            },
+            {
+                "text": "Inspector Gadget",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi çizgi filmde, 'Adventure Time' karakterleri bir fantastik dünyada yaşar?",
+        "answers": [
+            {
+                "text": "Adventure Time",
+                "isCorrect": true
+            },
+            {
+                "text": "Gravity Falls",
+                "isCorrect": false
+            },
+            {
+                "text": "Regular Show",
+                "isCorrect": false
+            },
+            {
+                "text": "The Amazing World of Gumball",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi çizgi filmde, 'Marge Simpson' karakteri bulunur?",
+        "answers": [
+            {
+                "text": "The Simpsons",
+                "isCorrect": true
+            },
+            {
+                "text": "Family Guy",
+                "isCorrect": false
+            },
+            {
+                "text": "American Dad",
+                "isCorrect": false
+            },
+            {
+                "text": "South Park",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi çizgi filmde, 'Taz' olarak bilinen karakter yer alır?",
+        "answers": [
+            {
+                "text": "Looney Tunes",
+                "isCorrect": true
+            },
+            {
+                "text": "Tom and Jerry",
+                "isCorrect": false
+            },
+            {
+                "text": "The Flintstones",
+                "isCorrect": false
+            },
+            {
+                "text": "Scooby-Doo",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi çizgi filmde, 'Bender' adlı robot karakter bulunur?",
+        "answers": [
+            {
+                "text": "Futurama",
+                "isCorrect": true
+            },
+            {
+                "text": "Rick and Morty",
+                "isCorrect": false
+            },
+            {
+                "text": "Family Guy",
+                "isCorrect": false
+            },
+            {
+                "text": "South Park",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi çizgi filmde, 'Foghorn Leghorn' karakteri yer alır?",
+        "answers": [
+            {
+                "text": "Looney Tunes",
+                "isCorrect": true
+            },
+            {
+                "text": "Tom and Jerry",
+                "isCorrect": false
+            },
+            {
+                "text": "The Jetsons",
+                "isCorrect": false
+            },
+            {
+                "text": "The Flintstones",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi çizgi filmde, 'Goku' karakteri başrol oyuncusudur?",
+        "answers": [
+            {
+                "text": "Dragon Ball",
+                "isCorrect": true
+            },
+            {
+                "text": "Naruto",
+                "isCorrect": false
+            },
+            {
+                "text": "One Piece",
+                "isCorrect": false
+            },
+            {
+                "text": "Bleach",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi çizgi filmde, 'Minnie Mouse' karakteri bulunur?",
+        "answers": [
+            {
+                "text": "Mickey Mouse",
+                "isCorrect": true
+            },
+            {
+                "text": "Donald Duck",
+                "isCorrect": false
+            },
+            {
+                "text": "Goofy",
+                "isCorrect": false
+            },
+            {
+                "text": "Pluto",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi çizgi filmde, 'Sandy Cheeks' karakteri yer alır?",
+        "answers": [
+            {
+                "text": "SpongeBob SquarePants",
+                "isCorrect": true
+            },
+            {
+                "text": "The Simpsons",
+                "isCorrect": false
+            },
+            {
+                "text": "Adventure Time",
+                "isCorrect": false
+            },
+            {
+                "text": "Rugrats",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi çizgi filmde, 'Tom' ve 'Jerry' karakterleri sürekli kovalama yapar?",
+        "answers": [
+            {
+                "text": "Tom and Jerry",
+                "isCorrect": true
+            },
+            {
+                "text": "Looney Tunes",
+                "isCorrect": false
+            },
+            {
+                "text": "The Jetsons",
+                "isCorrect": false
+            },
+            {
+                "text": "The Flintstones",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi çizgi filmde, 'Popeye' karakteri ıspanak yiyerek süper güçlere sahip olur?",
+        "answers": [
+            {
+                "text": "Popeye the Sailor",
+                "isCorrect": true
+            },
+            {
+                "text": "Tom and Jerry",
+                "isCorrect": false
+            },
+            {
+                "text": "Looney Tunes",
+                "isCorrect": false
+            },
+            {
+                "text": "The Flintstones",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi çizgi filmde, 'Rick Sanchez' ve 'Morty Smith' karakterleri yer alır?",
+        "answers": [
+            {
+                "text": "Rick and Morty",
+                "isCorrect": true
+            },
+            {
+                "text": "Futurama",
+                "isCorrect": false
+            },
+            {
+                "text": "Family Guy",
+                "isCorrect": false
+            },
+            {
+                "text": "South Park",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi çizgi filmde, 'Pikachu' adlı Pokémon karakteri öne çıkar?",
+        "answers": [
+            {
+                "text": "Pokémon",
+                "isCorrect": true
+            },
+            {
+                "text": "Digimon",
+                "isCorrect": false
+            },
+            {
+                "text": "Yu-Gi-Oh!",
+                "isCorrect": false
+            },
+            {
+                "text": "Naruto",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi çizgi filmde, 'Wile E. Coyote' karakteri 'Road Runner'ı yakalamaya çalışır?",
+        "answers": [
+            {
+                "text": "Looney Tunes",
+                "isCorrect": true
+            },
+            {
+                "text": "Tom and Jerry",
+                "isCorrect": false
+            },
+            {
+                "text": "The Jetsons",
+                "isCorrect": false
+            },
+            {
+                "text": "The Flintstones",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi çizgi filmde, 'Johnny Bravo' karakterinin aşırı kaslı bir görünümü vardır?",
+        "answers": [
+            {
+                "text": "Johnny Bravo",
+                "isCorrect": true
+            },
+            {
+                "text": "Dexter's Laboratory",
+                "isCorrect": false
+            },
+            {
+                "text": "The Powerpuff Girls",
+                "isCorrect": false
+            },
+            {
+                "text": "Ed, Edd n Eddy",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi çizgi filmde, 'Scooby-Doo' ve 'Shaggy' karakterleri başrol oynar?",
+        "answers": [
+            {
+                "text": "Scooby-Doo",
+                "isCorrect": true
+            },
+            {
+                "text": "Blue's Clues",
+                "isCorrect": false
+            },
+            {
+                "text": "Daphne and Velma",
+                "isCorrect": false
+            },
+            {
+                "text": "Inspector Gadget",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi çizgi filmde, 'Daffy Duck' ve 'Porky Pig' karakterleri öne çıkar?",
+        "answers": [
+            {
+                "text": "Looney Tunes",
+                "isCorrect": true
+            },
+            {
+                "text": "Tom and Jerry",
+                "isCorrect": false
+            },
+            {
+                "text": "The Jetsons",
+                "isCorrect": false
+            },
+            {
+                "text": "The Flintstones",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi çizgi filmde, 'Gumball Watterson' ve 'Darwin Watterson' kardeşler başrol oynar?",
+        "answers": [
+            {
+                "text": "The Amazing World of Gumball",
+                "isCorrect": true
+            },
+            {
+                "text": "Adventure Time",
+                "isCorrect": false
+            },
+            {
+                "text": "Regular Show",
+                "isCorrect": false
+            },
+            {
+                "text": "Gravity Falls",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi çizgi filmde, 'Tom' ve 'Jerry' karakterleri sürekli kavga eder?",
+        "answers": [
+            {
+                "text": "Tom and Jerry",
+                "isCorrect": true
+            },
+            {
+                "text": "Looney Tunes",
+                "isCorrect": false
+            },
+            {
+                "text": "The Jetsons",
+                "isCorrect": false
+            },
+            {
+                "text": "The Flintstones",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi çizgi filmde, 'Dexter' karakterinin bir laboratuvarı vardır?",
+        "answers": [
+            {
+                "text": "Dexter's Laboratory",
+                "isCorrect": true
+            },
+            {
+                "text": "Powerpuff Girls",
+                "isCorrect": false
+            },
+            {
+                "text": "Ed, Edd n Eddy",
+                "isCorrect": false
+            },
+            {
+                "text": "Johnny Bravo",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi çizgi filmde, 'Finn' ve 'Jake' adlı karakterler maceralar yaşar?",
+        "answers": [
+            {
+                "text": "Adventure Time",
+                "isCorrect": true
+            },
+            {
+                "text": "Regular Show",
+                "isCorrect": false
+            },
+            {
+                "text": "Gravity Falls",
+                "isCorrect": false
+            },
+            {
+                "text": "The Amazing World of Gumball",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi çizgi filmde, 'Bob Esponja' karakteri deniz altında yaşar?",
+        "answers": [
+            {
+                "text": "SpongeBob SquarePants",
+                "isCorrect": true
+            },
+            {
+                "text": "The Simpsons",
+                "isCorrect": false
+            },
+            {
+                "text": "Adventure Time",
+                "isCorrect": false
+            },
+            {
+                "text": "Rugrats",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi çizgi filmde, 'Daphne Blake' karakteri yer alır?",
+        "answers": [
+            {
+                "text": "Scooby-Doo",
+                "isCorrect": true
+            },
+            {
+                "text": "Blue's Clues",
+                "isCorrect": false
+            },
+            {
+                "text": "Daphne and Velma",
+                "isCorrect": false
+            },
+            {
+                "text": "Inspector Gadget",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi çizgi filmde, 'Saitama' karakteri her şeyi tek yumrukla yener?",
+        "answers": [
+            {
+                "text": "One Punch Man",
+                "isCorrect": true
+            },
+            {
+                "text": "Naruto",
+                "isCorrect": false
+            },
+            {
+                "text": "Dragon Ball",
+                "isCorrect": false
+            },
+            {
+                "text": "My Hero Academia",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi çizgi filmde, 'Rick Sanchez' karakteri bilimsel deneyler yapar?",
+        "answers": [
+            {
+                "text": "Rick and Morty",
+                "isCorrect": true
+            },
+            {
+                "text": "Futurama",
+                "isCorrect": false
+            },
+            {
+                "text": "Family Guy",
+                "isCorrect": false
+            },
+            {
+                "text": "South Park",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi çizgi filmde, 'Wile E. Coyote' karakteri 'Road Runner'ı yakalamaya çalışır?",
+        "answers": [
+            {
+                "text": "Looney Tunes",
+                "isCorrect": true
+            },
+            {
+                "text": "Tom and Jerry",
+                "isCorrect": false
+            },
+            {
+                "text": "The Jetsons",
+                "isCorrect": false
+            },
+            {
+                "text": "The Flintstones",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi çizgi filmde, 'Shaggy' ve 'Scooby-Doo' sürekli bir gizem çözmeye çalışır?",
+        "answers": [
+            {
+                "text": "Scooby-Doo",
+                "isCorrect": true
+            },
+            {
+                "text": "Blue's Clues",
+                "isCorrect": false
+            },
+            {
+                "text": "Daphne and Velma",
+                "isCorrect": false
+            },
+            {
+                "text": "Inspector Gadget",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi çizgi filmde, 'Marge Simpson' karakteri bulunur?",
+        "answers": [
+            {
+                "text": "The Simpsons",
+                "isCorrect": true
+            },
+            {
+                "text": "Family Guy",
+                "isCorrect": false
+            },
+            {
+                "text": "American Dad",
+                "isCorrect": false
+            },
+            {
+                "text": "South Park",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi çizgi filmde, 'Popeye' karakteri ıspanak yiyerek güçlenir?",
+        "answers": [
+            {
+                "text": "Popeye the Sailor",
+                "isCorrect": true
+            },
+            {
+                "text": "Tom and Jerry",
+                "isCorrect": false
+            },
+            {
+                "text": "Looney Tunes",
+                "isCorrect": false
+            },
+            {
+                "text": "The Flintstones",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi çizgi filmde, 'Gumball' ve 'Darwin' adlı karakterler kardeşlerdir?",
+        "answers": [
+            {
+                "text": "The Amazing World of Gumball",
+                "isCorrect": true
+            },
+            {
+                "text": "Adventure Time",
+                "isCorrect": false
+            },
+            {
+                "text": "Regular Show",
+                "isCorrect": false
+            },
+            {
+                "text": "Gravity Falls",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi çizgi filmde, 'SpongeBob' karakteri deniz altında bir sünger olarak yaşar?",
+        "answers": [
+            {
+                "text": "SpongeBob SquarePants",
+                "isCorrect": true
+            },
+            {
+                "text": "The Simpsons",
+                "isCorrect": false
+            },
+            {
+                "text": "Adventure Time",
+                "isCorrect": false
+            },
+            {
+                "text": "Rugrats",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi çizgi filmde, 'Bender' karakteri bir robottur?",
+        "answers": [
+            {
+                "text": "Futurama",
+                "isCorrect": true
+            },
+            {
+                "text": "Rick and Morty",
+                "isCorrect": false
+            },
+            {
+                "text": "Family Guy",
+                "isCorrect": false
+            },
+            {
+                "text": "South Park",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi çizgi filmde, 'Dexter' karakterinin bir gizli laboratuvarı vardır?",
+        "answers": [
+            {
+                "text": "Dexter's Laboratory",
+                "isCorrect": true
+            },
+            {
+                "text": "Powerpuff Girls",
+                "isCorrect": false
+            },
+            {
+                "text": "Ed, Edd n Eddy",
+                "isCorrect": false
+            },
+            {
+                "text": "Johnny Bravo",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi çizgi filmde, 'Bugs Bunny' karakterinin meşhur sözü nedir?",
+        "answers": [
+            {
+                "text": "Eh, ne var ne yok?",
+                "isCorrect": true
+            },
+            {
+                "text": "Hangi şehri?",
+                "isCorrect": false
+            },
+            {
+                "text": "Tamam, o zaman!",
+                "isCorrect": false
+            },
+            {
+                "text": "Evet, kesinlikle!",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi çizgi filmde, 'Bender' adlı karakter bir robottur?",
+        "answers": [
+            {
+                "text": "Futurama",
+                "isCorrect": true
+            },
+            {
+                "text": "The Jetsons",
+                "isCorrect": false
+            },
+            {
+                "text": "Family Guy",
+                "isCorrect": false
+            },
+            {
+                "text": "South Park",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi çizgi filmde, 'Shaggy' ve 'Scooby-Doo' bir dizi gizemi çözer?",
+        "answers": [
+            {
+                "text": "Scooby-Doo",
+                "isCorrect": true
+            },
+            {
+                "text": "Blue's Clues",
+                "isCorrect": false
+            },
+            {
+                "text": "Daphne and Velma",
+                "isCorrect": false
+            },
+            {
+                "text": "Inspector Gadget",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi çizgi filmde, 'Fred Flintstone' karakteri öne çıkar?",
+        "answers": [
+            {
+                "text": "The Flintstones",
+                "isCorrect": true
+            },
+            {
+                "text": "The Jetsons",
+                "isCorrect": false
+            },
+            {
+                "text": "Tom and Jerry",
+                "isCorrect": false
+            },
+            {
+                "text": "Scooby-Doo",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi çizgi filmde, 'Finn' ve 'Jake' adlı karakterler bir fantastik dünyada yaşar?",
+        "answers": [
+            {
+                "text": "Adventure Time",
+                "isCorrect": true
+            },
+            {
+                "text": "Regular Show",
+                "isCorrect": false
+            },
+            {
+                "text": "Gravity Falls",
+                "isCorrect": false
+            },
+            {
+                "text": "The Amazing World of Gumball",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi çizgi filmde, 'Wile E. Coyote' karakteri sürekli 'Road Runner'ı yakalamaya çalışır?",
+        "answers": [
+            {
+                "text": "Looney Tunes",
+                "isCorrect": true
+            },
+            {
+                "text": "Tom and Jerry",
+                "isCorrect": false
+            },
+            {
+                "text": "The Jetsons",
+                "isCorrect": false
+            },
+            {
+                "text": "The Flintstones",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi çizgi filmde, 'Daphne Blake' ve 'Velma Dinkley' karakterleri yer alır?",
+        "answers": [
+            {
+                "text": "Scooby-Doo",
+                "isCorrect": true
+            },
+            {
+                "text": "Blue's Clues",
+                "isCorrect": false
+            },
+            {
+                "text": "Daphne and Velma",
+                "isCorrect": false
+            },
+            {
+                "text": "Inspector Gadget",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi çizgi filmde, 'Gumball Watterson' karakterinin adı 'Gumball' olarak bilinir?",
+        "answers": [
+            {
+                "text": "The Amazing World of Gumball",
+                "isCorrect": true
+            },
+            {
+                "text": "Adventure Time",
+                "isCorrect": false
+            },
+            {
+                "text": "Regular Show",
+                "isCorrect": false
+            },
+            {
+                "text": "Gravity Falls",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi çizgi filmde, 'Tom' ve 'Jerry' karakterleri sürekli bir kedi ve fare mücadelesi verir?",
+        "answers": [
+            {
+                "text": "Tom and Jerry",
+                "isCorrect": true
+            },
+            {
+                "text": "Looney Tunes",
+                "isCorrect": false
+            },
+            {
+                "text": "The Jetsons",
+                "isCorrect": false
+            },
+            {
+                "text": "The Flintstones",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi çizgi filmde, 'Rick Sanchez' karakteri bilimsel deneyler yaparak evreni keşfeder?",
+        "answers": [
+            {
+                "text": "Rick and Morty",
+                "isCorrect": true
+            },
+            {
+                "text": "Futurama",
+                "isCorrect": false
+            },
+            {
+                "text": "Family Guy",
+                "isCorrect": false
+            },
+            {
+                "text": "South Park",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi çizgi filmde, 'Popeye' ıspanak yiyerek süper güçler kazanır?",
+        "answers": [
+            {
+                "text": "Popeye the Sailor",
+                "isCorrect": true
+            },
+            {
+                "text": "Tom and Jerry",
+                "isCorrect": false
+            },
+            {
+                "text": "Looney Tunes",
+                "isCorrect": false
+            },
+            {
+                "text": "The Flintstones",
+                "isCorrect": false
+            }
+        ]
+    }
+]

@@ -1,6 +1,6 @@
 [
     {
-        "question": "Formula 1 dünya şampiyonu olarak rekor 7 kez hangi pilot oldu?",
+        "question": "Formula 1'de 7 kez dünya şampiyonu olarak rekor kıran pilot kimdir?",
         "answers": [
             {
                 "text": "Michael Schumacher",
@@ -608,321 +608,319 @@
             }
         ]
     },
-    [
-        {
-            "question": "Hangi futbol takımı 2015 Copa América Şampiyonası'nı kazandı?",
-            "answers": [
-                {
-                    "text": "Brezilya",
-                    "isCorrect": false
-                },
-                {
-                    "text": "Şili",
-                    "isCorrect": true
-                },
-                {
-                    "text": "Arjantin",
-                    "isCorrect": false
-                },
-                {
-                    "text": "Paraguay",
-                    "isCorrect": false
-                }
-            ]
-        },
-        {
-            "question": "Bu ülkelerden hangisinin milli takımı 2018 FIFA Dünya Kupası'na katıldı?",
-            "answers": [
-                {
-                    "text": "Amerika Birleşik Devletleri",
-                    "isCorrect": false
-                },
-                {
-                    "text": "İtalya",
-                    "isCorrect": false
-                },
-                {
-                    "text": "Tunus",
-                    "isCorrect": true
-                },
-                {
-                    "text": "Hollanda",
-                    "isCorrect": false
-                }
-            ]
-        },
-        {
-            "question": "1994 F1 sezonu hangi trajik olayla hatırlanır?",
-            "answers": [
-                {
-                    "text": "Showdown (Avustralya)",
-                    "isCorrect": false
-                },
-                {
-                    "text": "Verstappen'in Yangını (Almanya)",
-                    "isCorrect": false
-                },
-                {
-                    "text": "Schumacher'in Yasağı (Büyük Britanya)",
-                    "isCorrect": false
-                },
-                {
-                    "text": "Ayrton Senna'nın Ölümü (San Marino)",
-                    "isCorrect": true
-                }
-            ]
-        },
-        {
-            "question": "2014 FIFA Dünya Kupası'nın en golcü oyuncusu kimdi?",
-            "answers": [
-                {
-                    "text": "Thomas Müller",
-                    "isCorrect": false
-                },
-                {
-                    "text": "Lionel Messi",
-                    "isCorrect": false
-                },
-                {
-                    "text": "James Rodríguez",
-                    "isCorrect": true
-                },
-                {
-                    "text": "Neymar",
-                    "isCorrect": false
-                }
-            ]
-        },
-        {
-            "question": "Hangi otomobil üreticisi 2017 24 Saat Le Mans Yarışı'nı kazandı?",
-            "answers": [
-                {
-                    "text": "Toyota",
-                    "isCorrect": false
-                },
-                {
-                    "text": "Audi",
-                    "isCorrect": false
-                },
-                {
-                    "text": "Porsche",
-                    "isCorrect": true
-                },
-                {
-                    "text": "Chevrolet",
-                    "isCorrect": false
-                }
-            ]
-        },
-        {
-            "question": "Sir Alex Ferguson, Manchester United'da kaç Premier League şampiyonluğu kazandı?",
-            "answers": [
-                {
-                    "text": "11",
-                    "isCorrect": false
-                },
-                {
-                    "text": "20",
-                    "isCorrect": false
-                },
-                {
-                    "text": "13",
-                    "isCorrect": true
-                },
-                {
-                    "text": "22",
-                    "isCorrect": false
-                }
-            ]
-        },
-        {
-            "question": "Hangi Formula 1 pilotu 2017 sezonunun ortasında takım değiştirdi?",
-            "answers": [
-                {
-                    "text": "Daniil Kvyat",
-                    "isCorrect": false
-                },
-                {
-                    "text": "Jolyon Palmer",
-                    "isCorrect": false
-                },
-                {
-                    "text": "Carlos Sainz Jr.",
-                    "isCorrect": true
-                },
-                {
-                    "text": "Rio Haryanto",
-                    "isCorrect": false
-                }
-            ]
-        },
-        {
-            "question": "Bir stimpmeter, hangi yüzeyin üzerindeki topun hızını ölçer?",
-            "answers": [
-                {
-                    "text": "Golf Saha Yeşilliği",
-                    "isCorrect": true
-                },
-                {
-                    "text": "Futbol Sahası",
-                    "isCorrect": false
-                },
-                {
-                    "text": "Kriket Sahası",
-                    "isCorrect": false
-                },
-                {
-                    "text": "Pinball Masası",
-                    "isCorrect": false
-                }
-            ]
-        },
-        {
-            "question": "İngiltere milli futbol takımının en çok gol atan oyuncusu kimdir?",
-            "answers": [
-                {
-                    "text": "Wayne Rooney",
-                    "isCorrect": true
-                },
-                {
-                    "text": "David Beckham",
-                    "isCorrect": false
-                },
-                {
-                    "text": "Steven Gerrard",
-                    "isCorrect": false
-                },
-                {
-                    "text": "Michael Owen",
-                    "isCorrect": false
-                }
-            ]
-        },
-        {
-            "question": "1999'da 'Şampiyonlar Ligi'ni kim kazandı?",
-            "answers": [
-                {
-                    "text": "Barcelona",
-                    "isCorrect": false
-                },
-                {
-                    "text": "Bayern Münih",
-                    "isCorrect": false
-                },
-                {
-                    "text": "Manchester United",
-                    "isCorrect": true
-                },
-                {
-                    "text": "Liverpool",
-                    "isCorrect": false
-                }
-            ]
-        },
-        {
-            "question": "Konvansiyonel bir dart tahtasında kaç puanlama bölgesi vardır?",
-            "answers": [
-                {
-                    "text": "62",
-                    "isCorrect": false
-                },
-                {
-                    "text": "42",
-                    "isCorrect": false
-                },
-                {
-                    "text": "82",
-                    "isCorrect": true
-                },
-                {
-                    "text": "102",
-                    "isCorrect": false
-                }
-            ]
-        },
-        {
-            "question": "Hangi Alman spor giyim markasının logosu 'Formstripe' olarak bilinir?",
-            "answers": [
-                {
-                    "text": "Nike",
-                    "isCorrect": false
-                },
-                {
-                    "text": "Adidas",
-                    "isCorrect": false
-                },
-                {
-                    "text": "Reebok",
-                    "isCorrect": false
-                },
-                {
-                    "text": "Puma",
-                    "isCorrect": true
-                }
-            ]
-        },
-        {
-            "question": "2006 FIFA Dünya Kupası hangi ülkede düzenlendi?",
-            "answers": [
-                {
-                    "text": "Birleşik Krallık",
-                    "isCorrect": false
-                },
-                {
-                    "text": "Almanya",
-                    "isCorrect": true
-                },
-                {
-                    "text": "Brezilya",
-                    "isCorrect": false
-                },
-                {
-                    "text": "Güney Afrika",
-                    "isCorrect": false
-                }
-            ]
-        },
-        {
-            "question": "2013 sezonu için Ulusal Lig'de Yılın Çaylağı ödülünü kazanan beyzbolcu kimdir?",
-            "answers": [
-                {
-                    "text": "Shelby Miller",
-                    "isCorrect": false
-                },
-                {
-                    "text": "Matt Harvey",
-                    "isCorrect": false
-                },
-                {
-                    "text": "Jose Fernandez",
-                    "isCorrect": true
-                },
-                {
-                    "text": "Jacob deGrom",
-                    "isCorrect": false
-                }
-            ]
-        },
-        {
-            "question": "2014-2015 NBA Şampiyonu hangi takımdı?",
-            "answers": [
-                {
-                    "text": "Cleveland Cavaliers",
-                    "isCorrect": false
-                },
-                {
-                    "text": "Houston Rockets",
-                    "isCorrect": false
-                },
-                {
-                    "text": "Golden State Warriors",
-                    "isCorrect": true
-                },
-                {
-                    "text": "Atlanta Hawks",
-                    "isCorrect": false
-                }
-            ]
-        }
-    ]
+    {
+        "question": "Hangi futbol takımı 2015 Copa América Şampiyonası'nı kazandı?",
+        "answers": [
+            {
+                "text": "Brezilya",
+                "isCorrect": false
+            },
+            {
+                "text": "Şili",
+                "isCorrect": true
+            },
+            {
+                "text": "Arjantin",
+                "isCorrect": false
+            },
+            {
+                "text": "Paraguay",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Bu ülkelerden hangisinin milli takımı 2018 FIFA Dünya Kupası'na katıldı?",
+        "answers": [
+            {
+                "text": "Amerika Birleşik Devletleri",
+                "isCorrect": false
+            },
+            {
+                "text": "İtalya",
+                "isCorrect": false
+            },
+            {
+                "text": "Tunus",
+                "isCorrect": true
+            },
+            {
+                "text": "Hollanda",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "1994 F1 sezonu hangi trajik olayla hatırlanır?",
+        "answers": [
+            {
+                "text": "Showdown (Avustralya)",
+                "isCorrect": false
+            },
+            {
+                "text": "Verstappen'in Yangını (Almanya)",
+                "isCorrect": false
+            },
+            {
+                "text": "Schumacher'in Yasağı (Büyük Britanya)",
+                "isCorrect": false
+            },
+            {
+                "text": "Ayrton Senna'nın Ölümü (San Marino)",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "2014 FIFA Dünya Kupası'nın en golcü oyuncusu kimdi?",
+        "answers": [
+            {
+                "text": "Thomas Müller",
+                "isCorrect": false
+            },
+            {
+                "text": "Lionel Messi",
+                "isCorrect": false
+            },
+            {
+                "text": "James Rodríguez",
+                "isCorrect": true
+            },
+            {
+                "text": "Neymar",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi otomobil üreticisi 2017 24 Saat Le Mans Yarışı'nı kazandı?",
+        "answers": [
+            {
+                "text": "Toyota",
+                "isCorrect": false
+            },
+            {
+                "text": "Audi",
+                "isCorrect": false
+            },
+            {
+                "text": "Porsche",
+                "isCorrect": true
+            },
+            {
+                "text": "Chevrolet",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Sir Alex Ferguson, Manchester United'da kaç Premier League şampiyonluğu kazandı?",
+        "answers": [
+            {
+                "text": "11",
+                "isCorrect": false
+            },
+            {
+                "text": "20",
+                "isCorrect": false
+            },
+            {
+                "text": "13",
+                "isCorrect": true
+            },
+            {
+                "text": "22",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi Formula 1 pilotu 2017 sezonunun ortasında takım değiştirdi?",
+        "answers": [
+            {
+                "text": "Daniil Kvyat",
+                "isCorrect": false
+            },
+            {
+                "text": "Jolyon Palmer",
+                "isCorrect": false
+            },
+            {
+                "text": "Carlos Sainz Jr.",
+                "isCorrect": true
+            },
+            {
+                "text": "Rio Haryanto",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Bir stimpmeter, hangi yüzeyin üzerindeki topun hızını ölçer?",
+        "answers": [
+            {
+                "text": "Golf Saha Yeşilliği",
+                "isCorrect": true
+            },
+            {
+                "text": "Futbol Sahası",
+                "isCorrect": false
+            },
+            {
+                "text": "Kriket Sahası",
+                "isCorrect": false
+            },
+            {
+                "text": "Pinball Masası",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "İngiltere milli futbol takımının en çok gol atan oyuncusu kimdir?",
+        "answers": [
+            {
+                "text": "Wayne Rooney",
+                "isCorrect": true
+            },
+            {
+                "text": "David Beckham",
+                "isCorrect": false
+            },
+            {
+                "text": "Steven Gerrard",
+                "isCorrect": false
+            },
+            {
+                "text": "Michael Owen",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "1999'da 'Şampiyonlar Ligi'ni kim kazandı?",
+        "answers": [
+            {
+                "text": "Barcelona",
+                "isCorrect": false
+            },
+            {
+                "text": "Bayern Münih",
+                "isCorrect": false
+            },
+            {
+                "text": "Manchester United",
+                "isCorrect": true
+            },
+            {
+                "text": "Liverpool",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Konvansiyonel bir dart tahtasında kaç puanlama bölgesi vardır?",
+        "answers": [
+            {
+                "text": "62",
+                "isCorrect": false
+            },
+            {
+                "text": "42",
+                "isCorrect": false
+            },
+            {
+                "text": "82",
+                "isCorrect": true
+            },
+            {
+                "text": "102",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi Alman spor giyim markasının logosu 'Formstripe' olarak bilinir?",
+        "answers": [
+            {
+                "text": "Nike",
+                "isCorrect": false
+            },
+            {
+                "text": "Adidas",
+                "isCorrect": false
+            },
+            {
+                "text": "Reebok",
+                "isCorrect": false
+            },
+            {
+                "text": "Puma",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "2006 FIFA Dünya Kupası hangi ülkede düzenlendi?",
+        "answers": [
+            {
+                "text": "Birleşik Krallık",
+                "isCorrect": false
+            },
+            {
+                "text": "Almanya",
+                "isCorrect": true
+            },
+            {
+                "text": "Brezilya",
+                "isCorrect": false
+            },
+            {
+                "text": "Güney Afrika",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "2013 sezonu için Ulusal Lig'de Yılın Çaylağı ödülünü kazanan beyzbolcu kimdir?",
+        "answers": [
+            {
+                "text": "Shelby Miller",
+                "isCorrect": false
+            },
+            {
+                "text": "Matt Harvey",
+                "isCorrect": false
+            },
+            {
+                "text": "Jose Fernandez",
+                "isCorrect": true
+            },
+            {
+                "text": "Jacob deGrom",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "2014-2015 NBA Şampiyonu hangi takımdı?",
+        "answers": [
+            {
+                "text": "Cleveland Cavaliers",
+                "isCorrect": false
+            },
+            {
+                "text": "Houston Rockets",
+                "isCorrect": false
+            },
+            {
+                "text": "Golden State Warriors",
+                "isCorrect": true
+            },
+            {
+                "text": "Atlanta Hawks",
+                "isCorrect": false
+            }
+        ]
+    }
 ]

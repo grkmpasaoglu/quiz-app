@@ -1,0 +1,1115 @@
+[
+    {
+        "question": "Hangi oyun, 1996'da piyasaya sürülen ilk 'Resident Evil' oyunundan biridir?",
+        "answers": [
+            {
+                "text": "Resident Evil 2",
+                "isCorrect": false
+            },
+            {
+                "text": "Resident Evil",
+                "isCorrect": true
+            },
+            {
+                "text": "Resident Evil 3: Nemesis",
+                "isCorrect": false
+            },
+            {
+                "text": "Resident Evil 4",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi oyun, 2017'de piyasaya sürülen ve Battle Royale türünde bir oyundur?",
+        "answers": [
+            {
+                "text": "PlayerUnknown's Battlegrounds",
+                "isCorrect": true
+            },
+            {
+                "text": "Fortnite",
+                "isCorrect": false
+            },
+            {
+                "text": "Apex Legends",
+                "isCorrect": false
+            },
+            {
+                "text": "Call of Duty: Warzone",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi video oyununda, ana karakter Link Hyrule Krallığı'nı kurtarmak için mücadele eder?",
+        "answers": [
+            {
+                "text": "The Legend of Zelda",
+                "isCorrect": true
+            },
+            {
+                "text": "Final Fantasy",
+                "isCorrect": false
+            },
+            {
+                "text": "Dark Souls",
+                "isCorrect": false
+            },
+            {
+                "text": "Dragon Quest",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi oyun serisi, 'GTA' kısaltmasıyla bilinir?",
+        "answers": [
+            {
+                "text": "Grand Theft Auto",
+                "isCorrect": true
+            },
+            {
+                "text": "Grand Theft Auto: San Andreas",
+                "isCorrect": false
+            },
+            {
+                "text": "Grand Theft Auto: Vice City",
+                "isCorrect": false
+            },
+            {
+                "text": "Grand Theft Auto IV",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi oyun, 2009'da piyasaya sürülen ve 'Minecraft' benzeri bir yapımcı oyunudur?",
+        "answers": [
+            {
+                "text": "Terraria",
+                "isCorrect": true
+            },
+            {
+                "text": "Stardew Valley",
+                "isCorrect": false
+            },
+            {
+                "text": "Rust",
+                "isCorrect": false
+            },
+            {
+                "text": "Don't Starve",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi oyun, 1999'da piyasaya sürülen ve birinci şahıs nişancı türünde bir oyundur?",
+        "answers": [
+            {
+                "text": "Half-Life",
+                "isCorrect": true
+            },
+            {
+                "text": "Quake",
+                "isCorrect": false
+            },
+            {
+                "text": "Doom",
+                "isCorrect": false
+            },
+            {
+                "text": "Counter-Strike",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi oyun, 'Skyrim' adında bir açık dünya rol yapma oyunudur?",
+        "answers": [
+            {
+                "text": "The Elder Scrolls V: Skyrim",
+                "isCorrect": true
+            },
+            {
+                "text": "The Elder Scrolls IV: Oblivion",
+                "isCorrect": false
+            },
+            {
+                "text": "The Elder Scrolls III: Morrowind",
+                "isCorrect": false
+            },
+            {
+                "text": "The Elder Scrolls Online",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi oyun, 2020'de piyasaya sürülen ve açık dünya rol yapma oyunudur?",
+        "answers": [
+            {
+                "text": "Cyberpunk 2077",
+                "isCorrect": true
+            },
+            {
+                "text": "The Witcher 3: Wild Hunt",
+                "isCorrect": false
+            },
+            {
+                "text": "Horizon Zero Dawn",
+                "isCorrect": false
+            },
+            {
+                "text": "Assassin's Creed Valhalla",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi oyun, 'Mario' karakterini içeren ilk platform oyunudur?",
+        "answers": [
+            {
+                "text": "Donkey Kong",
+                "isCorrect": true
+            },
+            {
+                "text": "Super Mario Bros.",
+                "isCorrect": false
+            },
+            {
+                "text": "Mario Kart",
+                "isCorrect": false
+            },
+            {
+                "text": "Super Mario 64",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi oyun serisi, 'Assassin' ve 'Templar' savaşını konu alır?",
+        "answers": [
+            {
+                "text": "Assassin's Creed",
+                "isCorrect": true
+            },
+            {
+                "text": "Call of Duty",
+                "isCorrect": false
+            },
+            {
+                "text": "Far Cry",
+                "isCorrect": false
+            },
+            {
+                "text": "Battlefield",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi oyun, 2016'da piyasaya sürülen ve çok oyunculu bir strateji oyunudur?",
+        "answers": [
+            {
+                "text": "Overwatch",
+                "isCorrect": true
+            },
+            {
+                "text": "League of Legends",
+                "isCorrect": false
+            },
+            {
+                "text": "Dota 2",
+                "isCorrect": false
+            },
+            {
+                "text": "Heroes of the Storm",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi oyun, 2011'de piyasaya sürülen ve 'zombi' temalı bir hayatta kalma oyunudur?",
+        "answers": [
+            {
+                "text": "Dead Island",
+                "isCorrect": true
+            },
+            {
+                "text": "Left 4 Dead 2",
+                "isCorrect": false
+            },
+            {
+                "text": "DayZ",
+                "isCorrect": false
+            },
+            {
+                "text": "State of Decay",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi oyun, 'Sonic' adında bir karakteri içerir?",
+        "answers": [
+            {
+                "text": "Sonic the Hedgehog",
+                "isCorrect": true
+            },
+            {
+                "text": "Crash Bandicoot",
+                "isCorrect": false
+            },
+            {
+                "text": "Spyro the Dragon",
+                "isCorrect": false
+            },
+            {
+                "text": "Rayman",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi oyun, 'open world' mekanikleri ve 'sandbox' tarzıyla tanınır?",
+        "answers": [
+            {
+                "text": "Grand Theft Auto V",
+                "isCorrect": true
+            },
+            {
+                "text": "Dark Souls III",
+                "isCorrect": false
+            },
+            {
+                "text": "The Last of Us",
+                "isCorrect": false
+            },
+            {
+                "text": "God of War",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi oyun, 'The Witcher' serisinin bir parçasıdır?",
+        "answers": [
+            {
+                "text": "The Witcher 3: Wild Hunt",
+                "isCorrect": true
+            },
+            {
+                "text": "The Witcher 2: Assassins of Kings",
+                "isCorrect": false
+            },
+            {
+                "text": "The Witcher",
+                "isCorrect": false
+            },
+            {
+                "text": "Cyberpunk 2077",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi oyun, 2019'da piyasaya sürülen ve bir tür aksiyon rol yapma oyunudur?",
+        "answers": [
+            {
+                "text": "Sekiro: Shadows Die Twice",
+                "isCorrect": true
+            },
+            {
+                "text": "Death Stranding",
+                "isCorrect": false
+            },
+            {
+                "text": "Control",
+                "isCorrect": false
+            },
+            {
+                "text": "Resident Evil 2",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi oyun, 2000'lerin başında çıkan ve geniş açık dünyasıyla tanınan bir aksiyon rol yapma oyunudur?",
+        "answers": [
+            {
+                "text": "Grand Theft Auto: San Andreas",
+                "isCorrect": true
+            },
+            {
+                "text": "Fallout 3",
+                "isCorrect": false
+            },
+            {
+                "text": "The Elder Scrolls IV: Oblivion",
+                "isCorrect": false
+            },
+            {
+                "text": "The Witcher",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi video oyununda, ana karakter Gordon Freeman'dır?",
+        "answers": [
+            {
+                "text": "Half-Life",
+                "isCorrect": true
+            },
+            {
+                "text": "Bioshock",
+                "isCorrect": false
+            },
+            {
+                "text": "Duke Nukem",
+                "isCorrect": false
+            },
+            {
+                "text": "Portal",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi oyun, 'Mortal Kombat' serisinin bir parçasıdır?",
+        "answers": [
+            {
+                "text": "Mortal Kombat 11",
+                "isCorrect": true
+            },
+            {
+                "text": "Tekken 7",
+                "isCorrect": false
+            },
+            {
+                "text": "Street Fighter V",
+                "isCorrect": false
+            },
+            {
+                "text": "Soulcalibur VI",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi video oyunu, açık dünya ve hayatta kalma mekaniği ile tanınır?",
+        "answers": [
+            {
+                "text": "Rust",
+                "isCorrect": true
+            },
+            {
+                "text": "Overwatch",
+                "isCorrect": false
+            },
+            {
+                "text": "The Last of Us",
+                "isCorrect": false
+            },
+            {
+                "text": "Counter-Strike",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi video oyununda, ana karakter Kratos'tur?",
+        "answers": [
+            {
+                "text": "God of War",
+                "isCorrect": true
+            },
+            {
+                "text": "Horizon Zero Dawn",
+                "isCorrect": false
+            },
+            {
+                "text": "Dark Souls",
+                "isCorrect": false
+            },
+            {
+                "text": "Bloodborne",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi oyun, 1999'da çıkan ve birinci şahıs nişancı türündeki popüler bir oyundur?",
+        "answers": [
+            {
+                "text": "Quake III Arena",
+                "isCorrect": true
+            },
+            {
+                "text": "Doom",
+                "isCorrect": false
+            },
+            {
+                "text": "Counter-Strike",
+                "isCorrect": false
+            },
+            {
+                "text": "Half-Life",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi oyun, 2021'de piyasaya sürülen ve aksiyon rol yapma türündeki bir oyundur?",
+        "answers": [
+            {
+                "text": "Halo Infinite",
+                "isCorrect": true
+            },
+            {
+                "text": "Ratchet & Clank: Rift Apart",
+                "isCorrect": false
+            },
+            {
+                "text": "Elden Ring",
+                "isCorrect": false
+            },
+            {
+                "text": "Deathloop",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi oyun, 'Assassin's Creed' serisinin bir parçasıdır ve antik Mısır'da geçer?",
+        "answers": [
+            {
+                "text": "Assassin's Creed Origins",
+                "isCorrect": true
+            },
+            {
+                "text": "Assassin's Creed Odyssey",
+                "isCorrect": false
+            },
+            {
+                "text": "Assassin's Creed Syndicate",
+                "isCorrect": false
+            },
+            {
+                "text": "Assassin's Creed Unity",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi video oyunu, karakterlerin farklı yetenekler kullanarak savaştığı bir strateji oyunudur?",
+        "answers": [
+            {
+                "text": "StarCraft",
+                "isCorrect": true
+            },
+            {
+                "text": "Age of Empires",
+                "isCorrect": false
+            },
+            {
+                "text": "Warcraft III",
+                "isCorrect": false
+            },
+            {
+                "text": "Total War",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi oyun, 2009'da piyasaya sürülen ve açık dünya aksiyon oyunudur?",
+        "answers": [
+            {
+                "text": "Infamous",
+                "isCorrect": true
+            },
+            {
+                "text": "Prototype",
+                "isCorrect": false
+            },
+            {
+                "text": "Assassin's Creed II",
+                "isCorrect": false
+            },
+            {
+                "text": "Red Dead Redemption",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi video oyunu, bir uzay yolcusunun maceralarını konu alır?",
+        "answers": [
+            {
+                "text": "Mass Effect",
+                "isCorrect": true
+            },
+            {
+                "text": "No Man's Sky",
+                "isCorrect": false
+            },
+            {
+                "text": "Star Wars: Jedi Fallen Order",
+                "isCorrect": false
+            },
+            {
+                "text": "Elite Dangerous",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi video oyunu, ana karakteri 'Nathan Drake' olan bir aksiyon-macera oyunudur?",
+        "answers": [
+            {
+                "text": "Uncharted",
+                "isCorrect": true
+            },
+            {
+                "text": "Tomb Raider",
+                "isCorrect": false
+            },
+            {
+                "text": "God of War",
+                "isCorrect": false
+            },
+            {
+                "text": "The Last of Us",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi video oyununda, ana karakter 'Geralt of Rivia' adını taşır?",
+        "answers": [
+            {
+                "text": "The Witcher",
+                "isCorrect": true
+            },
+            {
+                "text": "Dark Souls",
+                "isCorrect": false
+            },
+            {
+                "text": "Horizon Zero Dawn",
+                "isCorrect": false
+            },
+            {
+                "text": "Dragon Age",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi video oyunu, zombi temalı bir hayatta kalma oyunudur ve 'DayZ' adını taşır?",
+        "answers": [
+            {
+                "text": "DayZ",
+                "isCorrect": true
+            },
+            {
+                "text": "Dead Rising",
+                "isCorrect": false
+            },
+            {
+                "text": "State of Decay",
+                "isCorrect": false
+            },
+            {
+                "text": "Left 4 Dead",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi oyun, karakterlerin farklı türde silahlarla savaştığı bir arena oyunudur?",
+        "answers": [
+            {
+                "text": "Quake",
+                "isCorrect": true
+            },
+            {
+                "text": "Team Fortress 2",
+                "isCorrect": false
+            },
+            {
+                "text": "Unreal Tournament",
+                "isCorrect": false
+            },
+            {
+                "text": "Counter-Strike",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi video oyununda, ana karakter 'Link' Hyrule Krallığı'nı kurtarmak için mücadele eder?",
+        "answers": [
+            {
+                "text": "The Legend of Zelda",
+                "isCorrect": true
+            },
+            {
+                "text": "Final Fantasy",
+                "isCorrect": false
+            },
+            {
+                "text": "Dark Souls",
+                "isCorrect": false
+            },
+            {
+                "text": "Dragon Quest",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi video oyunu, 2021'de piyasaya sürülen ve açık dünya aksiyon rol yapma oyunudur?",
+        "answers": [
+            {
+                "text": "Elden Ring",
+                "isCorrect": true
+            },
+            {
+                "text": "Ratchet & Clank: Rift Apart",
+                "isCorrect": false
+            },
+            {
+                "text": "Horizon Forbidden West",
+                "isCorrect": false
+            },
+            {
+                "text": "Dying Light 2",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi oyun, 1997'de piyasaya sürülen ve büyük bir popülariteye sahip olan bir aksiyon oyunudur?",
+        "answers": [
+            {
+                "text": "GoldenEye 007",
+                "isCorrect": true
+            },
+            {
+                "text": "Doom",
+                "isCorrect": false
+            },
+            {
+                "text": "Half-Life",
+                "isCorrect": false
+            },
+            {
+                "text": "Quake",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi video oyunu, uzayda geçer ve oyuncuların çeşitli gezegenleri keşfetmelerini sağlar?",
+        "answers": [
+            {
+                "text": "No Man's Sky",
+                "isCorrect": true
+            },
+            {
+                "text": "Elite Dangerous",
+                "isCorrect": false
+            },
+            {
+                "text": "Star Wars: Squadrons",
+                "isCorrect": false
+            },
+            {
+                "text": "Mass Effect",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi oyun, 2017'de piyasaya sürülen ve çok oyunculu bir Battle Royale oyunudur?",
+        "answers": [
+            {
+                "text": "PlayerUnknown's Battlegrounds",
+                "isCorrect": true
+            },
+            {
+                "text": "Apex Legends",
+                "isCorrect": false
+            },
+            {
+                "text": "Fortnite",
+                "isCorrect": false
+            },
+            {
+                "text": "Call of Duty: Warzone",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi video oyunu, eski Yunan mitolojisi ile ilgili bir aksiyon oyunudur?",
+        "answers": [
+            {
+                "text": "God of War",
+                "isCorrect": true
+            },
+            {
+                "text": "Assassin's Creed Odyssey",
+                "isCorrect": false
+            },
+            {
+                "text": "Hades",
+                "isCorrect": false
+            },
+            {
+                "text": "Dark Souls",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi oyun, 2015'te piyasaya sürülen ve bir aksiyon rol yapma oyunudur?",
+        "answers": [
+            {
+                "text": "The Witcher 3: Wild Hunt",
+                "isCorrect": true
+            },
+            {
+                "text": "Fallout 4",
+                "isCorrect": false
+            },
+            {
+                "text": "Bloodborne",
+                "isCorrect": false
+            },
+            {
+                "text": "Dark Souls III",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi video oyunu, Japonya'da geçer ve bir dövüş oyunu serisinin parçasıdır?",
+        "answers": [
+            {
+                "text": "Tekken",
+                "isCorrect": true
+            },
+            {
+                "text": "Street Fighter",
+                "isCorrect": false
+            },
+            {
+                "text": "Mortal Kombat",
+                "isCorrect": false
+            },
+            {
+                "text": "Soulcalibur",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi video oyunu, 2004'te piyasaya sürülen ve bir aksiyon rol yapma oyunudur?",
+        "answers": [
+            {
+                "text": "Kotor II: The Sith Lords",
+                "isCorrect": true
+            },
+            {
+                "text": "The Elder Scrolls III: Morrowind",
+                "isCorrect": false
+            },
+            {
+                "text": "Mass Effect",
+                "isCorrect": false
+            },
+            {
+                "text": "Dragon Age: Origins",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi video oyunu, 2021'de piyasaya sürülen ve birinci şahıs nişancı türündeki bir oyundur?",
+        "answers": [
+            {
+                "text": "Call of Duty: Vanguard",
+                "isCorrect": true
+            },
+            {
+                "text": "Battlefield 2042",
+                "isCorrect": false
+            },
+            {
+                "text": "Halo Infinite",
+                "isCorrect": false
+            },
+            {
+                "text": "Far Cry 6",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi video oyunu, uzayda geçen ve bir strateji oyunudur?",
+        "answers": [
+            {
+                "text": "StarCraft II",
+                "isCorrect": true
+            },
+            {
+                "text": "Warcraft III",
+                "isCorrect": false
+            },
+            {
+                "text": "Age of Empires IV",
+                "isCorrect": false
+            },
+            {
+                "text": "Total War: Warhammer",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi video oyunu, 2018'de piyasaya sürülen ve bir aksiyon rol yapma oyunudur?",
+        "answers": [
+            {
+                "text": "Monster Hunter: World",
+                "isCorrect": true
+            },
+            {
+                "text": "Sekiro: Shadows Die Twice",
+                "isCorrect": false
+            },
+            {
+                "text": "Red Dead Redemption II",
+                "isCorrect": false
+            },
+            {
+                "text": "Horizon Zero Dawn",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi video oyunu, 2018'de piyasaya sürülen ve bir aksiyon-macera oyunudur?",
+        "answers": [
+            {
+                "text": "God of War",
+                "isCorrect": true
+            },
+            {
+                "text": "Marvel's Spider-Man",
+                "isCorrect": false
+            },
+            {
+                "text": "Shadow of the Tomb Raider",
+                "isCorrect": false
+            },
+            {
+                "text": "Far Cry 5",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi video oyunu, 2022'de piyasaya sürülen ve açık dünya RPG oyunudur?",
+        "answers": [
+            {
+                "text": "Hogwarts Legacy",
+                "isCorrect": true
+            },
+            {
+                "text": "Elden Ring",
+                "isCorrect": false
+            },
+            {
+                "text": "Starfield",
+                "isCorrect": false
+            },
+            {
+                "text": "Horizon Forbidden West",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi video oyununda, ana karakter 'Jill Valentine'dır?",
+        "answers": [
+            {
+                "text": "Resident Evil",
+                "isCorrect": true
+            },
+            {
+                "text": "Silent Hill",
+                "isCorrect": false
+            },
+            {
+                "text": "Dead Space",
+                "isCorrect": false
+            },
+            {
+                "text": "Alan Wake",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi video oyununda, ana karakter 'Geralt of Rivia' adını taşır?",
+        "answers": [
+            {
+                "text": "The Witcher",
+                "isCorrect": true
+            },
+            {
+                "text": "Dark Souls",
+                "isCorrect": false
+            },
+            {
+                "text": "Bloodborne",
+                "isCorrect": false
+            },
+            {
+                "text": "Horizon Zero Dawn",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi oyun, 2019'da piyasaya sürülen ve bir aksiyon RPG oyunudur?",
+        "answers": [
+            {
+                "text": "The Outer Worlds",
+                "isCorrect": true
+            },
+            {
+                "text": "Death Stranding",
+                "isCorrect": false
+            },
+            {
+                "text": "Control",
+                "isCorrect": false
+            },
+            {
+                "text": "Dying Light 2",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi video oyunu, 2007'de piyasaya sürülen ve aksiyon-macera türünde bir yapımdır?",
+        "answers": [
+            {
+                "text": "Uncharted: Drake's Fortune",
+                "isCorrect": true
+            },
+            {
+                "text": "Assassin's Creed",
+                "isCorrect": false
+            },
+            {
+                "text": "Bioshock",
+                "isCorrect": false
+            },
+            {
+                "text": "Mass Effect",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi oyun, 'Wasteland' adında bir açık dünya RPG oyununu içerir?",
+        "answers": [
+            {
+                "text": "Wasteland 3",
+                "isCorrect": true
+            },
+            {
+                "text": "Fallout New Vegas",
+                "isCorrect": false
+            },
+            {
+                "text": "The Outer Worlds",
+                "isCorrect": false
+            },
+            {
+                "text": "Horizon Zero Dawn",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi video oyunu, ana karakteri 'Lara Croft' olan bir macera oyunudur?",
+        "answers": [
+            {
+                "text": "Tomb Raider",
+                "isCorrect": true
+            },
+            {
+                "text": "Uncharted",
+                "isCorrect": false
+            },
+            {
+                "text": "Assassin's Creed",
+                "isCorrect": false
+            },
+            {
+                "text": "God of War",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi video oyunu, 2019'da piyasaya sürülen ve bir aksiyon rol yapma oyunudur?",
+        "answers": [
+            {
+                "text": "The Outer Worlds",
+                "isCorrect": true
+            },
+            {
+                "text": "Death Stranding",
+                "isCorrect": false
+            },
+            {
+                "text": "Control",
+                "isCorrect": false
+            },
+            {
+                "text": "Dying Light 2",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hangi oyun, 2019'da piyasaya sürülen ve bir aksiyon RPG oyunudur?",
+        "answers": [
+            {
+                "text": "The Outer Worlds",
+                "isCorrect": true
+            },
+            {
+                "text": "Death Stranding",
+                "isCorrect": false
+            },
+            {
+                "text": "Control",
+                "isCorrect": false
+            },
+            {
+                "text": "Dying Light 2",
+                "isCorrect": false
+            }
+        ]
+    }
+]
