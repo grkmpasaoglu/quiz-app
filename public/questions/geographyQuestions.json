@@ -1,0 +1,485 @@
+[
+  {
+      "question": "Himalaya Dağları hangi kıtada yer alır?",
+      "answers": [
+          {
+              "text": "Avrupa",
+              "isCorrect": false
+          },
+          {
+              "text": "Asya",
+              "isCorrect": true
+          },
+          {
+              "text": "Afrika",
+              "isCorrect": false
+          },
+          {
+              "text": "Kuzey Amerika",
+              "isCorrect": false
+          }
+      ]
+  },
+  {
+      "question": "Sahra Çölü hangi kıtada bulunur?",
+      "answers": [
+          {
+              "text": "Kuzey Amerika",
+              "isCorrect": false
+          },
+          {
+              "text": "Avustralya",
+              "isCorrect": false
+          },
+          {
+              "text": "Afrika",
+              "isCorrect": true
+          },
+          {
+              "text": "Asya",
+              "isCorrect": false
+          }
+      ]
+  },
+  {
+      "question": "Türkiye'nin en uzun nehri hangisidir?",
+      "answers": [
+          {
+              "text": "Fırat Nehri",
+              "isCorrect": false
+          },
+          {
+              "text": "Dicle Nehri",
+              "isCorrect": false
+          },
+          {
+              "text": "Kızılırmak",
+              "isCorrect": true
+          },
+          {
+              "text": "Sakarya Nehri",
+              "isCorrect": false
+          }
+      ]
+  },
+  {
+      "question": "Dünyanın en büyük adası hangisidir?",
+      "answers": [
+          {
+              "text": "Grönland",
+              "isCorrect": true
+          },
+          {
+              "text": "Borneo",
+              "isCorrect": false
+          },
+          {
+              "text": "Madagaskar",
+              "isCorrect": false
+          },
+          {
+              "text": "Avustralya",
+              "isCorrect": false
+          }
+      ]
+  },
+  {
+      "question": "Ekvator çizgisi hangi kıtadan geçmez?",
+      "answers": [
+          {
+              "text": "Afrika",
+              "isCorrect": false
+          },
+          {
+              "text": "Asya",
+              "isCorrect": false
+          },
+          {
+              "text": "Avrupa",
+              "isCorrect": true
+          },
+          {
+              "text": "Güney Amerika",
+              "isCorrect": false
+          }
+      ]
+  },
+  {
+      "question": "Muson iklimi hangi bölgelerde görülür?",
+      "answers": [
+          {
+              "text": "Kutup bölgeleri",
+              "isCorrect": false
+          },
+          {
+              "text": "Tropikal bölgeler",
+              "isCorrect": true
+          },
+          {
+              "text": "Ilıman bölgeler",
+              "isCorrect": false
+          },
+          {
+              "text": "Çöl bölgeleri",
+              "isCorrect": false
+          }
+      ]
+  },
+  {
+      "question": "Türkiye'nin en büyük gölü hangisidir?",
+      "answers": [
+          {
+              "text": "Tuz Gölü",
+              "isCorrect": false
+          },
+          {
+              "text": "Van Gölü",
+              "isCorrect": true
+          },
+          {
+              "text": "Beyşehir Gölü",
+              "isCorrect": false
+          },
+          {
+              "text": "Eğirdir Gölü",
+              "isCorrect": false
+          }
+      ]
+  },
+  {
+      "question": "Dünyanın en yüksek dağı hangisidir?",
+      "answers": [
+          {
+              "text": "Everest Dağı",
+              "isCorrect": true
+          },
+          {
+              "text": "Kilimanjaro Dağı",
+              "isCorrect": false
+          },
+          {
+              "text": "Aconcagua Dağı",
+              "isCorrect": false
+          },
+          {
+              "text": "McKinley Dağı",
+              "isCorrect": false
+          }
+      ]
+  },
+  {
+      "question": "Hangi okyanus, Asya ve Kuzey Amerika kıtaları arasında yer alır?",
+      "answers": [
+          {
+              "text": "Pasifik Okyanusu",
+              "isCorrect": true
+          },
+          {
+              "text": "Atlas Okyanusu",
+              "isCorrect": false
+          },
+          {
+              "text": "Hint Okyanusu",
+              "isCorrect": false
+          },
+          {
+              "text": "Arktik Okyanusu",
+              "isCorrect": false
+          }
+      ]
+  },
+  {
+      "question": "Hangi ülke, kıtalararası bir köprü konumundadır?",
+      "answers": [
+          {
+              "text": "Türkiye",
+              "isCorrect": true
+          },
+          {
+              "text": "Rusya",
+              "isCorrect": false
+          },
+          {
+              "text": "Panama",
+              "isCorrect": false
+          },
+          {
+              "text": "Mısır",
+              "isCorrect": false
+          }
+      ]
+  },
+  {
+      "question": "Hangi okyanus, dünyanın en soğuk okyanusudur?",
+      "answers": [
+          {
+              "text": "Arktik Okyanusu",
+              "isCorrect": true
+          },
+          {
+              "text": "Antarktika Okyanusu",
+              "isCorrect": false
+          },
+          {
+              "text": "Pasifik Okyanusu",
+              "isCorrect": false
+          },
+          {
+              "text": "Atlas Okyanusu",
+              "isCorrect": false
+          }
+      ]
+  },
+  {
+      "question": "Hangi iklim tipi, bol yağışlı ve sıcak yazları ile karakterizedir?",
+      "answers": [
+          {
+              "text": "Muson iklimi",
+              "isCorrect": true
+          },
+          {
+              "text": "Çöl iklimi",
+              "isCorrect": false
+          },
+          {
+              "text": "Kutup iklimi",
+              "isCorrect": false
+          },
+          {
+              "text": "Ilıman iklim",
+              "isCorrect": false
+          }
+      ]
+  },
+  {
+      "question": "Hangi dağ silsilesi, Güney Amerika'nın batı kıyısında uzanır?",
+      "answers": [
+          {
+              "text": "And Dağları",
+              "isCorrect": true
+          },
+          {
+              "text": "Rocky Dağları",
+              "isCorrect": false
+          },
+          {
+              "text": "Alpler",
+              "isCorrect": false
+          },
+          {
+              "text": "Himalaya Dağları",
+              "isCorrect": false
+          }
+      ]
+  },
+  {
+      "question": "Dünyanın en uzun nehri hangisidir?",
+      "answers": [
+          {
+              "text": "Amazon Nehri",
+              "isCorrect": false
+          },
+          {
+              "text": "Nil Nehri",
+              "isCorrect": true
+          },
+          {
+              "text": "Mississippi Nehri",
+              "isCorrect": false
+          },
+          {
+              "text": "Yangtze Nehri",
+              "isCorrect": false
+          }
+      ]
+  },
+  {
+      "question": "Dünyanın en yüksek dağı hangisidir?",
+      "answers": [
+          {
+              "text": "K2 Dağı",
+              "isCorrect": false
+          },
+          {
+              "text": "Everest Dağı",
+              "isCorrect": true
+          },
+          {
+              "text": "Kangchenjunga Dağı",
+              "isCorrect": false
+          },
+          {
+              "text": "Lhotse Dağı",
+              "isCorrect": false
+          }
+      ]
+  },
+  {
+      "question": "Avrupa'nın en büyük yüzölçümüne sahip ülkesi hangisidir?",
+      "answers": [
+          {
+              "text": "Rusya",
+              "isCorrect": true
+          },
+          {
+              "text": "Almanya",
+              "isCorrect": false
+          },
+          {
+              "text": "Fransa",
+              "isCorrect": false
+          },
+          {
+              "text": "İspanya",
+              "isCorrect": false
+          }
+      ]
+  },
+  {
+      "question": "Avustralya'nın başkenti neresidir?",
+      "answers": [
+          {
+              "text": "Sydney",
+              "isCorrect": false
+          },
+          {
+              "text": "Canberra",
+              "isCorrect": true
+          },
+          {
+              "text": "Melbourne",
+              "isCorrect": false
+          },
+          {
+              "text": "Brisbane",
+              "isCorrect": false
+          }
+      ]
+  },
+  {
+      "question": "Afrika'nın en büyük gölü hangisidir?",
+      "answers": [
+          {
+              "text": "Tanganyika Gölü",
+              "isCorrect": false
+          },
+          {
+              "text": "Victoria Gölü",
+              "isCorrect": true
+          },
+          {
+              "text": "Malawi Gölü",
+              "isCorrect": false
+          },
+          {
+              "text": "Çad Gölü",
+              "isCorrect": false
+          }
+      ]
+  },
+  {
+      "question": "Asya'nın en kalabalık ülkesi hangisidir?",
+      "answers": [
+          {
+              "text": "Hindistan",
+              "isCorrect": false
+          },
+          {
+              "text": "Çin",
+              "isCorrect": true
+          },
+          {
+              "text": "Endonezya",
+              "isCorrect": false
+          },
+          {
+              "text": "Pakistan",
+              "isCorrect": false
+          }
+      ]
+  },
+  {
+      "question": "Antarktika'nın en yüksek noktası hangisidir?",
+      "answers": [
+          {
+              "text": "Vinson Dağı",
+              "isCorrect": true
+          },
+          {
+              "text": "Mount Erebus",
+              "isCorrect": false
+          },
+          {
+              "text": "Mount Sidley",
+              "isCorrect": false
+          },
+          {
+              "text": "Mount Moulton",
+              "isCorrect": false
+          }
+      ]
+  },
+  {
+      "question": "Güney Amerika'nın en uzun dağı hangisidir?",
+      "answers": [
+          {
+              "text": "Nevado Ojos del Salado",
+              "isCorrect": false
+          },
+          {
+              "text": "Aconcagua Dağı",
+              "isCorrect": true
+          },
+          {
+              "text": "Huascarán Dağı",
+              "isCorrect": false
+          },
+          {
+              "text": "Cerro Bonete",
+              "isCorrect": false
+          }
+      ]
+  },
+  {
+      "question": "Kuzey Amerika'nın en büyük adası hangisidir?",
+      "answers": [
+          {
+              "text": "Baffin Adası",
+              "isCorrect": false
+          },
+          {
+              "text": "Grönland",
+              "isCorrect": true
+          },
+          {
+              "text": "Victoria Adası",
+              "isCorrect": false
+          },
+          {
+              "text": "Ellesmere Adası",
+              "isCorrect": false
+          }
+      ]
+  },
+  {
+      "question": "Hangi ülkenin iki kıtada toprağı vardır?",
+      "answers": [
+          {
+              "text": "Rusya",
+              "isCorrect": false
+          },
+          {
+              "text": "Türkiye",
+              "isCorrect": true
+          },
+          {
+              "text": "Mısır",
+              "isCorrect": false
+          },
+          {
+              "text": "İspanya",
+              "isCorrect": false
+          }
+      ]
+  }
+]

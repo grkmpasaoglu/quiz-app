@@ -1,0 +1,23 @@
+[
+    {
+        "question": "What is the largest mammal in the world?",
+        "answers": [
+            {
+                "text": "Elephant",
+                "isCorrect": false
+            },
+            {
+                "text": "Blue Whale",
+                "isCorrect": true
+            },
+            {
+                "text": "Giraffe",
+                "isCorrect": false
+            },
+            {
+                "text": "Hippo",
+                "isCorrect": false
+            }
+        ]
+    }
+]
