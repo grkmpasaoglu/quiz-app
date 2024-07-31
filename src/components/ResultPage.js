@@ -4,7 +4,7 @@ import { useLocation, useNavigate } from 'react-router-dom';
 const ResultPage = () => {
   const location = useLocation();
   const navigate = useNavigate();
-  const { score, incorrectCount, skippedCount, userName } = location.state || {};
+  const { score, incorrectCount, skippedCount } = location.state || {};
 
   const handleGoHome = () => {
     navigate('/');

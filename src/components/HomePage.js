@@ -1,6 +1,5 @@
-import React, { useState } from 'react';
+import React from 'react';
 import { useNavigate } from 'react-router-dom';
-
 
 const categories = [
   { name: 'Matematik', imageUrl: 'https://cdn.dribbble.com/users/31818/screenshots/1891002/math.gif', font: 'font-roboto-mono', gridArea: 'a' },
@@ -20,11 +19,9 @@ const categories = [
 ];
 
 const HomePage = () => {
-  const [selectedCategory, setSelectedCategory] = useState(null);
   const navigate = useNavigate();
 
   const handleCategorySelect = (category) => {
-    setSelectedCategory(category);
     navigate('/countdown', { state: { category } });
   };
 
