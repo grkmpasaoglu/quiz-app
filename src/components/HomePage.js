@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { useNavigate } from 'react-router-dom';
-import Modal from './Modal'; // Import the Modal component
+import Modal from './Modal';
 
 const categories = [
   { name: 'Matematik', imageUrl: 'https://cdn.dribbble.com/users/31818/screenshots/1891002/math.gif', font: 'font-roboto-mono', gridArea: 'a' },
