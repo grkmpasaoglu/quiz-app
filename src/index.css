@@ -7,6 +7,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Indie+Flower&family=Kalam&family=Lobster&family=Roboto+Mono&family=Sacramento&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Bungee+Spice&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Bangers&family=Great+Vibes&family=Orbitron:wght@400..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kalnia+Glaze:wght@100..700&display=swap');
 
 body {
   margin: 0;
@@ -21,43 +22,115 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+
+
 .grid-areas-layout {
   display: grid;
   grid-template-areas:
-    "a a b b b k"
-    "a a d d e k"
-    "f f f g h h"
-    "c c j i i i"
-    "c c j l m m"
-    "n n j l m m";
+    "a a"
+    "b b"
+    "c c"
+    "d d"
+    "e e"
+    "f f"
+    "g g"
+    "h h"
+    "i i"
+    "j j"
+    "k k"
+    "l l"
+    "m m"
+    "n n";
   gap: 20px;
-  grid-template-columns: 1fr 1fr 1fr 2fr 2fr 1fr;
-  grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr;
+  grid-template-columns: repeat(2, 1fr);
+  grid-template-rows: repeat(13, minmax(0, 1fr));
 }
 
 
-.grid-areas-layout .a { grid-area: a; }
-.grid-areas-layout .b { grid-area: b; }
-.grid-areas-layout .c { grid-area: c; }
-.grid-areas-layout .d { grid-area: d; }
-.grid-areas-layout .e { grid-area: e; }
-.grid-areas-layout .f { grid-area: f; }
-.grid-areas-layout .g { grid-area: g; }
-.grid-areas-layout .h { grid-area: h; }
-.grid-areas-layout .i { grid-area: i; }
-.grid-areas-layout .j { grid-area: j; }
-.grid-areas-layout .k { grid-area: k; }
-.grid-areas-layout .l { grid-area: l; }
-.grid-areas-layout .m { grid-area: m; }
-.grid-areas-layout .n { grid-area: n; }
+@media (min-width: 640px) {
+
+  /* Tailwind's sm breakpoint */
+  .grid-areas-layout {
+    display: grid;
+    grid-template-areas:
+      "a a b b b k"
+      "a a d d e k"
+      "f f f g h h"
+      "c c j i i i"
+      "c c j l m m"
+      "n n j l m m";
+    gap: 20px;
+    grid-template-columns: 1fr 1fr 1fr 2fr 2fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr;
+  }
+}
+
+.grid-areas-layout .a {
+  grid-area: a;
+}
+
+.grid-areas-layout .b {
+  grid-area: b;
+}
+
+.grid-areas-layout .c {
+  grid-area: c;
+}
+
+.grid-areas-layout .d {
+  grid-area: d;
+}
+
+.grid-areas-layout .e {
+  grid-area: e;
+}
+
+.grid-areas-layout .f {
+  grid-area: f;
+}
+
+.grid-areas-layout .g {
+  grid-area: g;
+}
+
+.grid-areas-layout .h {
+  grid-area: h;
+}
+
+.grid-areas-layout .i {
+  grid-area: i;
+}
+
+.grid-areas-layout .j {
+  grid-area: j;
+}
+
+.grid-areas-layout .k {
+  grid-area: k;
+}
+
+.grid-areas-layout .l {
+  grid-area: l;
+}
+
+.grid-areas-layout .m {
+  grid-area: m;
+}
+
+.grid-areas-layout .n {
+  grid-area: n;
+}
 
 
 .green {
-  background-color: #d4edda; /* Light green */
+  background-color: #d4edda;
+  /* Light green */
 }
 
 .red {
-  background-color: #f8d7da; /* Light red */
+  background-color: #f8d7da;
+  /* Light red */
 }
 
 .nabla-custom {
@@ -78,8 +151,9 @@ code {
 .orbitron {
   font-family: "Orbitron", sans-serif;
   font-optical-sizing: auto;
-  font-weight: 400;
+  font-weight: 1400;
   font-style: normal;
+  color: white;
 }
 
 .great-vibes-regular {
@@ -92,4 +166,22 @@ code {
   font-family: "Bangers", system-ui;
   font-weight: 400;
   font-style: normal;
+}
+
+.kalnia-glaze {
+  font-family: "Kalnia Glaze", serif;
+  font-optical-sizing: auto;
+  font-weight: 1000;
+  font-size: x-large;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+
+.font-press-start{
+  color: white;
+}
+
+.font-roboto-mono{
+  color: white;
 }

@@ -33,8 +33,15 @@ const CountdownPage = () => {
   }, [countdown, navigate, category]);
 
   return (
-    <div className={`flex flex-col items-center justify-center min-h-screen p-4 bg-gray-100 ${shake ? 'shake' : ''}`}>
-      <h1 className='text-3xl font-bold mb-4'>OYUN BAŞLIYOR!</h1>
+    <div className={`flex flex-col items-center justify-center min-h-screen p-4 bg-black text-white ${shake ? 'shake' : ''}`}>
+         <div className='absolute top-10 md:-top-10 left-1/2 transform -translate-x-1/2'>
+        <img 
+          src='https://media1.giphy.com/media/4AGAnOldrk4R4HiQHx/giphy.gif?cid=6c09b952jhavgsu2kh0smgvinvz433ygefuuoee5tz5gu2sp&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s' 
+          alt='Celebration' 
+          className='w-70 h-70' // Increase the size here
+        />
+      </div>
+      <h1 className='text-3xl font-bold mb-4 '>OYUN BAŞLIYOR!</h1>
       <div
         key={animationKey} // Trigger re-render with new key
         className='text-6xl font-bold fade-in'

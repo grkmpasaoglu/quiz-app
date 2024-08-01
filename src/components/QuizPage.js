@@ -28,7 +28,7 @@ const QuizPage = () => {
   const [skippedCount, setSkippedCount] = useState(0);
   const [isGameOver, setIsGameOver] = useState(false);
   const [feedback, setFeedback] = useState(null); // For feedback
-  const [feedbackTimeout, setFeedbackTimeout] = useState(null); // For feedback delay
+  const [isFeedbackVisible, setIsFeedbackVisible] = useState(false); // Track feedback visibility
 
   useEffect(() => {
     const fetchQuestions = async () => {
@@ -116,6 +116,7 @@ const QuizPage = () => {
       correctIndex,
       selectedIndex: answerIndex,
     });
+    setIsFeedbackVisible(true); // Show feedback
 
     const isCorrect = currentQuestion.answers[answerIndex].isCorrect;
     if (isCorrect) {
@@ -125,9 +126,10 @@ const QuizPage = () => {
     }
 
     // Pause the game timer for feedback display
-    setFeedbackTimeout(setTimeout(() => {
+    setTimeout(() => {
+      setIsFeedbackVisible(false); // Hide feedback
       moveToNextQuestion();
-    }, 2500)); // 2.5 seconds delay for feedback
+    }, 2500); // 2.5 seconds delay for feedback
   };
 
   const handleSkip = () => {
@@ -145,15 +147,13 @@ const QuizPage = () => {
   const moveToNextQuestion = () => {
     setCurrentQuestionIndex(currentQuestionIndex + 1);
     setFeedback(null); // Reset feedback
-    setFeedbackTimeout(null); // Clear feedback timeout
-
-    if (currentQuestionIndex + 1 >= questions.length) {
-      setIsGameOver(true);
-    }
+    setIsFeedbackVisible(false); // Ensure buttons are enabled
   };
 
   const handleBackToHome = () => {
-    navigate('/'); // Navigates to the home page
+    if (window.confirm("Anasayfaya dönmek istediğinizden emin misiniz?")) {
+      navigate('/'); // Navigates to the home page
+    }
   };
 
   if (isGameOver) {
@@ -172,7 +172,7 @@ const QuizPage = () => {
     'Spor': 'https://wallpapers.com/images/featured/best-sports-background-9mo6eiyv8hxj5jln.jpg',
     "Coğrafya": 'https://c.wallhere.com/photos/d0/04/globe_country_ball_geography-587550.jpg!d',
     "Çizgi Film": 'https://i.pinimg.com/originals/7a/3c/82/7a3c82144253403e0db0d582f5dca206.jpg',
-    "Anime": 'https://wallpapercave.com/wp/wp9944149.jpg',
+    "Anime": 'https://wallpapers.com/images/hd/anime-all-characters-hd-4r9pb6ju4v1b0m48.jpg',
     "Film": 'https://wallpapers.com/images/featured/movie-9pvmdtvz4cb0xl37.jpg',
     "Video Oyunları": 'https://wallpapercave.com/wp/wp8390395.jpg',
     "Bilgisayar Bilimleri": 'https://i.pinimg.com/originals/40/ce/e2/40cee2ae407de99af49bea4ff771bcff.jpg',
@@ -194,21 +194,28 @@ const QuizPage = () => {
     >
       <button
         onClick={handleBackToHome}
-        className='absolute top-4 right-4 p-2 bg-blue-500 text-white rounded'
+        className='text-xs absolute bottom-4 right-4 p-2 bg-orange-500 text-white rounded'
       >
-        Anasayfaya Dön
+        Anasayfa
       </button>
-      <div className='bg-white p-6 rounded-lg shadow-md max-w-3xl w-full'>
+
+      <div className='bg-white p-6 rounded-lg shadow-md max-w-3xl w-full mb-10'>
         <div className='text-xl font-semibold mb-6 text-center'>
           {currentQuestion.question || 'Loading question...'}
         </div>
-        <ul className='grid grid-cols-1 gap-4 w-full'>
+        <ul className='grid grid-cols-1 gap-4 w-full mb-4'>
           {answers.length > 0 ? (
             answers.map((answer, index) => (
               <li key={index} className='w-full'>
                 <button
-                  onClick={() => handleAnswer(index)}
-                  className={`w-full p-4 border rounded shadow bg-white transition-transform ${feedback && feedback.selectedIndex === index ? (answer.isCorrect ? 'bg-green-500 text-white' : 'bg-red-500 text-white') : ''}`}
+                  onClick={() => !isFeedbackVisible && handleAnswer(index)} // Prevent action if feedback is visible
+                  className={`w-full p-4 border-2 rounded shadow hover:bg-gray-200 bg-white transition-all duration-300 transform ${feedback && feedback.selectedIndex === index
+                    ? (answer.isCorrect ? 'border-green-500 scale-105' : 'border-red-500 animate-shake')
+                    : feedback && feedback.correctIndex === index
+                      ? 'border-green-500'
+                      : ''
+                    } ${isFeedbackVisible ? 'cursor-not-allowed opacity-50' : ''}`} // Style for disabled buttons
+                  disabled={isFeedbackVisible} // Disable buttons if feedback is visible
                 >
                   {answer.text}
                 </button>
@@ -218,26 +225,36 @@ const QuizPage = () => {
             <li className='w-full'>
               <button
                 onClick={handleSkip}
-                className='w-full p-4 border rounded shadow bg-gray-300 text-gray-700'
+                className='w-full p-4 border-2 rounded shadow bg-red-500 text-white cursor-not-allowed'
+                disabled
               >
-                Atla
+                Skip
               </button>
             </li>
           )}
         </ul>
+        {/* Container to center the "Atla" button */}
+        <div className='flex justify-center'>
+          <button
+            onClick={() => !isFeedbackVisible && handleSkip()} // Prevent action if feedback is visible
+            className={`w-1/2 h-10 bg-orange-500 text-white rounded shadow-lg hover:bg-red-900 transition-all duration-300 ${isFeedbackVisible ? 'cursor-not-allowed opacity-50' : ''}`}
+            disabled={isFeedbackVisible} // Disable button if feedback is visible
+          >
+            Atla
+          </button>
+        </div>
       </div>
-    
-      <div className='absolute bottom-4 text-white'>
-        <CountdownCircleTimer
-          isPlaying={!isGameOver}
-          duration={120}
-          colors={['#004777', '#F7B801', '#A30000', '#A30000']}
-          colorsTime={[7, 5, 2, 0]}
-                onComplete={() => setIsGameOver(true)}
-        >
-          {({ remainingTime }) => <div className='text-xl font-bold'>{remainingTime}</div>}
-        </CountdownCircleTimer>
-      </div>
+
+      <CountdownCircleTimer
+        isPlaying
+        duration={120}
+        size={80}
+        colors={['#00FF00', '#F7B801', '#FFA500', '#FF0000']}
+        colorsTime={[120, 90, 60, 30]}
+        onComplete={() => setIsGameOver(true)}
+      >
+        {({ remainingTime }) => <div className='text-2xl text-white'>{remainingTime}</div>}
+      </CountdownCircleTimer>
     </div>
   );
 };

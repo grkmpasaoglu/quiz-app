@@ -10,10 +10,8 @@ import { UserNameProvider } from './contexts/UserNameContext';
 const App = () => {
   return (
     <UserNameProvider>
-
       <Router>
         <Routes>
-
           <Route path="/" element={<HomePage />} />
           <Route path="/quiz/:category" element={<QuizPage />} />
           <Route path="/result" element={<ResultPage />} />
